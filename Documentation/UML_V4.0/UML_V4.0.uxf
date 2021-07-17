@@ -1,0 +1,230 @@
+<diagram program="umletino" version="14.3.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>90</x><y>50</y><w>240</w><h>170</h></coordinates><panel_attributes>*+BaseMap*
+--
+--
++MasterSiteMarkerList:List&lt;SiteMarker&gt;
+--
++MasterHeatMarkerList:List&lt;HeatMap&gt;
+--
++GenusSiteList:List&lt;SiteMarker&gt;
+--
++GenusList:List&lt;String&gt;
+--
++AllNames:List&lt;string&gt;
+--
++DB:DataAccess
+--
++Opacity:double</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>990</x><y>50</y><w>290</w><h>550</h></coordinates><panel_attributes>*+DataAccess*
+--
+--
++DistinctSites:List&lt;string&gt;
+--
+--
++DataAccess:DataAccess ()
+--
++GetConnectionString:string ()
+--
++FindDistinctSites:List&lt;String&gt; (List&lt;String&gt; csvList)
+--
++InsertAnimalMarker:void (string FileName)
+--
++InsertRespParticulates:void (string FileName)
+--
++RunNonQueries:void (string FileName)
+--
++DDL_Create:void (string FileName)
+--
++GetAllRespirable:List&lt;string&gt; ()
+--
++InsertRespParticulates:string (string Facility, Location Loc, int Year, double Emissions)
+--
++GetAllSites:List&lt;SiteMarker&gt; ()
+--
++AnimalsByMarkerAndGenus:List&lt;AnimalSightings&gt; (string GenusName, int SiteID)
+--
++SiteMarkerByGenus:List&lt;SiteMarker&gt; (string GenusName)
+--
++GetAllAnimals:List&lt;string&gt; ()
+--
++DeleteSiteByID:void (int ID)
+--
++SiteSightings:List&lt;AnimalSightings&gt; (int ID)
+--
++DeleteAnimalMarkerByID:void (int ID)
+--
++AnimalInfo:List&lt;AnimalSightings&gt;(string CommonName)
+--
++InsertNewAnimalMarker:string (bool InserChoice, double Lat, double Long, int SiteNumber, int Year, int Month, int Day, string SpeciesCode, string Genus, string Species, string CommonName)
+--
++UpdateAnimalMarker:string (bool InserChoice, int ID, double Lat, double Long, int SiteNumber, int AnimalID, int Year, int Month, int Day, string SpeciesCode, string Genus, string Species, string CommonName)
+--
++GetDistinctGenus:List&lt;string&gt; ()
+--
++DeleteSiteByID:void (int ID)
+--
++SetConnectionStringAndBuildDatabase:void (int i)
+--
++SetConnectionString:void (int i)
+--
++BuildDatabase:void ()
+--
++PathFinder:string (string file)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>400</x><y>50</y><w>250</w><h>130</h></coordinates><panel_attributes>*+Overlay:Location*
+--
+--
++BottomLeft:Location
+--
++TopRight:Location
+--
++ImagePath:String
+--
++Opacity:double
+--
+--
++Overlay:Overlay (Location B,  Location T, String S, double O)
+--</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>690</x><y>400</y><w>260</w><h>230</h></coordinates><panel_attributes>*+HabitatShape:GenusMarker*
+--
+--
++ShapePath:List&lt;GenusMarker&gt;
+--
++IsPolyline:bool
+--
++IsPolygon:bool
+--
++ID:int
+--
+(+get -set) FillColour:string
+--
+--
++SetColour:void (String)
+--
++GetLength (Double)
+-
++Shape:Shape ()
+--
++Shape:Shape (List&lt;GenusMarker&gt;, bool IsPolygon)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>390</x><y>200</y><w>260</w><h>330</h></coordinates><panel_attributes>*+AnimalSightings: Location*
+--
+--
++SiteNumber:int
+--
++DateYear:int
+--
++DateMonth:int
+--
++DateDay:int
+--
++SpeciesCode:string
+--
++Genus:string
+--
++Species:string
+--
++CommonName:string
+--
++ClosestEmissionID:int
+--
++SiteID:int
+-
+(+get -set)SiteLocation:Location
+--
+--
++AnimalSightings:AnimalSightings (string SpeciesCode, string Genus, string Species, string CommonName)
+--
++AnimalSightings:AnimalSightings (int AnimalID, string CommonName, string Genus, int SiteID, int SiteNumber, Location L)
+--
++AnimalSightings:AnimalSightings (int AnimalID, Location L, int SiteNumber, int DateYear, int DateMonth, int DateDay, string SpeciesCode, string Genus, string Species, string CommonName, int ClosestEmissionID)
+--
++AnimalSightings:AnimalSightings (int AnimalID, string CommonName, string Genus, string SpeciesCode, int DateYear, int DateMonth, int DateDay, int SiteID, int SiteNumber, Location L)
+--</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>0</x><y>0</y><w>230</w><h>70</h></coordinates><panel_attributes>**Project Radagast UML Version 3.0**
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>83</x><y>250</y><w>250</w><h>210</h></coordinates><panel_attributes>*+Heatmap:Location*
+--
+--
+(+get -set) ID:int
+--
+(+get -set) FacilityName:string
+--
+(+get -set) Loc:Location
+--
+(+get -set) Year:int
+--
+(+get -set) Month:int
+--
+(+get -set) Day:int
+--
+(+get -set) Emissions:double
+--
++ Weight:double
+--
+--
+ +HeatMap:Heatmap(int Id, string FN, Location L, int Y, double E)
+--</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>100</x><y>450</y><w>30</w><h>30</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>390</x><y>560</y><w>260</w><h>90</h></coordinates><panel_attributes>*+Location*
+--
+--
+(+get -set) Latitude: double
+--
+(+get - set) Longitude: double
+--
+--
++Location:Location (double Lat, double Long)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>80</x><y>470</y><w>250</w><h>230</h></coordinates><panel_attributes>*+SiteMarker*
+--
+--
+(+get -set) SiteID:int
+--
+(+get -set) SiteNumber:int
+--
+(+get -set) SiteLocation:Location
+--
+(+get -set) Genus:string
+--
+(+get -set) Sightings:List&lt;AnimalSightings&gt;
+--
+(+get -set) GenusMarkings:List&lt;GenusMarker&gt;
+--
+--
++SiteMarker:SiteMarker (int ID, int S, Location L)
+--
++SiteMarker:SiteMarker (int ID, int S, Location L, string G)
+--
++SiteMarker:SiteMarker (int ID, int S, Location L, List&lt;AnimalSightings&gt; AS)
+--
++SiteMarker:SiteMarker (int ID, int S, Location L, List&lt;GenusMarker&gt; GM)
+--
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>690</x><y>50</y><w>260</w><h>270</h></coordinates><panel_attributes>*+GenusMarker: Location*
+--
+--
+(+get -set) RareAnimalID:int
+--
+(+get -set) SiteNumber:int
+--
+(+get -set) SiteLocation:Location
+--
+(+get -set) DateYear:int
+--
+(+get -set) DateMonth:int
+--
+(+get -set) DateDay:int
+--
+(+get -set) SpeciesCode:string
+--
+(+get -set) Genus:string
+--
+(+get -set) Species:string
+--
+(+get -set) CommonName:string
+--
+(+get -set) SiteID:int
+--
+--
++ GenusMarker:GenusMarker (int ID, Location L, int S, int DY, int DM, int DD, string SC, string G, string SP, string CN, int SI)
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>20</x><y>90</y><w>90</w><h>50</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+m1=0...1
+</panel_attributes><additional_attributes>70;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>19</x><y>100</y><w>30</w><h>200</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;180</additional_attributes></element><element><id>Relation</id><coordinates><x>19</x><y>290</y><w>80</w><h>40</h></coordinates><panel_attributes>m2=0...*</panel_attributes><additional_attributes>60;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>19</x><y>270</y><w>30</w><h>230</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;210;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>19</x><y>470</y><w>80</w><h>40</h></coordinates><panel_attributes>m2=0...*</panel_attributes><additional_attributes>10;10;60;10</additional_attributes></element><element><id>Relation</id><coordinates><x>20</x><y>210</y><w>360</w><h>40</h></coordinates><panel_attributes>lt=-
+</panel_attributes><additional_attributes>10;20;340;20</additional_attributes></element><element><id>Relation</id><coordinates><x>410</x><y>520</y><w>30</w><h>60</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>10;40;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>340</x><y>140</y><w>80</w><h>30</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;60;10</additional_attributes></element><element><id>Relation</id><coordinates><x>340</x><y>600</y><w>70</w><h>30</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>50;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>660</x><y>70</y><w>50</w><h>30</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;30;10</additional_attributes></element><element><id>Relation</id><coordinates><x>660</x><y>70</y><w>30</w><h>560</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;540;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>640</x><y>600</y><w>50</w><h>30</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>10;10;30;10</additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>620</y><w>90</w><h>30</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>70;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>10</x><y>330</y><w>90</w><h>30</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;70;10</additional_attributes></element><element><id>Relation</id><coordinates><x>9</x><y>330</y><w>30</w><h>400</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;380;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>9</x><y>700</y><w>430</w><h>30</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>410;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>409</x><y>640</y><w>30</w><h>90</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>10;10;10;70</additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>500</y><w>90</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;70;10</additional_attributes></element><element><id>Relation</id><coordinates><x>1020</x><y>10</y><w>30</w><h>60</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;40;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>470</y><w>80</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;60;10</additional_attributes></element><element><id>Relation</id><coordinates><x>370</x><y>170</y><w>340</w><h>40</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;20;320;20</additional_attributes></element><element><id>Relation</id><coordinates><x>370</x><y>180</y><w>30</w><h>320</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;300</additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>10</y><w>30</w><h>60</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;40;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>0</y><w>800</w><h>50</h></coordinates><panel_attributes>m1=1...1
+m2=1...1
+</panel_attributes><additional_attributes>10;20;780;20</additional_attributes></element><element><id>Relation</id><coordinates><x>340</x><y>140</y><w>30</w><h>490</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;470;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>810</x><y>310</y><w>50</w><h>110</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+m1=0...*
+m2=0...1
+</panel_attributes><additional_attributes>10;90;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>150</y><w>70</w><h>50</h></coordinates><panel_attributes>lt=-
+m2=0...*
+</panel_attributes><additional_attributes>10;20;50;20</additional_attributes></element><element><id>Relation</id><coordinates><x>349</x><y>160</y><w>30</w><h>90</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;70</additional_attributes></element></diagram>

@@ -1,0 +1,1505 @@
+NPRI_ID,Facility_name,Company_name,Address,City,Province,PostalCode,Latitude,Longitude,Emissions,Units,Report_year
+6850,Camrose Batch Plant,Border Paving Ltd.,4217 41st Street,Camrose,Alberta,T4V3V8,53,-112.8,0.21,Tonnes (t),2017
+21956,Cadomin Quarry,Lehigh Hanson Materials Ltd.,10 PO Box,Cadomin,Alberta,T0E0E0,53,-117.32,2.52,Tonnes (t),2017
+23891,Pbn Hz 12-29-46-5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53,-114.67,-,Tonnes (t),2017
+23901,Pbn Pembina Hz 5-31-46-5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53,-114.7,-,Tonnes (t),2017
+24666,Pbn et Al Minhik 13-32-46-5,Petrobakken Energy Ltd.,,N/A,Alberta,,53,-114.69,-,Tonnes (t),2017
+24674,Pbn Hz 15-32-46-5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53,-114.68,-,Tonnes (t),2017
+24691,Pbn 9-25-46-5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53,-115.75,-,Tonnes (t),2017
+29410,Mark Pembina 02-35-046-02w5,Inplay Oil Corp.,,Mark Pembina,Alberta,,53,-114.18,-,Tonnes (t),2017
+15742,Encal Columbia 16-33-46-16w5,Taqa North Ltd.,,Columbia,Alberta,,53.01,-116.25,-,Tonnes (t),2017
+22390,Archer Bruce,Sequoia Resources Corp.,,,Alberta,,53.01,-112.19,-,Tonnes (t),2017
+24669,Pbn Hz Minhik 13-34-46-5 Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.01,-114.62,-,Tonnes (t),2017
+28252,Wildmere 14-32-046-04w4 Pad,Harvest Operations Corp.,,N/A,Alberta,,53.01,-110.55,-,Tonnes (t),2017
+4008,Shaw Pipe Protection - Camrose 54st,Shawcor,5410 39th Street,Camrose,Alberta,T4V4E7,53.02,-112.81,3.14,Tonnes (t),2017
+16101,Brazeau Trd,Tervita Corp.,,Brazeau,Alberta,,53.02,-115.53,-,Tonnes (t),2017
+17136,Cargill Animal Nutrition,Cargill Animal Nutrition,0,Camrose,Alberta,T4V1X2,53.02,-112.94,74.08,Tonnes (t),2017
+23192,Shaw Pipe Protection Ltd - Camrose 39st,Shawcor,5117 39th Street,Camrose,Alberta,T4V4B4,53.02,-112.8,5.15,Tonnes (t),2017
+24639,Pbn 5-3-47-5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.02,-114.63,-,Tonnes (t),2017
+25140,Buck Creek Trd,Tervita Corp.,,Buck Creek,Alberta,,53.02,-114.85,-,Tonnes (t),2017
+27784,Camrose Tubulars,Canadian National Steel Corporation,5302 39th Street,Camrose,Alberta,T4V 2N8,53.02,-112.8,23.01,Tonnes (t),2017
+4152,West Pembina Gp,Keyera Corp,,Drayton Valley,Alberta,,53.03,-115.95,0.74,Tonnes (t),2017
+6942,Irma Compressor Station,Alliance Pipeline Ltd.,,Irma,Alberta,T0B2H0,53.03,-111.22,-,Tonnes (t),2017
+15676,Vernon Lake Sweet Gas Plant,Pine Cliff Energy Ltd.,,,Alberta,,53.03,-111.4,-,Tonnes (t),2017
+16826,Countess 10-04-021-16w4,Journey Energy Inc.,,,Alberta, ,53.03,-114.37,-,Tonnes (t),2017
+21840,Pembina Blue Rapids 04-08-047-09w5,Taqa North Ltd.,,Blue Rapids,Alberta,,53.03,-115.29,0.66,Tonnes (t),2017
+24642,Pbn Hz 8-12-47-2 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.03,-114.17,-,Tonnes (t),2017
+24658,Pbn 13-4-47-5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.03,-114.65,-,Tonnes (t),2017
+27128,Amoco Pembina Oil Battery 11-08,ARC Resources,N/A,N/A,Alberta,N/A,53.03,-115.13,-,Tonnes (t),2017
+27775,Torc Hz Brazr Swb 09-32-046-12w5,Torc Oil & Gas Inc.,,N/A,Alberta,,53.03,-115.7,-,Tonnes (t),2017
+28160,Brazeau Gas Battery 16-02,Sinopec Canada,,N/A,Alberta,,53.03,-115.63,-,Tonnes (t),2017
+29922,Naptha Pembina 16-03-047-03 W5m,Inplay Oil Corp.,,Naptha Pembina,Alberta,,53.03,-114.34,0.52,Tonnes (t),2017
+424,Bonnie Glen Gas Plant,Imperial Oil,04-17-047-27 W4m RR #2,Thorsby,Alberta,T0C2P0,53.04,-113.92,-,Tonnes (t),2017
+22988,Brazeau Compressor Station 15-09-047-14w5,Keyera Corp,N/A,N/A,Alberta,N/A,53.04,-115.98,-,Tonnes (t),2017
+23897,Pbn Hz Pembina 16-11-47-2 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.04,-114.19,-,Tonnes (t),2017
+23899,Pbn Pembina Hz 02/16-10-47-2 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.04,-114.22,-,Tonnes (t),2017
+24660,Pbn 13-9-47-5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.04,-114.65,-,Tonnes (t),2017
+24684,Pbn Hz Pembina 16-12-47-2w5m Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.04,-114.17,-,Tonnes (t),2017
+26033,Brazeau Comp Stn 15-09,Sinopec Canada,N/A,N/A,Alberta,N/A,53.04,-115.54,-,Tonnes (t),2017
+27379,Lts Pembina 8-12-47-5w5,Lightstream Resources Ltd.,,N/A,Alberta,,53.04,-114.61,-,Tonnes (t),2017
+27652,Giltedge Oil Battery 04-14,Enerplus Corporation,,N/A,Alberta,,53.04,-110.63,-,Tonnes (t),2017
+22427,Pembina Sweet Gas Plant 10-15,Penn West Petroleum Ltd.,N/A,N/A,Alberta,N/A,53.05,-114.93,-,Tonnes (t),2017
+23026,Camrose 01-14 Battery,Nexen Inc.,13-14-047-19-W4,Wetaskiwin,Alberta,,53.05,-112.68,-,Tonnes (t),2017
+24640,Pbn 5-17-47-5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.05,-114.68,-,Tonnes (t),2017
+24687,Pbn 16-17-47-5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.05,-114.71,-,Tonnes (t),2017
+6895,Cardinal River Operations,Teck Coal Limited,Highway 40 South,Hinton,Alberta,T7V1V5,53.06,-117.4,1059.97,Tonnes (t),2017
+16802,Wildmere Sweet Gas Plant 05-24,Enerplus Corporation,N/A,N/A,Alberta,N/A,53.06,-110.6,0.59,Tonnes (t),2017
+17603,Hanlan 6-21 Dehy,Canlin Energy Corporation,,N/A,Alberta,,53.06,-116.43,-,Tonnes (t),2017
+22010,Pembina Compressor 05-21-047-10w5,Baytex Energy Ltd,,Pembina,Alberta,,53.06,-115.41,-,Tonnes (t),2017
+23886,Bonavista Hz Pembina 5-20-47-5,Petrobakken Energy Ltd.,,N/A,Alberta,,53.06,-114.67,-,Tonnes (t),2017
+24641,Pbn 102/05-19-047-05w5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.06,-114.7,-,Tonnes (t),2017
+25453,Pbn 5-21-47-5w5 Oil Multipad,Petrobakken Energy Ltd.,,N/A,Alberta,,53.06,-114.68,-,Tonnes (t),2017
+28926,Braz Single Well Gas Battery 01-23,Sinopec Canada,N/A,N/A,Alberta,N/A,53.06,-115.63,-,Tonnes (t),2017
+29893,Encor Pembina 05-19,Inplay Oil Corp.,,Encor Pembina,Alberta,,53.06,-114.87,0.7,Tonnes (t),2017
+15555,Brazeau Cs 06-27-047-14w5,Boulder Energy Ltd.,,Cynthia,Alberta,,53.07,-115.97,0.99,Tonnes (t),2017
+16769,Wainwright West Oil Battery 01-30,Cenovus Energy Inc.,01-30-047-09-W4,N/A,Alberta,,53.07,-111.29,-,Tonnes (t),2017
+24043,Pembina Oil Battery 01-28,NuVista Energy Ltd.,N/A,N/A,Alberta,N/A,53.07,-114.66,-,Tonnes (t),2017
+24581,Sifton Hz Pembina 16-20-47-5w5,Penn West Petroleum Ltd.,,N/A,Alberta,,53.07,-114.71,-,Tonnes (t),2017
+27378,Lts Pembina 08-24-47-2w5,Ridgeback Resources Inc.,,N/A,Alberta,,53.07,-114.18,-,Tonnes (t),2017
+27509,Brazeau Comp Stn 04-29,Sinopec Canada,,N/A,Alberta,,53.07,-115.58,-,Tonnes (t),2017
+1585,Coal Valley Mine,Coal Valley Resources Inc.,47319 - Hwy 40 Highway East,Edson,Alberta,T7E1W1,53.08,-116.8,962.66,Tonnes (t),2017
+24071,West Oil Battery 13-28,Sinopec Canada,,N/A,Alberta,,53.08,-114.68,-,Tonnes (t),2017
+24646,Pbn Hz Pembina 1-25-47-11 Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.08,-115.48,-,Tonnes (t),2017
+27371,Braz 08-26-047-11w5 Mwob,Lightstream Resources Ltd.,,N/A,Alberta,,53.08,-115.48,-,Tonnes (t),2017
+27510,Brazeau Multi Well Battery 10-30,Sinopec Canada,,N/A,Alberta,,53.08,-115.59,-,Tonnes (t),2017
+27565,Pembina Swb 13-27,Encana Corporation,,N/A,Alberta,,53.08,-114.36,-,Tonnes (t),2017
+27566,Pembina Swb 14-27,Encana Corporation,,N/A,Alberta,,53.08,-114.35,-,Tonnes (t),2017
+27567,Pembina Swb 16-26,Encana Corporation,,N/A,Alberta,,53.08,-114.32,-,Tonnes (t),2017
+27664,Norcen Pembina Oil Battery 13-25,ARC Resources,N/A,N/A,Alberta,N/A,53.08,-115.04,-,Tonnes (t),2017
+28290,Fairborne Brazeau River 6-27,Canadian Natural Resources Limited,,N/A,Alberta,,53.08,-115.96,-,Tonnes (t),2017
+29595,Violet Grove Gas Plant 16-26,ARC Resources,N/A,N/A,Alberta,N/A,53.08,-115.05,-,Tonnes (t),2017
+6626,Viking Sweet Gas Plant,Pine Cliff Energy Ltd.,,,Alberta,,53.09,-111.76,2.17,Tonnes (t),2017
+17484,Pembalta #7 Sour Gas Plant 04-34,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,53.09,-115.24,1.72,Tonnes (t),2017
+24072,West Oil Battery 13-36,Sinopec Daylight Energy Ltd.,,N/A,Alberta,,53.09,-114.31,-,Tonnes (t),2017
+25067,Cargill Aghorizons,Cargill Limited,36 Highway,Viking,Alberta,T0B 4N0,53.09,-111.77,12.84,Tonnes (t),2017
+28162,Brazeau Gas Battery 03-36,Sinopec Canada,,N/A,Alberta,,53.09,-115.62,-,Tonnes (t),2017
+29412,Pembina 04-33-047-05w5,Inplay Oil Corp.,,Pembina,Alberta,,53.09,-114.68,-,Tonnes (t),2017
+29654,Rivercourse Oil Battery 02-36-047-01w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.09,-110.01,0.57,Tonnes (t),2017
+15626,Lodgepole Sweet Gas Plant,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,53.1,-115.36,-,Tonnes (t),2017
+22757,Manitok Lovett 2-6 Ggs,Petrus Resources Ltd.,,N/A,Alberta,,53.1,-116.76,-,Tonnes (t),2017
+23893,Pbn Hz 4-3-48-11 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.1,-115.5,-,Tonnes (t),2017
+24590,Pbn 100/01-02-048-11w5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.1,-115.51,-,Tonnes (t),2017
+27919,Norbuck Oil Battery 03-02,Bellatrix Exploration Ltd.,N/A,N/A,Alberta,N/A,53.1,-114.62,-,Tonnes (t),2017
+17501,Pembalta Area 5 Gas Transfer 7-2-48-8w5,Penn West Energy Trust,07-02-048-08w5,N/A,Alberta,,53.11,-115.05,-,Tonnes (t),2017
+24330,Pembina Oil Battery 16-02,Bellatrix Exploration Ltd.,N/A,N/A,Alberta,N/A,53.11,-115.48,-,Tonnes (t),2017
+24428,Brazeau Oil Battery 06-05,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,53.11,-116.01,-,Tonnes (t),2017
+24539,Pembina Oil Battery 16-04,NuVista Energy Ltd.,,N/A,Alberta,,53.11,-114.22,-,Tonnes (t),2017
+24677,Pbn 102/16-06-048-03w5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.11,-114.44,-,Tonnes (t),2017
+24678,Pbn Hz 16-2-48-11 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.11,-115.51,-,Tonnes (t),2017
+27926,Wolf Lake Dw 09-01,Tervita Corp.,,Cynthia,Alberta,T0E0K0,53.11,-115.9,-,Tonnes (t),2017
+28163,Pembina Oil Battery 15-04,Enerplus Corporation,N/A,N/A,Alberta,N/A,53.11,-114.96,-,Tonnes (t),2017
+16770,Wainwright East Ob 11-12-48-08w4,Cardinal Energy Ltd.,,Wainwright,Alberta,T0B 1B0,53.12,-111.04,0.89,Tonnes (t),2017
+19704,Penn West 09-11-048-09w5,Penn West Energy Trust,09-11-048-09w5,N/A,Alberta,,53.12,-115.19,-,Tonnes (t),2017
+24572,Penn West Oil Battery 09-11,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,53.12,-115.19,-,Tonnes (t),2017
+24650,Pbn Mwb 09-11-048-11w5,Lightstream Resources Ltd.,,N/A,Alberta,,53.12,-115.49,-,Tonnes (t),2017
+24696,Brazeau Oil Battery 05-11,Sinopec Canada,,N/A,Alberta,,53.12,-115.48,-,Tonnes (t),2017
+26305,Brazeau River 02-07 Wellsite,Vermilion Energy Inc.,,Township 048,Alberta,,53.12,-116.03,-,Tonnes (t),2017
+29411,Pembina 04-10-048-05w5,Inplay Oil Corp.,,Pembina,Alberta,,53.12,-114.65,-,Tonnes (t),2017
+15445,Atco Watelet 8-18,Direct Energy Marketing Ltd.,,N/A,Alberta,,53.13,-113.79,-,Tonnes (t),2017
+19169,Viking Kinsella 11-16,Enercapita Energy Ltd.,600 - 435 4th Avenue Southwest,Calgary,Alberta,T2P3A8,53.13,-111.85,-,Tonnes (t),2017
+19193,Pembina Sweet Gas Plant 06-15,Sinopec Canada,N/A,N/A,Alberta,N/A,53.13,-114.35,-,Tonnes (t),2017
+23890,Pbn Hz 12-15-48-11 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.13,-115.51,-,Tonnes (t),2017
+23964,Peco Gas Battery 14-07,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,53.13,-116.18,-,Tonnes (t),2017
+24016,Pembina Oil Battery 14-09,NuVista Energy Ltd.,N/A,N/A,Alberta,N/A,53.13,-115.55,-,Tonnes (t),2017
+24068,West Oil Battery 04-16,Daylight Energy Ltd.,04-16-048-05w5,N/A,Alberta,,53.13,-114.68,-,Tonnes (t),2017
+24069,West Oil Battery 13-02,Sinopec Canada,N/A,N/A,Alberta,N/A,53.13,-114.68,-,Tonnes (t),2017
+24322,Mobil Pembina Oil Battery 13-09,ARC Resources,N/A,N/A,Alberta,N/A,53.13,-115.11,-,Tonnes (t),2017
+24628,Pembina Ggs 04-18-48-10 W5,Ridgeback Resources Inc.,N/A,N/A,Alberta,N/A,53.13,-115.45,-,Tonnes (t),2017
+27222,Kinsella 3-15-48-8w4,Canadian Natural Resources Limited,,N/A,Alberta,,53.13,-111.09,-,Tonnes (t),2017
+16768,Wainwright 4-24-48-09w4,Cardinal Energy Ltd.,,Mannville,Alberta,T0B 2W0,53.14,-111.19,0.75,Tonnes (t),2017
+23800,Pembina Oil Battery 04-19,Sinopec Daylight Energy Ltd.,,N/A,Alberta,,53.14,-114.73,-,Tonnes (t),2017
+24661,Pbn Westpem 102/16-14-48-11 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.14,-115.5,-,Tonnes (t),2017
+24663,Pbn Pembina Mwb 13-18-048-10w5,Petrobakken Energy Ltd.,,N/A,Alberta,,53.14,-115.45,-,Tonnes (t),2017
+25171,Pembina 16-15-048-08w5,Baytex Energy Ltd,,Pembina,Alberta,,53.14,-115.07,-,Tonnes (t),2017
+27277,Rivercourse 14-16-048-06w4,Canadian Natural Resources Limited,,N/A,Alberta,,53.14,-110.82,-,Tonnes (t),2017
+27278,Rivercourse 15-16-048-06w4,Canadian Natural Resources Limited,,N/A,Alberta,,53.14,-110.82,-,Tonnes (t),2017
+27374,Epem 02/12-17-048-04w5 Mwob,Lightstream Resources Ltd.,,N/A,Alberta,,53.14,-114.55,-,Tonnes (t),2017
+29404,Kingsmere 13-15-048-27w4,Inplay Oil Corp.,,Kingsmere,Alberta,,53.14,-113.87,2.66,Tonnes (t),2017
+15170,Holden Gas Battery 09-19,Tidewater Midstream and Infrastructure Ltd.,,N/A,Alberta,,53.15,-112.32,-,Tonnes (t),2017
+15598,Buck Creek Frac Plant,Plains Midstream Canada,,Drayton Valley,Alberta,T7A1R2,53.15,-114.9,1.49,Tonnes (t),2017
+23730,Cork Peco 00/02-21-048-15w5/02,Perpetual Energy Inc.,,N/A,Alberta,,53.15,-116.13,-,Tonnes (t),2017
+24432,Brazeau River Oil Battery 10-23,ConocoPhillips Canada Resources Corp.,N/A,N/A,Alberta,N/A,53.15,-115.93,-,Tonnes (t),2017
+17606,Pc Mountain 2-28,Direct Energy Marketing Ltd.,N/A,N/A,Alberta,N/A,53.16,-117.01,-,Tonnes (t),2017
+24634,Pben 04-25-048-11w5 Mwb,Lightstream Resources Ltd.,N/A,N/A,Alberta,,53.16,-115.48,-,Tonnes (t),2017
+27399,Pbn Pembina 4-26-48-12w5,Lightstream Resources Ltd.,,N/A,Alberta,,53.16,-115.63,-,Tonnes (t),2017
+28068,Bellatrix Sw Oil Battery 16-20,Bellatrix Exploration Ltd.,,N/A,Alberta,,53.16,-115.56,-,Tonnes (t),2017
+28107,Wildmere Bitumen Battery 06-30,Crew Energy Inc.,N/A,N/A,Alberta,N/A,53.16,-110.72,-,Tonnes (t),2017
+17518,Pembalta Gas Plant 09-25,ARC Resources,N/A,N/A,Alberta,N/A,53.17,-114.88,-,Tonnes (t),2017
+17562,Pembalta Gas Plant 09-25,ARC Resources,N/A,N/A,Alberta,N/A,53.17,-114.88,2.5,Tonnes (t),2017
+17903,Mannville Pembina 14-29,Taqa North Ltd.,,Pembina/E. Pembina,Alberta,,53.17,-114.55,-,Tonnes (t),2017
+19947,Violet Grove Comp Stn 16-29,Sinopec Canada,N/A,N/A,Alberta,N/A,53.17,-115.27,-,Tonnes (t),2017
+22335,Pembina 12-25-48-11w5,Harvest Operations Corp.,16-26-048-11w5,N/A,Alberta,,53.17,-115.49,-,Tonnes (t),2017
+24327,Pembina Oil Battery 10-28 - Abbt0112934,Bellatrix Exploration Ltd.,,N/A,Alberta,,53.17,-115.1,-,Tonnes (t),2017
+24637,Pbn Pembina 04-30-48-10w5 Oil Swb,Lightstream Resources Ltd.,,N/A,Alberta,,53.17,-115.45,-,Tonnes (t),2017
+24667,Pbn Hz Pembina 13-31-48-10 Swb,Lightstream Resources Ltd.,,N/A,Alberta,,53.17,-115.45,-,Tonnes (t),2017
+27396,Pbn Hz Pembina 9-25-48-12w5,Lightstream Resources Ltd.,,N/A,Alberta,,53.17,-115.63,-,Tonnes (t),2017
+3749,Brazeau Gas Plant,Tidewater Midstream and Infrastructure Ltd.,,Drayton Valley,Alberta,,53.18,-115.76,3.22,Tonnes (t),2017
+16857,Brazeau River Sweet Gas Plant 16-35-048-12w5,Keyera Corp,N/A,N/A,Alberta,N/A,53.18,-115.64,-,Tonnes (t),2017
+16905,Pembina Oil Battery 06-32,ARC Resources,N/A,N/A,Alberta,N/A,53.18,-114.99,-,Tonnes (t),2017
+17489,Keystone Gas Plant 5-35-48-4w5,OMERS Energy Inc.,05-35-048-04-W5,N/A,Alberta,,53.18,-114.48,-,Tonnes (t),2017
+27404,Sceptre Pembina 8-35,Ridgeback Resources Inc.,,N/A,Alberta,,53.18,-115.49,0.51,Tonnes (t),2017
+27661,Lindale Oil Battery 09-34,ARC Resources,,N/A,Alberta,,53.18,-114.63,-,Tonnes (t),2017
+27948,Pembina 12-31-048-04 W5,Journey Energy Inc.,,,Alberta,,53.18,-114.58,-,Tonnes (t),2017
+28484,Vermilion 10-28 Single Well Battery,Vermilion Energy Inc.,,Township 048,Alberta,,53.18,-115.71,-,Tonnes (t),2017
+16138,Thorsby Gas Plant 05-04,Petrus Resources Ltd.,,N/A,Alberta,,53.19,-114.09,-,Tonnes (t),2017
+17936,Viking Kinsella 08-01,Enercapita Energy Ltd.,600 - 435 4th Avenue Southwest,Calgary,Alberta,T2P3A8,53.19,-111.91,-,Tonnes (t),2017
+19717,Ansell Compressor Station 03-06-049-18w5,Husky Oil Operations Limited,,Yellowhead County,Alberta,,53.19,-116.62,-,Tonnes (t),2017
+22419,Pembalta #8 Sour Gas Plant 05-05,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,53.19,-115.29,0.75,Tonnes (t),2017
+22646,Baytex Pembina 16-34-48-9w5,Baytex Energy Ltd,,Pembina,Alberta,,53.19,-115.22,1.36,Tonnes (t),2017
+23727,Cork Peco 16-36-48-15 W5/03,Perpetual Energy Inc.,,N/A,Alberta,,53.19,-116.05,-,Tonnes (t),2017
+24591,Pbn 2-33-48-11 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.19,-115.54,-,Tonnes (t),2017
+24593,Pbn Hz 1-5-49-11 Oil Swb,Lightstream Resources Ltd.,,N/A,Alberta,,53.19,-115.59,-,Tonnes (t),2017
+24617,Pbn Pembina 4-35-48-11 Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.19,-115.5,-,Tonnes (t),2017
+24618,Pbn 4-34-48-11 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.19,-115.53,-,Tonnes (t),2017
+24619,Pbn Hz Westpem 4-1-49-13 Swb,Lightstream Resources Ltd.,,N/A,Alberta,,53.19,-115.75,-,Tonnes (t),2017
+24668,Pben 13-31-050-12w5 Mwb,Lightstream Resources Ltd.,N/A,N/A,Alberta,,53.19,-115.46,-,Tonnes (t),2017
+26412,Drayton Valley Fst,Secure Energy Services Inc.,P.O. Box 6570,Drayton Valley,Alberta,T7A 1R9,53.19,-114.84,0.79,Tonnes (t),2017
+26416,Silverdale Fst,Secure Energy Services Inc.,Box 369,Lloydminister,Alberta,S9V 2V7,53.19,-114.65,-,Tonnes (t),2017
+3758,Hanlan Robb Gas Plant,Canlin Energy Corporation,,Edson,Alberta,T7E 1T8,53.2,-116.81,2.85,Tonnes (t),2017
+24596,Pben 01-10-049-12w5 Mwb,Lightstream Resources Ltd.,N/A,Calgary,Alberta,T2P 1G1,53.2,-115.66,-,Tonnes (t),2017
+24621,Pbn Hz Pembina 4-3-49-11,Petrobakken Energy Ltd.,,N/A,Alberta,,53.2,-115.52,-,Tonnes (t),2017
+24679,Pbn 102/16-5-49-11 Oil Swb,Lightstream Resources Ltd.,,N/A,Alberta,,53.2,-115.51,-,Tonnes (t),2017
+25131,Valley Power Lp,Valley Power LP,5302 34 Avenue,Drayton Valley,Alberta,T7A 1S3,53.2,-114.98,-,Tonnes (t),2017
+26599,Pbn Hz Pembina 12-2-49-12w5 Swb,Lightstream Resources Ltd.,,N/A,Alberta,,53.2,-115.63,-,Tonnes (t),2017
+26605,Pbn Pembina 02-12-49-12w5 Mwb Oil,Lightstream Resources Ltd.,,N/A,Alberta,,53.2,-115.61,-,Tonnes (t),2017
+15930,Minehead Compressor Station 10-12-049-18w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.21,-116.49,-,Tonnes (t),2017
+24597,Pbn 1-7-49-12 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.21,-115.75,-,Tonnes (t),2017
+24620,Pbn et Al Hz 04/05-12-49-12w5 Mwb,Lightstream Resources Ltd.,,N/A,Alberta,,53.21,-115.6,-,Tonnes (t),2017
+24683,Pbn 16-11-49-12 Oil Swb,Lightstream Resources Ltd.,,N/A,Alberta,,53.21,-115.66,-,Tonnes (t),2017
+26586,Pbn 15-10-049-12w5 Mwob,Lightstream Resources Ltd.,,N/A,Alberta,,53.21,-115.65,-,Tonnes (t),2017
+2760,Drayton Valley Sawmill,Weyerhaeuser Company Limited,22 Highway South,Drayton Valley,Alberta,T7A1S8,53.22,-114.98,3.35,Tonnes (t),2017
+16906,Pembalta Iv Sour Gas Plant 09-16,ARC Resources,N/A,N/A,Alberta,N/A,53.22,-115.1,-,Tonnes (t),2017
+19346,Lindale Oil Battery 15-09,ARC Resources,N/A,N/A,Alberta,N/A,53.22,-114.66,0.64,Tonnes (t),2017
+23869,Pembina Oil Well 04-13 - Abbt6850314,Bellatrix Exploration Ltd.,,N/A,Alberta,,53.22,-115.19,-,Tonnes (t),2017
+26606,Pbn Pembina 102/03-10-49-11w5,Petrobakken Energy Ltd.,,N/A,Alberta,,53.22,-115.52,-,Tonnes (t),2017
+23884,Berland Westpem 4-23-49-13w5m Ellers,Velvet Energy Ltd.,NEar Range Road 120 (14 Km Ese),Cynthia,Alberta,T0E 0K0,53.23,-115.8,-,Tonnes (t),2017
+24323,Berrymoor Oil Battery 15-15,ARC Resources,,N/A,Alberta,,53.23,-114.79,-,Tonnes (t),2017
+24629,Pbn 5-24-49-14 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.23,-115.89,-,Tonnes (t),2017
+24630,Pbn Westpem 4-19-49-12w5 Oil Swb,Lightstream Resources Ltd.,,N/A,Alberta,,53.23,-115.72,-,Tonnes (t),2017
+24631,Pbn 4-20-49-12 Hz Oil Swb,Lightstream Resources Ltd.,,N/A,Alberta,,53.23,-115.7,-,Tonnes (t),2017
+24633,Pbn et Al Hz 02/4/05-23-49-13w5 Mwb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.23,-115.77,-,Tonnes (t),2017
+28920,Sifton Modeste Oil Battery 16-18,ARC Resources,N/A,N/A,Alberta,N/A,53.23,-114.85,0.7,Tonnes (t),2017
+689,Pembina North Gas Plant,Keyera Corp,,Drayton Valley,Alberta,T0E0M0,53.24,-115.67,1.73,Tonnes (t),2017
+6789,Wolf Lake,TransCanada Pipelines Ltd.,,N/A,Alberta,,53.24,-116.23,-,Tonnes (t),2017
+23003,Midwest Leduc 07-23,NEP Canada ULC,,Leduc,Alberta,,53.24,-113.83,0.83,Tonnes (t),2017
+23567,West Pembina 13-22,Whitecap Resources Inc.,,N/A,Alberta,,53.24,-115.38,-,Tonnes (t),2017
+23892,Pbn Hz 13-23-49-13 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.24,-115.77,-,Tonnes (t),2017
+24664,Pbn Hz Westpem 13-24-49-14,Lightstream Resources Ltd.,,N/A,Alberta,,53.24,-115.89,-,Tonnes (t),2017
+27663,Murphy Pembina Oil Battery 16-24,ARC Resources,,N/A,Alberta,,53.24,-114.88,-,Tonnes (t),2017
+16799,Joarcam Sweet Gas Plant 06-29,Enerplus Corporation,N/A,N/A,Alberta,N/A,53.25,-113.04,-,Tonnes (t),2017
+17487,Pembina Sweet Gas Plant 09-17,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,53.25,-114.43,0.65,Tonnes (t),2017
+22455,Genesee 05-30-049-03 W5,Journey Energy Inc.,,,Alberta,,53.25,-114.43,0.94,Tonnes (t),2017
+22570,Imperial Pembina Bty #1 3-28,Imperial Oil,03-28-049-11w5,N/A,Alberta,,53.25,-115.55,-,Tonnes (t),2017
+23463,Pembina Oil Battery 04-27,Crescent Point Resources Partnership,04-27-049-10w5,N/A,Alberta,,53.25,-115.38,-,Tonnes (t),2017
+28621,Cynthia Gp & Bty,Keyera Corp,,Cynthia,Alberta,,53.25,-115.55,0.68,Tonnes (t),2017
+28774,Basing 06-27-049-21-W5,Tourmaline Oil Corp,,Hinton,Alberta,,53.25,-116.99,2.21,Tonnes (t),2017
+29132,Velvet 102 Hz Pembina 09-30-049-12 W5,Velvet Energy Ltd.,*Near* Range Road 120,Brazeau County,Alberta,T0E 0K0,53.25,-115.73,-,Tonnes (t),2017
+24604,Pbn Pembina 02/01-34-29-12w5 Mwb,Lightstream Resources Ltd.,,N/A,Alberta,,53.26,-115.66,-,Tonnes (t),2017
+24665,Pben 13-28-049-12w5 Mwb,Lightstream Resources Ltd.,N/A,N/A,Alberta,,53.26,-115.7,-,Tonnes (t),2017
+24690,Pbn et Al Hz 16-30-49-12w5 Oil Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.26,-115.75,-,Tonnes (t),2017
+26608,Pembina 01-35-049-12w5 Mwb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.26,-115.63,-,Tonnes (t),2017
+26609,Pembina 13-30-49-11 W5 Mwb,Lightstream Resources Ltd.,,N/A,Alberta,,53.26,-115.6,-,Tonnes (t),2017
+28477,Vermilion 04-35 Single Well Battery,Vermilion Energy Inc.,,Township 049,Alberta,,53.26,-115.77,-,Tonnes (t),2017
+17921,Berrymoor Sour Gas Plant 11-31,ARC Resources,N/A,N/A,Alberta,N/A,53.27,-114.72,1.32,Tonnes (t),2017
+17935,Birch Lake 04-05-050-11w4m,Sequoia Resources Corp.,,,Alberta,,53.27,-111.58,-,Tonnes (t),2017
+28104,Caltex Bitumen Battery 15-34,Crew Energy Inc.,,N/A,Alberta,,53.27,-110.2,-,Tonnes (t),2017
+403,Lloydminster Refinery,Husky Oil Operations Limited,5650 52nd Street,Lloydminster,Alberta,T9V0R7,53.28,-110.01,1.41,Tonnes (t),2017
+4591,Adm Agri-Industries - Adm Lloydminster,Adm Agri-Industies Company,4805 62 Avenue,Lloydminster,Alberta,T9V 2B3,53.28,-110.03,30.41,Tonnes (t),2017
+24142,Gas Test Bty 07-03-050-19w5,Husky Oil Operations Limited,,Yellowhead County,Alberta,,53.28,-116.69,6.06,Tonnes (t),2017
+24615,Pbn 4-36-49-12 Oil Swb,Lightstream Resources Ltd.,,N/A,Alberta,,53.28,-115.62,-,Tonnes (t),2017
+18170,West Pembina Battery and Compressor,Vermilion Energy Inc.,,Township 050,Alberta,,53.29,-115.83,1.56,Tonnes (t),2017
+24623,Pbn Pembina Mwb 04-12-050-12w5,Lightstream Resources Ltd.,,N/A,Alberta,,53.29,-115.63,-,Tonnes (t),2017
+27147,Pembina Hz 14-7-50-5w5 Swb,Sanling Energy Ltd.,,N/A,Alberta,,53.29,-114.72,-,Tonnes (t),2017
+28919,Pembina Oil Battery 14-02,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,53.29,-115.35,0.6,Tonnes (t),2017
+29723,Bec Ansell 04-12-050-18w5 Pad,Bonavista Energy Corporation,,Ansell,Alberta, ,53.29,-116.5,0.68,Tonnes (t),2017
+5410,Edmonton International Airport,Servisair Inc.,5th Avenue,Edmonton,Alberta,T5J2T2,53.3,-113.58,-,Tonnes (t),2017
+18176,West Pembina 16-09 Single Wellsite,Vermilion Energy Inc.,,Township 050,Alberta,,53.3,-115.69,-,Tonnes (t),2017
+21232,Edmonton International Airport,Edmonton Regional Airport Authority,1 - 1000 Airport Road,Edmonton International Airpor,Alberta,T9E 0V3,53.3,-113.58,12.35,Tonnes (t),2017
+23256,Lloydminster Inspection,Tuboscope Vetco Canada Ulc,Lot #4 Hwy 16w County Park Road Nw,Lloydminster,Alberta,T9V 2Z9,53.3,-110.1,3.48,Tonnes (t),2017
+24670,Pbn Pembina 14-12-50-13w5 Mwb Oil,Petrobakken Energy Ltd.,,N/A,Alberta,,53.3,-115.77,-,Tonnes (t),2017
+24680,Pbn et Al Hz 9-9/16-9-50-9w5 Mwb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.3,-115.27,-,Tonnes (t),2017
+25278,Leduc Asphalt Plant,Standard General Inc.,3901 82 Avenue,Leduc,Alberta,T9E 8M3,53.3,-113.52,-,Tonnes (t),2017
+25300,Banshee 15-12-050-21 W5,Tourmaline Oil Corp,Mitchell Creek Road,Yellowhead County,Alberta,,53.3,-116.93,0.59,Tonnes (t),2017
+22436,Pembina Lob 09-17-050-07w5,Husky Oil Operations Limited,,Rocky Rapids,Alberta,,53.31,-114.98,-,Tonnes (t),2017
+22997,Lafarge Canada Inc. Greater Edmonton Berrymoor Aggregates,Lafarge North America,Lafarge Canada Inc. Greater Edmonton B,Brazeau County,Alberta,,53.31,-114.75,17.32,Tonnes (t),2017
+26418,Pembina Landfill,Secure Energy Services Inc.,PO Box 6478,Drayton Valley,Alberta,T7A 1R9,53.31,-115.58,0.56,Tonnes (t),2017
+29964,Woodbend 09-16-050-26 W4m,NEP Canada ULC,,Leduc,Alberta,,53.31,-113.73,1.15,Tonnes (t),2017
+21778,Genesee Mine,Prairie Mines & Royality Ulc,50455 Highway 770 Highway,Warburg,Alberta,T0C2T0,53.32,-114.29,235.22,Tonnes (t),2017
+22652,Passage Vermilion 2-21,Bonavista Petroleum Ltd.,02-21-050-05w4,N/A,Alberta,,53.32,-110.67,-,Tonnes (t),2017
+24551,Big Valley Pembina 02-24,Penn West Petroleum Ltd.,,N/A,Alberta,,53.32,-115.62,-,Tonnes (t),2017
+24560,Sifton Hz Pembina 4-18-50-5w5,Penn West Petroleum Ltd.,,N/A,Alberta,,53.32,-114.72,-,Tonnes (t),2017
+24632,Pbn Mwb 04-23-050-12w5,Lightstream Resources Ltd.,,N/A,Alberta,,53.32,-115.65,-,Tonnes (t),2017
+24686,Pbn et Al Hz Pembina 102/16-21-50-12,Petrobakken Energy Ltd.,,N/A,Alberta,,53.32,-115.68,-,Tonnes (t),2017
+27844,Nisku Downhole,Dreco Energy Services Ulc,1507 4th Street,Nisku,Alberta,T9E 7M9,53.32,-113.53,1.38,Tonnes (t),2017
+28601,Husky Ansell Gs 02-20-050-18w5,Husky Oil Operations Limited,,Yellowhead County,Alberta,,53.32,-116.59,0.66,Tonnes (t),2017
+6512,Norwood Foundry,Norwood Foundry Ltd.,605 18th Avenue,Nisku,Alberta,T9E7T7,53.33,-113.52,-,Tonnes (t),2017
+16445,Archer Mannville-Minburn,Perpetual Energy Inc.,,N/A,Alberta,,53.33,-111.24,0.52,Tonnes (t),2017
+23004,Leduc 02/10-22,NEP Canada ULC,,Leduc,Alberta,,53.33,-113.71,8.15,Tonnes (t),2017
+24613,Pbn Hz 03-28-050-12w5 Mwb,Lightstream Resources Ltd.,,N/A,Alberta,,53.33,-115.7,-,Tonnes (t),2017
+24614,Pbn Hz Pembina 3-21-50-12 Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.33,-115.69,-,Tonnes (t),2017
+24701,Tomahawk Oil Battery 08-29,Sinopec Canada,,N/A,Alberta,,53.33,-114.83,-,Tonnes (t),2017
+25267,Nisku Rig Solutions,Dreco Energy Services Ulc,506 17th Ave,Nisku,Alberta,T9E7Z7,53.33,-113.52,1.58,Tonnes (t),2017
+29052,Woodbend 11-20-50-26 W4m,NEP Canada ULC,,Leduc,Alberta,,53.33,-113.77,3.69,Tonnes (t),2017
+267,Genesee Thermal Generating Station,Capital Power Generation Services Inc.,0 - 50444 Highway 770,Warburg,Alberta,T0C2T0,53.34,-114.3,715.55,Tonnes (t),2017
+18148,Nisku Coating Plant,Tuboscope Vetco Canada Ulc,2304 8th Street,Nisku,Alberta,T9E7Z7,53.34,-113.51,0.75,Tonnes (t),2017
+21681,Portable Asphalt Plant,Park Paving Ltd.,1453 91 Street Southwest,Edmonton,Alberta,T6X0W8,53.34,-114.32,-,Tonnes (t),2017
+21682,Asphalt Plant,Park Paving Ltd.,12150 23rd Street,Edmonton,Alberta,T6E 1E9,53.34,-113.18,-,Tonnes (t),2017
+22142,Westpem Comp Stn 05-28,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,53.34,-115.99,-,Tonnes (t),2017
+29645,Blackfoot Oil Battery 15-27-050-01w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.34,-110.06,0.74,Tonnes (t),2017
+17467,Pembina 01-32-050-10w5,Penn West Petroleum Ltd.,,N/A,Alberta,,53.35,-115.42,-,Tonnes (t),2017
+21337,Esco Nisku,ESCO Limited,2323 4th Street,Nisku,Alberta,T9E7W7,53.35,-113.53,-,Tonnes (t),2017
+22611,Cargill Aghorizons Vermilion East Ab,Cargill Limited,4802 47th Avenue,Vermilion,Alberta,T9X1J6,53.35,-110.84,10.55,Tonnes (t),2017
+22675,Prod Batt Blackfoot 02-10-050-01w4,Canadian Natural Resources Limited,,N/A,Alberta,,53.35,-110.11,-,Tonnes (t),2017
+24692,Pbn 16-29-050-12w5 Mwb,Lightstream Resources Ltd.,,N/A,Alberta,,53.35,-115.71,-,Tonnes (t),2017
+27343,Bec Ansell 1-36-50-18w5 Pad,Bonavista Energy Corporation,,N/A,Alberta,,53.35,-116.49,-,Tonnes (t),2017
+28914,Wolf South Gas Battery 06-32,ConocoPhillips Canada Resources Corp.,N/A,N/A,Alberta,N/A,53.35,-116.01,-,Tonnes (t),2017
+29559,Banshee 15-30,Tourmaline Oil Corp,3700 - 250 6th Avenue Southwest,Calgary,Alberta,T2P 3H7,53.35,-116.76,-,Tonnes (t),2017
+19163,Warwick Ranfurly 15-31,Signalta Resources Ltd.,,Ranfurly,Alberta,T2P 3E5,53.36,-112.03,-,Tonnes (t),2017
+24676,Pben 15-36-050-13w5 Mwb,Lightstream Resources Ltd.,,N/A,Alberta,,53.36,-115.77,-,Tonnes (t),2017
+28011,Torc Pembina Oil Battery 12-31-050-10w5,TORC Oil & Gas Ltd.,N/A,N/A,Alberta,N/A,53.36,-115.46,0.64,Tonnes (t),2017
+29373,Pembina 100/09-35-050-11w5/0,Whitecap Resources Inc.,,N/A,Alberta,,53.36,-115.5,0.7,Tonnes (t),2017
+6628,Wolf Lake Sweet Gas Plant,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,53.37,-116.08,-,Tonnes (t),2017
+16869,Highvale Sour Gas Plant 10-04,EOG Resources Canada Inc.,N/A,N/A,Alberta,N/A,53.37,-114.52,-,Tonnes (t),2017
+23590,Leduc Woodbend 07-04-051-26w4,NEP Canada ULC,,Leduc,Alberta,,53.37,-113.77,-,Tonnes (t),2017
+26440,Torc Pembina Oil Battery 04-01-051-13w5,TORC Oil & Gas Ltd.,N/A,N/A,Alberta,N/A,53.37,-115.78,-,Tonnes (t),2017
+28007,Peoc Mann 5-4-51-8w4 Bt,Perpetual Energy Inc.,,N/A,Alberta,,53.37,-111.13,-,Tonnes (t),2017
+16152,Bigoray Gas Plant,Keyera Corp,,Drayton Valley,Alberta,T7A1S3,53.38,-115.31,0.62,Tonnes (t),2017
+18169,Eta Lake Gas Plant,Vermilion Energy Inc.,,Township 051,Alberta,,53.38,-115.61,0.94,Tonnes (t),2017
+26195,Anderson 01-09-051-24-W5,Tourmaline Oil Corp,,Hinton,Alberta,,53.38,-117.46,-,Tonnes (t),2017
+27918,West Pem 01-09-051-14 W5,Velvet Energy Ltd.,Unnamed Road,Yellowhead County,Alberta,T0E 0G0,53.38,-115.99,-,Tonnes (t),2017
+23111,Chevron Bigoray Oil Battery 10-07,Penn West Petroleum Ltd.,,N/A,Alberta,,53.39,-115.31,-,Tonnes (t),2017
+24367,Cyn-Pem 2-16-51-12w5,Canadian Natural Resources Limited,,N/A,Alberta,,53.39,-115.7,-,Tonnes (t),2017
+26200,Tourmaline Test Bt 13-08-051-21-W5,Tourmaline Oil Corp,,Hinton,Alberta,,53.39,-117.06,-,Tonnes (t),2017
+6617,Hinton Wood Products - A Division of West Fraser Mills Ltd.,West Fraser Mills Ltd.,99 West River Road,Hinton,Alberta,T7V 1Y7,53.4,-117.59,89.07,Tonnes (t),2017
+25302,Cynthia Battery,Vermilion Energy Inc.,,Township 051,Alberta,,53.4,-115.56,-,Tonnes (t),2017
+29955,Vista Mine,Coalspur Mines (Operations) Ltd.,110 MacLeod Avenue,Hinton,Alberta,T7V1X5,53.4,-117.37,104.83,Tonnes (t),2017
+2991,Hinton Pulp,West Fraser Mills Ltd.,760 Switzer Drive,Hinton,Alberta,T7V1V7,53.41,-117.57,322.36,Tonnes (t),2017
+15442,Golden Spike,ATCO Energy Solutions Ltd.,,Golden Spike,Alberta,,53.41,-113.91,-,Tonnes (t),2017
+19655,Lafarge Canada Inc. Nw Div. Central A&P Saskatoon Portabl,Lafarge North America AC&A Division WCAN Region,,Torch River,Alberta, ,53.41,-112.04,-,Tonnes (t),2017
+17067,Ansell Gas Plant 07-27-051-19w5,Husky Oil Operations Limited,,Edson,Alberta,,53.42,-116.72,1.2,Tonnes (t),2017
+17534,Bigoray Sour Gas Plant 06-28,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,53.42,-115.12,-,Tonnes (t),2017
+24599,Pbn Hz Pembina 1-22-51-13 Swb,Petrobakken Energy Ltd.,,N/A,Alberta,,53.42,-115.82,-,Tonnes (t),2017
+6849,Hinton Batch Plant,Border Paving Ltd.,252 River Road East,Hinton,Alberta,T7V2G3,53.43,-117.54,0.03,Tonnes (t),2017
+19143,Lavoy,Richardson Pioneer Ltd.,Highway,Lavoy,Alberta,T0B 2S0,53.43,-111.8,8.62,Tonnes (t),2017
+22886,Cork Carrot 16-28-51-14 W5m Ggs,Direct Energy Marketing Ltd.,,N/A,Alberta,,53.43,-115.98,-,Tonnes (t),2017
+27019,Cork Carrot 16-28-51-14 W5m Ggs,Canlin Energy Corporation,,N/A,Alberta,,53.43,-115.99,1.66,Tonnes (t),2017
+27312,Peoc Ansell,Perpetual Energy Inc.,,N/A,Alberta,,53.43,-116.55,-,Tonnes (t),2017
+28827,Wilrich 16-27 Compressor Station,Repsol Oil & Gas Canada Inc.,N/A,N/A,Alberta,N/A,53.43,-116.55,-,Tonnes (t),2017
+2286,Keephills Thermal Electric Power Generating Plant,TransAlta Generation Partnership,Site 3 Box 1 RR1,Duffield,Alberta,T0E0N0,53.44,-114.44,760.28,Tonnes (t),2017
+24141,Hinton 06-32-51-25 W5,Tourmaline Oil Corp,,Hinton,Alberta,,53.44,-117.65,0.5,Tonnes (t),2017
+26616,Ansell Comp 1-34-51-18w5,Tourmaline Oil Corp,,Ansell,Alberta,,53.44,-116.54,2.28,Tonnes (t),2017
+4165,Edmonton Ethane Extraction Plant,AltaGas Ltd.,,Edmonton,Alberta,T6N1A5,53.45,-113.48,-,Tonnes (t),2017
+22975,Imperial Cyn-Pem 6-2,Imperial Oil Resources,,N/A,Alberta,,53.45,-115.51,-,Tonnes (t),2017
+24238,Kitscoty,Newalta Corporation,PO Box 93,Kitscoty,Alberta,T0B2P0,53.45,-110.29,-,Tonnes (t),2017
+28917,Armisie Oil Battery 06-04,Penn West Petroleum Ltd.,N/A,N/A,Alberta,N/A,53.45,-113.63,-,Tonnes (t),2017
+27842,Edmonton 34a Ave Rigs,Dreco Energy Services Ulc,9118 34a Avenue,Edmonton,Alberta,T6E 5P4,53.46,-113.47,-,Tonnes (t),2017
+28396,Perl Bigoray Nisku Oil Battery 04-10,Penn West Petroleum Ltd.,,N/A,Alberta,,53.46,-115.1,-,Tonnes (t),2017
+28823,Peoc W Wolf Lake 10-3-52-17w5,Perpetual Energy Inc.,,N/A,Alberta,,53.46,-116.41,-,Tonnes (t),2017
+28824,West Wolf 10-3 Gas Plant,Perpetual Energy Inc.,,N/A,Alberta,,53.46,-116.41,5.33,Tonnes (t),2017
+29833,Edmonton Pft,Dreco Energy Services Ulc,3550 93 Street,Edmonton,Alberta,T6E 5N3,53.46,-113.47,3.45,Tonnes (t),2017
+6783,Swartz Creek,TransCanada Pipelines Ltd.,,N/A,Alberta,,53.47,-116.49,-,Tonnes (t),2017
+18573,Saxon Bigoray 14-11,Penn West Petroleum Ltd.,,N/A,Alberta,,53.47,-115.22,-,Tonnes (t),2017
+19475,Edson 16-10,Perpetual Energy Inc.,,N/A,Alberta,,53.47,-116.12,-,Tonnes (t),2017
+21630,Lavoy Compressor Station 11-12-052-14w4,OMERS Energy Inc.,,Calgary,Alberta,,53.47,-111.93,-,Tonnes (t),2017
+6791,Labatt Breweries Alberta,Labatt Brewing Company Ltd,10119 45th Avenue,Edmonton,Alberta,T6E0G8,53.48,-113.48,0.84,Tonnes (t),2017
+18168,Granada Gas Plant,Vermilion Energy Inc.,,Township 052,Alberta,,53.48,-115.6,0.8,Tonnes (t),2017
+19058,Granada Compressor Station 02-18,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,53.48,-115.6,-,Tonnes (t),2017
+5302,Edmonton Hazardous Waste Process Facility,Revolution Ors Acquisition Gp Inc.,6110 27th Street,Edmonton,Alberta,T6P1Y5,53.49,-113.38,-,Tonnes (t),2017
+6518,Shaw Pipe Protection - 34 St Edmonton,Shawcor,6010 30th Street,Edmonton,Alberta,T6P1J7,53.49,-113.38,0.44,Tonnes (t),2017
+15792,Ansell Sweet Gas Plant 01-24-052-20w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.49,-116.8,1.32,Tonnes (t),2017
+21885,Highvale Coal Mine,TransAlta Generation Partnership,4425 Sundance Road,Seba Beach,Alberta,T0E2B0,53.49,-114.58,3346.46,Tonnes (t),2017
+22673,Edson/Ansell/Galloway 1-24-52-20w5,Canadian Natural Resources Limited,,N/A,Alberta,,53.49,-116.8,-,Tonnes (t),2017
+25253,Tomahawk 16-16-052-06w5,NAL Energy Ltd.,,Seba Beach,Alberta,,53.49,-114.81,-,Tonnes (t),2017
+2284,Sundance Thermal Electric Power Generating Plant,TransAlta Generation Partnership,Site 4 Box 1 RR1,Duffield,Alberta,T0E0N1,53.5,-114.55,2212.87,Tonnes (t),2017
+5202,Maple Leaf Metals,Maple Leaf Metals (A Partnership) A Subsidiary of Molycop Al,4510 68th Avenue,Edmonton,Alberta,T6B2P3,53.5,-113.41,0.59,Tonnes (t),2017
+6962,Lafarge Canada Inc. Greater Edmonton Etm Concrete Plant,Lafarge North America,2160 70th Avenue,Edmonton,Alberta,T6P1N6,53.5,-113.37,-,Tonnes (t),2017
+7787,Alberta Plywood Edmonton - A Division of West Fraser Mills L,West Fraser Mills Ltd.,9923 65th Avenue,Edmonton,Alberta,T6E 0L1,53.5,-113.48,18.13,Tonnes (t),2017
+21584,Edmonton Dreco 75th Street,Dreco Energy Services Ulc,6415 75th Street,Edmonton,Alberta,T6E0T3,53.5,-113.44,-,Tonnes (t),2017
+22990,Cargill Aghorizons Vegreville Ab,Cargill Limited,62nd Street,Vegreville,Alberta,T9C1S3,53.5,-112.07,-,Tonnes (t),2017
+6678,Heating Plant,University of Alberta Heating Plant,0 - 115 University Campus NW,Edmonton,Alberta,T6G2N7,53.51,-113.52,1.3,Tonnes (t),2017
+17343,02-26 Gas Plant,Tangle Creek Energy Ltd.,,Niton Junction,Alberta,,53.51,-115.61,1.37,Tonnes (t),2017
+26286,Edmonton Dnow,Dnow Canada Ulc,2603 - 76 Avenue Avenue Northwest,Edmonton,Alberta,T6P 1P6,53.51,-113.38,-,Tonnes (t),2017
+1106,Moly-Cop Altasteel Ltd.,Moly-Cop Altasteel Ltd.,9401 34th Street,Edmonton,Alberta,T6B2X6,53.52,-113.38,56.96,Tonnes (t),2017
+5367,Genalta Recycling Inc.,General Scrap Partnership,9301 34th Street,Edmonton,Alberta,T6B2X6,53.52,-113.38,27.49,Tonnes (t),2017
+6660,Sherwood Marketing Terminal,Shell Canada Products,251 92nd Avenue,Edmonton,Alberta,T6P1V9,53.52,-113.35,-,Tonnes (t),2017
+18390,Se Edmonton Asphalt,Burnco Rock Products Ltd,3867 92 Avenue Northwest,Edmonton,Alberta,T6B 3B4,53.52,-113.4,0.99,Tonnes (t),2017
+26415,Obed Fst,Secure Energy Services Inc.,PO Box 6869,Edson,Alberta,T7E 1V2,53.52,-117.27,0.55,Tonnes (t),2017
+29409,Leddy Acheson 04-32-052-25w4,Inplay Oil Corp.,,Leddy Acheson,Alberta,,53.52,-113.66,0.53,Tonnes (t),2017
+29423,Edmonton Se Ready Mix,Burnco Rock Products Ltd,3867 92 Avenue Northwest,Edmonton,Alberta,T6B 3B4,53.52,-113.4,0.14,Tonnes (t),2017
+126,Edmonton Site,Celanese Canada Ulc.,4405 101st Avenue,Edmonton,Alberta,T6A 0L2,53.53,-113.4,4.73,Tonnes (t),2017
+3424,Daam Galvanizing - Edmonton,Daam Galvanizing Co Ltd.,9390 48th Street,Edmonton,Alberta,T6B2R3,53.53,-113.41,2.25,Tonnes (t),2017
+3974,Alberta Envirofuels,Keyera Corp,9511 17th Street,Edmonton,Alberta,T6P1Y3,53.53,-113.36,2.46,Tonnes (t),2017
+10218,Edmonton Terminal,Imperial Oil,3910 92nd Avenue,Edmonton,Alberta,T6C4G3,53.53,-113.4,0,Tonnes (t),2017
+19546,Bpco Edmonton,La Cie Matériaux de Construction BP Canada,3703 101 Avenue,Edmonton,Alberta,T6P 1X7,53.53,-113.39,-,Tonnes (t),2017
+29038,Edmonton Rail,Km Canada Rail Holdings Gp Limited,,Sherwood Park,Alberta,T8A 2A6,53.53,-113.37,15.1,Tonnes (t),2017
+29414,Leddy Acheson 05-34-052-26w4,Inplay Oil Corp.,,Leddy Acheson,Alberta,,53.53,-113.75,0.55,Tonnes (t),2017
+686,Acheson Sour Gas Plant 05-02,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,53.54,-113.73,0.59,Tonnes (t),2017
+3707,Imperial Oil Strathcona Refinery,Imperial Oil,Highway 16a E & 34 Street,Edmonton,Alberta,T6P1X7,53.54,-113.39,263.1,Tonnes (t),2017
+4002,Shaw Pipe Protection Ltd.,Shawcor,10275 21st Street,Edmonton,Alberta,T6P1P3,53.54,-113.37,1.06,Tonnes (t),2017
+6860,Edmonton Terminal,Kinder Morgan Canada Inc.,1680 16a Highway,Sherwood Park,Alberta,T6P1X1,53.54,-113.36,-,Tonnes (t),2017
+6907,Edmonton Terminal,Enbridge Pipelines Inc.,,Edmonton,Alberta,T6P1V8,53.54,-117.79,104.15,Tonnes (t),2017
+21671,Edmonton City Centre,Oxford Properties Group Inc.,100 - 10025 102a Avenue,Edmonton,Alberta,T5J2Z2,53.54,-113.49,-,Tonnes (t),2017
+22904,Edmonton North 40 Terminal,Kinder Morgan Canada Inc.,1680 101a Highway,Edmonton,Alberta,T6P1X1,53.54,-113.36,-,Tonnes (t),2017
+24202,Acheson,Standard General Inc.,26222 Township Road 530a,Acheson Zone 4,Alberta,T7X5A7,53.54,-113.75,-,Tonnes (t),2017
+27446,Acheson Oil Battery 08-06,Penn West Petroleum Ltd.,,N/A,Alberta,,53.54,-113.66,-,Tonnes (t),2017
+28871,Galloway Gas Battery 08-05-053-21w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.54,-117.05,0.56,Tonnes (t),2017
+29413,Perl Acheson 02-01-053-26w4,Inplay Oil Corp.,,Perl Acheson,Alberta,,53.54,-113.69,-,Tonnes (t),2017
+3903,Edmonton Refinery,Suncor Energy Products Partnership,801 Petroleum Way,Sherwood Park,Alberta,T8H2G2,53.55,-113.35,215.32,Tonnes (t),2017
+5284,Edson Gas Plant,Repsol Oil & Gas Canada Inc.,,Edson,Alberta,,53.55,-116.54,14.08,Tonnes (t),2017
+6855,Continental Cylinder Inc.,Continental Cylinder Inc.,10830 181 Street,Edmonton,Alberta,T5S1K8,53.55,-113.63,-,Tonnes (t),2017
+6956,Lafarge Canada Inc. Greater Edmonton Winterburn A&P Plant,Lafarge North America,21515 112th Avenue,Edmonton,Alberta,T5S1Y4,53.55,-113.69,2.13,Tonnes (t),2017
+6958,Lafarge Canada Inc. Greater Edmonton Edmonton (Stadium) C,Lafarge North America,9051 Stadium Road,Edmonton,Alberta,T5H3W7,53.55,-113.47,-,Tonnes (t),2017
+6992,Acheson Elevator Viterra,Viterra Inc.,703 - 53016 60 Highway,Acheson,Alberta,T7X5A7,53.55,-113.77,2.14,Tonnes (t),2017
+19289,Strathcona Works,Rio Tinto Alcan,910 Petroleum Voie,Sherwood Park,Alberta,T8H2T3,53.55,-113.36,239.11,Tonnes (t),2017
+19656,Lafarge Canada Inc. Greater Edmonton Petroway Asphalt Pla,Lafarge North America,11255 17th Street,Edmonton,Alberta,T6S0A3,53.55,-113.46,1.85,Tonnes (t),2017
+19995,Edmonton Hydrogen Facility,Air Products Canada Ltd.,0 - 720 Petroleum Way Way,Edmonton,Alberta,T6S1H5,53.55,-113.34,8.44,Tonnes (t),2017
+22995,Lafarge Canada Inc. Greater Edmonton Winterburn Ready Mix,Lafarge North America,22121 112th Avenue,Edmonton,Alberta,T5S2T8,53.55,-113.69,-,Tonnes (t),2017
+25071,Canadian Linen & Uniform Service - D02,Canadian Linen & Uniform Service,8631 Stadium Road,Edmonton,Alberta,T5H 3W9,53.55,-113.47,-,Tonnes (t),2017
+29391,Acheson Asphalt,Burnco Rock Products Ltd,#207 - 26229 Twp Rd. 531a,Acheson,Alberta,T7X 5A4,53.55,-113.75,0.68,Tonnes (t),2017
+2282,Wabamun Thermal Electric Power Generating Plant,TransAlta Generation Partnership,5802 51 Avenue,Wabamun,Alberta,T0E2K0,53.56,-114.48,-,Tonnes (t),2017
+6960,Lafarge Canada Inc. Greater Edmonton Cloverbar A&P Plant,Lafarge Canada Inc.,12211 17th Street,Edmonton,Alberta,T6S1A7,53.56,-113.36,-,Tonnes (t),2017
+17153,Sundance Forest Industries Ltd.,Edson Forest Products,53115 Hwy 47,Edson,Alberta,T7E1V2,53.56,-116.57,18.28,Tonnes (t),2017
+21533,Edmonton South Terminal,Gibson Energy Ltd.,10534 17 Street Northwest,Edmonton,Alberta,T6P1P4,53.56,-113.36,14.76,Tonnes (t),2017
+502,Edmonton 142 Street Plant,Cleartech Industries Inc.,12020 142nd Street,Edmonton,Alberta,T5L2G8,53.57,-113.56,0.03,Tonnes (t),2017
+1251,Edmonton Plant,Owens Corning Insulating Systems Canada LP,831 Hayter Road,Edmonton,Alberta,T6S1A1,53.57,-113.34,64.83,Tonnes (t),2017
+5271,Edmonton Feed Plant,Federated Co-Operatives Limited,1818 121st Avenue,Edmonton,Alberta,T5J2P5,53.57,-113.31,1.44,Tonnes (t),2017
+5319,Unifeed Mill - Edmonton Viterra,Viterra Inc.,20 Liberty Road,Sherwood Park,Alberta,T8H2J6,53.57,-113.31,-,Tonnes (t),2017
+5451,Specialty Vermiculite Canada Corp. - Edmonton,Specialty Vermiculite Canada Corp.,14810 123rd Avenue Northwest,Edmonton,Alberta,T5L 2Y5,53.57,-113.57,3.36,Tonnes (t),2017
+6880,Edmonton Gypsum,Georgia-Pacific Canada LP,403 118th Avenue,Edmonton,Alberta,T6S1C6,53.57,-113.33,-,Tonnes (t),2017
+10479,Masterfeeds Edmonton,Masterfeeds Inc.,1903 121 Avenue,Edmonton,Alberta,T6S1B2,53.57,-113.31,-,Tonnes (t),2017
+16102,West Edson Trd,Tervita Corp.,,Edson,Alberta,,53.57,-116.64,-,Tonnes (t),2017
+18015,Tlm 10-16,Talisman Energy,,N/A,Alberta,,53.57,-116.59,-,Tonnes (t),2017
+18793,Carrot Creek Gas Plant,Direct Energy Marketing Ltd.,,N/A,Alberta,,53.57,-115.85,-,Tonnes (t),2017
+19174,Yellowhead,Standard General Inc.,12230 170th Street,Edmonton,Alberta,T5V1K7,53.57,-113.62,50.27,Tonnes (t),2017
+21075,Portable Plant 020002,Border Paving Ltd.,,Bamber,Alberta,,53.57,-114.47,0.07,Tonnes (t),2017
+21532,Edmonton North Terminal,Gibson Energy Ltd.,NW-15-053-23-W4,Edmonton,Alberta,,53.57,-113.31,-,Tonnes (t),2017
+22540,Vero Edson 12-15-053-15-W5,Velvet Energy Ltd.,Yellowhead Highway,Yellowhead County,Alberta,T0E 0G0,53.57,-116.13,-,Tonnes (t),2017
+23575,Alberta Diluent / Crude Terminal (Adt/Act),Keyera Corp,850 Hayter Road,Edmonton,Alberta,T6S 1A2,53.57,-113.34,-,Tonnes (t),2017
+24385,Rio Galloway 8-14 Test Battery,Canadian Natural Resources Limited,,N/A,Alberta,,53.57,-116.82,-,Tonnes (t),2017
+27824,Trouw Nutrition Canada Inc. Sherwood Park Ab,Trouw Nutrition Canada Inc. (Hp),20 Liberty Rd Road,Sherwood Park,Alberta,T8H 2J6,53.57,-113.28,15.89,Tonnes (t),2017
+29424,Edmonton Nw Ready Mix,Burnco Rock Products Ltd,15380 121a Avenue Northwest,Edmonton,Alberta,T5V 1B5,53.57,-113.59,0.13,Tonnes (t),2017
+11,Hexion Canada Inc.- Edmonton Facility,Hexion Canada Inc.,12621 156th Street,Edmonton,Alberta,T5V1E1,53.58,-113.58,8.76,Tonnes (t),2017
+5243,Edmonton Plant,Lehigh Hanson Materials Ltd.,12640 Inland Way,Edmonton,Alberta,T5V1K2,53.58,-113.59,22.21,Tonnes (t),2017
+6869,West Edmonton Landfill,Waste Management of Canada Corporation,12707 170th Street,Edmonton,Alberta,T5V1L9,53.58,-113.61,1.41,Tonnes (t),2017
+16009,Galloway Sour Gas Plant 14-14-053-20w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.58,-116.84,0.99,Tonnes (t),2017
+19185,Highridge 14-13,NEP Canada ULC,,Hillard,Alberta,,53.58,-112.53,-,Tonnes (t),2017
+23168,Cargill Aghorizons Edmonton Ab,Cargill Limited,13020 127th Avenue,Edmonton,Alberta,T5L4Z5,53.58,-113.54,10.1,Tonnes (t),2017
+23368,Clover Bar Energy Centre,Capital Power (Alberta) Limited Partnership,1515 130th Avenue,Edmonton,Alberta,T6S1E3,53.58,-113.36,0.66,Tonnes (t),2017
+23392,Obed Mine,Coal Valley Resources Inc.,Obed Mountain Road,Hinton,Alberta,T7E1W1,53.58,-117.45,0.42,Tonnes (t),2017
+23586,Pbn 15-10-049-12w5 Mwob,Ridgeback Resources Inc.,,N/A,Alberta,,53.58,-113.45,0.54,Tonnes (t),2017
+29499,Thorhild,Waste Management of Canada Corporation,12707 170 Street,Edmonton,Alberta,T5V 1L9,53.58,-113.61,2.06,Tonnes (t),2017
+2762,Edson O.S.B.,Weyerhaeuser Company Limited,2509 Aspen Drive,Edson,Alberta,T7E1S8,53.59,-116.39,138.9,Tonnes (t),2017
+6513,Edmonton Composting Facility,City of Edmonton - Wmc,Suite 500 - 13111 Meridian Street,Edmonton,Alberta,T6S1G9,53.59,-113.34,4.75,Tonnes (t),2017
+6567,Atco Pipelines - Cloverbar,ATCO Gas and Pipelines Ltd.,,Edmonton,Alberta,,53.59,-113.33,0.89,Tonnes (t),2017
+18596,Rosevear 7-20,Bonavista Energy Corporation,,Rosevear,Alberta,,53.59,-116.17,-,Tonnes (t),2017
+21512,Clover Bar Landfill Gas Generating Station,Capital Power (Alberta) Limited Partnership,903 137th Avenue,Edmonton,Alberta,T6S1G9,53.59,-113.33,2.36,Tonnes (t),2017
+23583,Lafarge Canada Inc. Aztec Portable Plant (20712),Lafarge North America,21515 112th Avenue,Edmonton,Alberta,T2W4Y1,53.59,-113.35,-,Tonnes (t),2017
+26201,Solomon 15-20-053-27-W5,Tourmaline Oil Corp,,Hinton,Alberta,,53.59,-117.94,-,Tonnes (t),2017
+28733,Saipem Canada Edmonton Fabrication Yard,Saipem Canada,2575 Aurum Road Northeast Road Northeast,Edmonton,Alberta,T6S 0A4,53.59,-113.29,-,Tonnes (t),2017
+29415,Enerkem Alberta Biofuels,Enerkem Alberta Biofuels,460 - 250 Aurum Road Northeast,Edmonton,Alberta,T6S 1G9,53.59,-113.33,2.7,Tonnes (t),2017
+15075,Plains Comp Stn 01-25,Advantage Oil & Gas Ltd.,01-25-053-12-W4,N/A,Alberta,,53.6,-111.62,-,Tonnes (t),2017
+18479,Kitscoty 11-29,Canadian Natural Resources Limited,11-29-053-02w4,N/A,Alberta,,53.6,-110.26,-,Tonnes (t),2017
+22840,Bei Chip Lake 10-29,Tangle Creek Energy Ltd.,,Wildwood,Alberta,,53.6,-115.43,0.95,Tonnes (t),2017
+6530,Niton Junction,Newalta Corporation,PO Box 38,Niton Junction,Alberta,T0E1S0,53.61,-115.71,-,Tonnes (t),2017
+15647,Marsh Comp Stn 13-30,ConocoPhillips Canada Resources Corp.,13-30-053-25-W5,N/A,Alberta,,53.61,-117.69,-,Tonnes (t),2017
+24709,Well Abwi102083305320w500,Talisman Energy,N/A,N/A,Alberta,,53.61,-116.87,-,Tonnes (t),2017
+6648,Alberta Capital Region Wastewater Commission Treatment Plant,Alberta Capital Region Wastewater Commision,23262 Township Road 540,Fort Saskatchewan,Alberta,T8L4A2,53.62,-113.3,4.36,Tonnes (t),2017
+15648,Cb Marsh 15-33-053-26-W5,Tourmaline Oil Corp,,Hinton,Alberta,,53.62,-117.78,-,Tonnes (t),2017
+22389,Peyto Galloway 09-34-053-20w5,Peyto Exploration and Development Corporation,,N/A,Alberta,,53.62,-116.85,1.26,Tonnes (t),2017
+26036,Chip Lake Swb 11-34,Sinopec Canada,,N/A,Alberta,,53.62,-115.39,-,Tonnes (t),2017
+26264,Peyto Swanson 12-31-053-19w5,Peyto Exploration and Development Corporation,,N/A,Alberta,,53.62,-116.79,-,Tonnes (t),2017
+27370,South Rosevear 11-36-53-15,Bonavista Energy Corporation,,Rosevear,Alberta,,53.62,-116.08,-,Tonnes (t),2017
+15098,Warwick Comp Stn 12-04,Tidewater Midstream and Infrastructure Ltd.,,N/A,Alberta,,53.63,-112.01,-,Tonnes (t),2017
+17070,Galloway Gas Plant 12-05-054-20w5,Husky Oil Operations Limited,,Edson,Alberta,,53.63,-116.93,0.62,Tonnes (t),2017
+19246,Lafarge Canada Inc. Greater Edmonton Onoway Aggregates,Lafarge North America,,Lac Ste. Anne County,Alberta,,53.63,-114.14,14.25,Tonnes (t),2017
+6852,Stony Plain Batch Plant,Border Paving Ltd.,,Stony Plain,Alberta,T7Z1X7,53.64,-114.12,0.23,Tonnes (t),2017
+23197,Windfall,Standard General Inc.,,Windfall,Alberta,,53.64,-113.62,-,Tonnes (t),2017
+27938,Torc Rosevear Oil Battery 16-01-054-16w5,TORC Oil & Gas Ltd.,N/A,N/A,Alberta,N/A,53.64,-116.21,-,Tonnes (t),2017
+2223,South Rosevear Gas Plant,Bonavista Energy Corporation,,Rosevear,Alberta,,53.65,-116.09,1.27,Tonnes (t),2017
+6967,Canadian Forces Base - Asu Edmonton,Department of National Defence,Edmonton Garrison,Edmonton,Alberta,T5J4J5,53.65,-113.47,-,Tonnes (t),2017
+21390,Sundance 15-07,Tourmaline Oil Corp,3700 - 250 6th Avenue Southwest,Calgary,Alberta,T2P 3H7,53.65,-117.08,0.66,Tonnes (t),2017
+23475,Lre - Edson 01-13,Long Run Exploration Ltd,,N/A,Alberta,,53.65,-116.65,1.51,Tonnes (t),2017
+21143,Wild River Gas Battery 11-13-054-23w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.66,-117.25,-,Tonnes (t),2017
+22331,Encal Tenn Niton 10-13,Harvest Operations Corp.,,N/A,Alberta,,53.66,-115.63,-,Tonnes (t),2017
+5345,Niton Sweet Gas Plant,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,53.67,-115.76,0.88,Tonnes (t),2017
+21955,Villeneuve,Lehigh Hanson Materials Ltd.,54309 44 Highway,Villeneuve,Alberta,T8N1M8,53.67,-113.8,64.33,Tonnes (t),2017
+26455,Edson 16-14,Crocotta Energy Inc.,,Calgary,Alberta,,53.67,-116.53,-,Tonnes (t),2017
+24338,Vero Rosevear 04-30-054-15w5,Bonavista Energy Corporation,,N/A,Alberta,,53.68,-116.21,-,Tonnes (t),2017
+24339,Bonavista Strachan 05-34-037-08w5,Bonavista Energy Corporation,,Strachan,Alberta,,53.68,-116.21,-,Tonnes (t),2017
+25259,Gulf Pine Creek 02-30-054-18w5,NAL Energy Ltd.,,Yellowhead County,Alberta,,53.68,-116.64,-,Tonnes (t),2017
+26119,Wildhay 4-26-54-27w5,Canadian Natural Resources Limited,,N/A,Alberta,,53.68,-117.88,-,Tonnes (t),2017
+26454,Velvet 16-23-054-17w5,Velvet Energy Ltd.,Township Road 544,Yellowhead County,Alberta,T0E 0G0,53.68,-116.39,-,Tonnes (t),2017
+27169,Derwent Compressor Station 10-22-054-06w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.68,-110.8,-,Tonnes (t),2017
+28016,Torc Rosevear 4-25-54-16w5,TORC Oil & Gas Ltd.,,Rosevear,Alberta,,53.68,-116.23,-,Tonnes (t),2017
+21958,Lafarge Canada Inc. Greater Edmonton Borle Pit,Lafarge Canada Inc.,,Sturgeon County,Alberta,,53.69,-113.84,-,Tonnes (t),2017
+24293,St Anne 102/13-26-54-5w5 Oil Group,Long Run Exploration Ltd,,N/A,Alberta,,53.69,-114.63,-,Tonnes (t),2017
+26442,Torc Hz Rosevear 13-36-054-16w5,TORC Oil & Gas Ltd.,,Rosevear,Alberta,,53.69,-116.23,-,Tonnes (t),2017
+27496,Lre - St. Anne 13-26,Long Run Exploration Ltd,,N/A,Alberta,,53.69,-114.62,-,Tonnes (t),2017
+28779,Torc Rosevear Oil Battery 16-27-054-16w5,Torc Oil & Gas Inc.,,N/A,Alberta,,53.69,-116.26,-,Tonnes (t),2017
+29175,Ge Calahoo Aggreagtes/Pit,Lafarge Canada Inc. - West,,Sturgeon County,Alberta,,53.69,-113.92,16.91,Tonnes (t),2017
+16203,Niton Sweet Gas Plant 07-34,Mfc Resource Partnership,,N/A,Alberta,,53.7,-115.97,-,Tonnes (t),2017
+19823,Obed 03-31-054-22w5,Tourmaline Oil Corp,,Yellowhead County,Alberta,,53.7,-117.23,-,Tonnes (t),2017
+15439,Carbondale,ATCO Energy Solutions Ltd.,,Carbondale,Alberta,,53.71,-113.59,-,Tonnes (t),2017
+19175,Oerlikon Metco (Canada) Inc. - Fort Saskatchewan Operations,Oerlikon Metco (Canada) Inc.,10108 114th Street,Fort Saskatchewan,Alberta,T8L4R1,53.71,-113.18,0.81,Tonnes (t),2017
+27263,Obed Gas Battery 14-32-054-22w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.71,-117.21,0.55,Tonnes (t),2017
+2132,Fort Saskatchewan,Sherritt International Corporation,10101 - 114 Street,Fort Saskatchewan,Alberta,T8L2T3,53.72,-113.19,68.88,Tonnes (t),2017
+3523,Bruderheim Energy Terminal Limited,Bruderheim Energy Terminal Limited,555018 Range Road 202 Road,Bruderheim,Alberta,T0B0S0,53.72,-113.08,5.76,Tonnes (t),2017
+4468,Bunge Canada - Fort Saskatchewan Plant,Bunge Canada,SEcondary 825 Highway,Fort Saskatchewan,Alberta,T8L2T4,53.72,-113.23,14.52,Tonnes (t),2017
+4868,Fort Saskatchewan,The Cobalt Refinery Company Inc.,10101 - 114 Street,Fort Saskatchewan,Alberta,T8L2T3,53.72,-113.19,13.56,Tonnes (t),2017
+4874,Fort Saskatchewan Nitrogen Operations,Agrium Inc.,11751 River Road,Fort Saskatchewan,Alberta,T8L4J1,53.72,-113.19,7.3,Tonnes (t),2017
+5352,Fort Saskatchewan Thermal Electric(cogeneration) Power Plant,TransAlta Generation Partnership,P.O. Box 16 Highway 15,Fort Saskatchewan,Alberta,T8L2P4,53.72,-113.17,12.37,Tonnes (t),2017
+23232,Trilogy St. Anne 15-02,Taqa North Ltd.,,St Anne,Alberta,,53.72,-114.63,-,Tonnes (t),2017
+23476,Lre - Encor Muskeg 12-06,Long Run Exploration Ltd,,N/A,Alberta,,53.72,-116.52,1.16,Tonnes (t),2017
+23479,Daylight Obed Gas Battery 11-05,Sinopec Daylight Energy Ltd.,,N/A,Alberta,,53.72,-117.23,-,Tonnes (t),2017
+23593,Niton 14-05-055-11w5,Mosaic Energy Ltd.,,Calgary,Alberta,,53.72,-115.6,-,Tonnes (t),2017
+25456,Riviere Battery 11-02,Trident Exploration Corp,N/A,N/A,Alberta,N/A,53.72,-113.9,-,Tonnes (t),2017
+28736,Edson Fst,Secure Energy Services Inc.,PO Box 6869,Edson,Alberta,T7E 1V2,53.72,-116.53,0.4,Tonnes (t),2017
+280,Western Canada Operations,Dow Chemical Canada ULC,15 Highway,Fort Saskatchewan,Alberta,T8L2P4,53.73,-113.17,31.33,Tonnes (t),2017
+17950,Cabin Creek Compressor Station 05-09-055-03w6,Keyera Corp,N/A,N/A,Alberta,N/A,53.73,-118.39,-,Tonnes (t),2017
+18996,Fort Saskatchewan Eoeg,Meglobal Canada Ulc,Highway 15 East,Fort Saskatchewan,Alberta,T8L 2P4,53.73,-113.14,0.72,Tonnes (t),2017
+698,Fort Saskatchewan Plant,Keyera Corp,,Fort Saskatchewan,Alberta,T8L 2T2,53.74,-113.16,5.74,Tonnes (t),2017
+6536,Elk Point,Newalta Corporation,,Elk Point,Alberta,T0A1A0,53.74,-110.81,12.55,Tonnes (t),2017
+21485,Hexion Sturgeon Plant,Hexion Canada Inc.,305 - 55202 Sh 825,Sturgeon County,Alberta,T8L5C1,53.74,-113.23,0.02,Tonnes (t),2017
+28301,Lindbergh 1-13-55-6w4,Canadian Natural Resources Limited,,N/A,Alberta,,53.74,-110.76,-,Tonnes (t),2017
+4142,Fort Saskatchewan Storage and Fractionation,Plains Midstream Canada,11010 125 Street,Fort Saskatchewan,Alberta,T8L 2T2,53.75,-113.14,8.4,Tonnes (t),2017
+17698,Peyto Oldman 11-17-055-21w5,Peyto Exploration and Development Corporation,0,N/A,Alberta,,53.75,-117.09,0.83,Tonnes (t),2017
+21250,Gunn Compressor Station 12-18-055-03w5,Coastal Resources Ltd.,,Gunn,Alberta,,53.75,-114.44,-,Tonnes (t),2017
+28047,Wild River 11-16-055-24-W5,Tourmaline Oil Corp,,Hinton,Alberta,,53.75,-117.5,3.59,Tonnes (t),2017
+28711,Petyo Oldman North 14-17-055-21w5,Peyto Exploration and Development Corporation,,N/A,Alberta,,53.75,-117.08,-,Tonnes (t),2017
+15240,Willingdon Sweet Gas Compressor Station 11-20-055-15w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.76,-112.2,-,Tonnes (t),2017
+16782,Cherhill Oil Battery 8-24,Enerplus Corporation,08-24-055-06-W5,N/A,Alberta,,53.76,-114.77,-,Tonnes (t),2017
+18770,Wild Hay 11-22,Shell Canada Limited,,Wild Hay,Alberta,A9A9A9,53.76,-117.49,-,Tonnes (t),2017
+19410,Willingdon 10-21,Canadian Natural Resources Limited,,N/A,Alberta,,53.76,-112.16,-,Tonnes (t),2017
+21388,Obed 01-21,Tourmaline Oil Corp,,Obed,Alberta,A9A9A9,53.76,-117.34,1.52,Tonnes (t),2017
+21754,Peyto Nosehill 11-21-055-20w5,Peyto Exploration and Development Corporation,,N/A,Alberta,,53.76,-116.91,-,Tonnes (t),2017
+21755,Peyto Wildhay 04-21-055-23w5,Peyto Exploration and Development Corporation,,N/A,Alberta,,53.76,-117.36,-,Tonnes (t),2017
+23178,Lamont,Richardson Pioneer Ltd.,15 Highway,Lamont,Alberta,T0B2R0,53.76,-112.8,7.95,Tonnes (t),2017
+23272,Morinville 2-20-55-25 W4m,Zargon Oil and Gas Ltd.,,Sturgeon County,Alberta,T8T 0V7,53.76,-113.67,0.67,Tonnes (t),2017
+25095,Redwater Single Well Battery 12-19-055-19w4,Husky Oil Operations Limited,,Lamont,Alberta,,53.76,-112.82,-,Tonnes (t),2017
+28735,Nosehill Fst,Secure Energy Services Inc.,PO Box 6869,Edson,Alberta,T7E 1V2,53.76,-116.91,0.09,Tonnes (t),2017
+29557,Wildhay 11-22,Tourmaline Oil Corp,3700 - 250 6th Avenue Southwest,Calgary,Alberta,T2P 3H7,53.76,-117.48,0.94,Tonnes (t),2017
+15998,Wild Hay Gas Battery 13-24-055-25w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.77,-117.6,0.91,Tonnes (t),2017
+22939,Gulf Fort Saskatchewan,Gulf Chemical & Metallurgical Canada Corp.,55418 Range 214 Road,Fort Saskatchewan,Alberta,T8L4A4,53.77,-113.07,-,Tonnes (t),2017
+27095,Redwater Multi Well Battery 15-21-055-19w4,Tamarack Acquisition Corp.,,Lamont,Alberta,T0B 2R0,53.77,-112.76,-,Tonnes (t),2017
+27709,Aux Sable Heartland Offgas Plant,Aux Sable Canada Ltd.,,Fort Saskatchewan,Alberta,,53.77,-113.13,-,Tonnes (t),2017
+27900,Redwater Battery 14-20-055-19w4,Tamarack Acquisition Corp.,,Lamont,Alberta,,53.77,-112.79,-,Tonnes (t),2017
+7905,Mornville Sand Plant,Target Products Ltd.,9503 87th Avenue,Mornville,Alberta,T8R1K6,53.78,-113.63,13.09,Tonnes (t),2017
+24710,Well Abwi100122705523w500,Talisman Energy,N/A,N/A,Alberta,,53.78,-117.35,-,Tonnes (t),2017
+25096,Redwater Single Well Battery 13-25-055-20w4,Tamarack Acquisition Corp.,,Bruderheim,Alberta,,53.78,-112.84,-,Tonnes (t),2017
+25098,Redwater Single Well Battery 15-28-055-19w4,Husky Oil Operations Limited,,Lamont,Alberta,,53.78,-112.76,-,Tonnes (t),2017
+25099,Redwater Single Well Battery 15-30-055-19w4,Tamarack Acquisition Corp.,,Lamont,Alberta,,53.78,-112.81,-,Tonnes (t),2017
+26060,Fairborne Marlboro 05-29 Sweet Gp,Bonavista Energy Corporation,,Marlboro,Alberta,,53.78,-116.79,1.11,Tonnes (t),2017
+27899,Redwater Battery 09-30-055-19w4,Tamarack Acquisition Corp.,,Lamont,Alberta,,53.78,-112.8,-,Tonnes (t),2017
+2960,Shell Scotford Refinery,Shell Canada Products,55520 Range Road 214,Fort Saskatchewan,Alberta,T8L 4A4,53.79,-113.09,21.04,Tonnes (t),2017
+6219,Scotford Complex,Air Liquide Canada Inc.,55522 RR#214 Road,Fort Saskatchewan,Alberta,T8L3T2,53.79,-113.08,7.33,Tonnes (t),2017
+6546,Scotford Upgrader and Upgrader Cogeneration,Shell Canada Energy Limited,55522 Range 214 Road,Fort Saskatchewan,Alberta,T8L4A4,53.79,-113.09,5.22,Tonnes (t),2017
+15232,Norcen Hairy Hill,Sequoia Resources Corp.,,,Alberta,,53.79,-111.94,-,Tonnes (t),2017
+18160,Glenevis 07-35-055-4 W5,Journey Energy Inc.,,Glenevis,Alberta,,53.79,-114.48,-,Tonnes (t),2017
+18180,Alexis Oil Battery,Harvest Operations Corp.,,N/A,Alberta,,53.79,-114.61,1.19,Tonnes (t),2017
+22579,Lre - Alexis 03-36,Long Run Exploration Ltd,,N/A,Alberta,,53.79,-114.61,2.95,Tonnes (t),2017
+24711,Well Abwi100132705523w500,Talisman Energy,N/A,N/A,Alberta,,53.79,-117.34,-,Tonnes (t),2017
+25087,Redwater Single Well Battery 01-34-055-20w4,Husky Oil Operations Limited,,Bruderheim,Alberta,,53.79,-112.87,-,Tonnes (t),2017
+25100,Redwater 09-33-055-20w4,Tamarack Acquisition Corp.,,Bruderheim,Alberta,,53.79,-112.9,-,Tonnes (t),2017
+29089,Tulliby Lake Fst,Secure Energy Services Inc.,,Frog Lake,Alberta,T9V 3A2,53.79,-110.31,0.9,Tonnes (t),2017
+29468,Scotford Hydrogen Facility,Air Products Canada Ltd.,55539 Range Road 220,Fort Saskatchewan,Alberta,T8L4C2,53.79,-113.11,5.52,Tonnes (t),2017
+29898,Heartland Energy Centre,ATCO Energy Solutions Ltd.,Strathcona County,Strathcona County,Alberta,T8L 4A8,53.79,-113.03,8.94,Tonnes (t),2017
+2963,Scotford Chemical Plant,Shell Chemicals Canada,55520 Range 214 Road,Fort Saskatchewan,Alberta,T8L4A3,53.8,-113.08,18.64,Tonnes (t),2017
+18017,Mcleod River 16-36 Gas Plant,Velvet Energy Ltd.,*Near* Range Road 151,Edson,Alberta, ,53.8,-116.08,0.51,Tonnes (t),2017
+23743,Westmor Terminals Inc.,Richardson Pioneer Ltd.,642 Highway,Morinville,Alberta,T8R1P5,53.8,-113.68,3.27,Tonnes (t),2017
+25101,Redwater Multi Well Battery 03-02-056-20w4,Husky Oil Operations Limited,,Bruderheim,Alberta,,53.8,-112.86,-,Tonnes (t),2017
+25105,Redwater Multi Well Battery 03-03-056-20w4,Husky Oil Operations Limited,,Bruderheim,Alberta,,53.8,-112.89,-,Tonnes (t),2017
+26469,Redwater 2-4-56-20w4m,Sure Energy Inc.,,Bruderheim,Alberta,,53.8,-112.9,-,Tonnes (t),2017
+5287,Redwater Fractionation and Storage Facility,Pembina Pipeline Corporation,,Redwater,Alberta,,53.81,-113.13,68.68,Tonnes (t),2017
+23264,Star Grain Viterra,Viterra Inc.,,Star,Alberta,T0B4E0,53.81,-112.76,3.24,Tonnes (t),2017
+26063,Pine Creek 12-2-56-19 Multiwell Gas,Bonavista Energy Corporation,,Marlboro,Alberta,,53.81,-116.72,0.86,Tonnes (t),2017
+28027,Alexander 03-07,Spartan Energy Corp.,,Calgary,Alberta,,53.81,-113.86,0.7,Tonnes (t),2017
+29575,Redwater Fractionation Site Facility Ii (Rfs Ii),Pembina Pipeline Corporation,Range Rd 220,Gibbons,Alberta,T0A 1N0,53.81,-113.12,14.52,Tonnes (t),2017
+6941,Morinville Compressor Station,Alliance Pipeline Ltd.,,Morinville,Alberta,T8R1P4,53.82,-113.6,0.61,Tonnes (t),2017
+15450,Baytex Excelsior Battery 07-10-056-24w4,Baytex Energy Ltd,,Excelsior,Alberta,,53.82,-113.49,2.92,Tonnes (t),2017
+16268,West Paddle River Comp Stn 11-10,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,53.82,-115.55,-,Tonnes (t),2017
+16973,Shiningbank 10-12-056-17 W5m,ISH Energy Ltd.,900 - 700 4th Avenue Southwest,Shiningbank,Alberta,,53.82,-116.39,0.73,Tonnes (t),2017
+17444,Pengrowth McLeod 16-12,Pine Cliff Energy Ltd.,,,Alberta,,53.82,-115.94,0.61,Tonnes (t),2017
+24708,Well Abwi100070905623w500,Talisman Energy,N/A,N/A,Alberta,,53.82,-117.35,-,Tonnes (t),2017
+250,Gibbons Site,Evonik Canada Inc.,Highway 643 East,Gibbons,Alberta,T0A1N0,53.83,-113.1,0.38,Tonnes (t),2017
+19532,Devon Horse 10-15-56-27w5,Devon Canada Corporation,,Pinto,Alberta,,53.83,-117.91,-,Tonnes (t),2017
+25097,Redwater Single Well Battery 14-10-056-20w4,Husky Oil Operations Limited,,Bruderheim,Alberta,,53.83,-112.89,-,Tonnes (t),2017
+2134,Redwater Fertilizer Operations,Agrium Inc.,56225 Sh643,Sturgeon County,Alberta,T0A2W0,53.84,-113.09,201,Tonnes (t),2017
+18162,Calcrude Cherhill 04-24-056-05 W5,Journey Energy Inc.,,,Alberta,,53.84,-114.61,2.39,Tonnes (t),2017
+25279,Redwater 14-16-56-20w4m,Sure Energy Inc.,,Bruderheim,Alberta,,53.84,-112.91,-,Tonnes (t),2017
+25281,Redwater 02-21-56-20w4m,Sure Energy Inc.,,Bruderheim,Alberta,,53.84,-112.91,-,Tonnes (t),2017
+28278,Devon Horse 10-15-56-27w5,Canadian Natural Resources Limited,,N/A,Alberta,,53.84,-117.92,-,Tonnes (t),2017
+17996,Petromet Wild River 10-20 Plant,Repsol Oil & Gas Canada Inc.,N/A,N/A,Alberta,N/A,53.85,-117.39,0.86,Tonnes (t),2017
+18844,Wild River 14-20-056-23 W5,Tourmaline Oil Corp,,Hinton,Alberta,,53.85,-117.38,1.36,Tonnes (t),2017
+23195,Oldman 10-24,Tourmaline Oil Corp,3700 - 250 6th Avenue Southwest,Calgary,Alberta,T2P 3H7,53.85,-116.98,-,Tonnes (t),2017
+27898,Redwater Battery 09-19-056-20w4,Tamarack Acquisition Corp.,,Bruderheim,Alberta,,53.85,-112.95,-,Tonnes (t),2017
+6828,Lindbergh Facility,K+S Windsor Salt Ltd.,,Elk Point,Alberta,T0A1A0,53.86,-110.63,17.47,Tonnes (t),2017
+15475,Lre - Cherhill Gas Plant 02-25,Long Run Exploration Ltd,,N/A,Alberta,,53.86,-114.75,-,Tonnes (t),2017
+15985,John Lake 12-26,Canadian Natural Resources Limited,,N/A,Alberta,,53.86,-110.2,-,Tonnes (t),2017
+27803,Redwater 10-30-056-21w4,Baytex Energy Ltd,,Redwater,Alberta,,53.86,-113.1,-,Tonnes (t),2017
+28046,Wild River 03-30-056-23-W5 Bt,Tourmaline Oil Corp,,Hinton,Alberta,,53.86,-117.41,-,Tonnes (t),2017
+25094,Redwater Multi Well Battery 12-28-056-20w4,Husky Oil Operations Limited,,Bruderheim,Alberta,,53.87,-112.92,-,Tonnes (t),2017
+19309,Wildhay Cecilia-Kaybob Plant,Paramount Resources Ltd.,N/A,N/A,Alberta,N/A,53.88,-117.17,0.43,Tonnes (t),2017
+22677,Wild River 4-3-57-23w5/0,Canadian Natural Resources Limited,,N/A,Alberta,,53.89,-117.33,-,Tonnes (t),2017
+28743,Wild River Fst,Secure Energy Services Inc.,PO Box 6869,Edson,Alberta,T7E 1V2,53.89,-117.33,0.04,Tonnes (t),2017
+5353,Grande Cache Sawmill,Foothills Forest Products Inc.,PO Bag 180 Highway 40 South,Grande Cache,Alberta,T0E0Y0,53.9,-118.81,-,Tonnes (t),2017
+6537,Paddle River Sour Gas Processing Plant,Tidewater Midstream and Infrastructure Ltd.,,N/A,Alberta,,53.9,-115.18,0.93,Tonnes (t),2017
+23283,Skaro Oil Battery 01-10,Surge Energy Inc.,,N/A,Alberta,,53.9,-112.73,-,Tonnes (t),2017
+30003,Sil Industrial Minerals Lamont Plant,543077 Alberta Ltd.,570079 Range Road,Bruderheim,Alberta,T0B 0S0,53.9,-112.92,1.98,Tonnes (t),2017
+19544,Wroe 8-12,Tourmaline Oil Corp,3700 - 250 6th Avenue Southwest,Calgary,Alberta,T2P 3H7,53.91,-117.57,1.63,Tonnes (t),2017
+24262,Amoco Pine 10-12,Apache Canada Ltd.,N/A,N/A,Alberta,N/A,53.91,-116.67,-,Tonnes (t),2017
+21249,Fairydell Battery 03-21-057-24w4,Coastal Resources Ltd.,,Fairydell,Alberta,,53.93,-113.49,-,Tonnes (t),2017
+24067,Pine Oil Battery 14-16,Sinopec Canada,,N/A,Alberta,,53.93,-116.91,-,Tonnes (t),2017
+23210,Findley 09-24,Ikkuma Resources Corp.,2700 - 605 5th Avenue Southwest,Calgary,Alberta,T2P 3H5,53.94,-118.74,0.39,Tonnes (t),2017
+27504,Findley 8-24,Ikkuma Resources Corp.,2700 - 605 5th Avenue Southwest,Calgary,Alberta,T2P 3H5,53.94,-118.74,0.49,Tonnes (t),2017
+438,Redwater Sour Gas Plant 01-29,ARC Resources,,N/A,Alberta,,53.95,-113.07,1.52,Tonnes (t),2017
+6939,Legal Alfalfa Products - Legal,Legal Alfalfa Products Ltd.,57420 Range Road 252a,Legal,Alberta,T0G1L0,53.95,-113.62,125,Tonnes (t),2017
+18396,Wild River West Gas Battery 08-30-057-24w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.95,-117.55,0.63,Tonnes (t),2017
+18724,Findley 11-26,Devon Canada Corporation,,Lelandsp,Alberta,,53.95,-118.77,-,Tonnes (t),2017
+23194,Duvernay Fir Central 09-29-057-21-W5,Tourmaline Oil Corp,,Yellowhead County,Alberta,,53.95,-117.07,-,Tonnes (t),2017
+23145,Leaman 08-36,Lightstream Resources Ltd.,,N/A,Alberta,,53.96,-115.34,-,Tonnes (t),2017
+6701,Redwater Cogeneration Plant,TransCanada Energy Ltd.,,Redwater,Alberta,T0A2W0,53.97,-113.08,0.9,Tonnes (t),2017
+18566,Pine Creek 3-3,Semcams ULC,,Edson,Alberta,,53.97,-116.75,2.66,Tonnes (t),2017
+22551,Cecilia Sweet Gas Plant 14-36-057-23w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.97,-117.28,1.52,Tonnes (t),2017
+22978,Wild Hay Bt 14-36,Canadian Natural Resources Limited,14-36-057-23w5,N/A,Alberta,,53.97,-117.28,-,Tonnes (t),2017
+27964,Saturn Deepcut Gas Plant 12-36,Pembina Pipeline Corporation,Unnamed Rd,Greenview No. 16,Alberta,,53.97,-117.29,8.18,Tonnes (t),2017
+16900,Kaybob 14-05,Husky Oil Operations Limited,,N/A,Alberta, ,53.98,-116.95,-,Tonnes (t),2017
+19545,Cecilia 15-4,Shell Canada Limited,,Cecilia,Alberta,A9A9A9,53.98,-117.35,-,Tonnes (t),2017
+15909,Saddle Lake Compressor Station 09-09-058-11w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,53.99,-111.56,0.51,Tonnes (t),2017
+29558,Duverney 15-04,Tourmaline Oil Corp,3700 - 250 6th Avenue Southwest,Calgary,Alberta,T2P 3H7,53.99,-117.35,1.39,Tonnes (t),2017
+1039,H.R.Milner Generating Station,Milner Power Limited Partnership By Its Gp Milner Power Inc.,40 Highway North,Grande Cache,Alberta,T0E0Y0,54,-119.1,11.25,Tonnes (t),2017
+17068,Kisku Gas Plant 13-09-058-02w6,Ikkuma Resources Corp.,,Greenview,Alberta,,54,-118.24,-,Tonnes (t),2017
+23560,Grande Cache Coal Corporation,Grande Cache Coal Corporation,40 Highway,Grande Cache,Alberta,T0E0Y0,54,-119.1,0.37,Tonnes (t),2017
+24251,Horse 16-17-058-26-W5,Tourmaline Oil Corp,,Hinton,Alberta,,54.01,-117.81,2.81,Tonnes (t),2017
+26128,Lindbergh 7-13,Pengrowth Energy Corporation,,Kehewin,Alberta,T0A 1C0,54.01,-110.6,-,Tonnes (t),2017
+16384,Horse Sweet Gas Plant 14-23-058-26w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.03,-117.75,1.55,Tonnes (t),2017
+29066,Lindbergh Sagd 04-25,Pengrowth Energy Corporation,,Lindbergh,Alberta,T0A 2J0,54.03,-110.62,6.65,Tonnes (t),2017
+6706,Berland River,TransCanada Pipelines Ltd.,,N/A,Alberta,,54.04,-117.42,-,Tonnes (t),2017
+21218,Barrhead Division (Can-Oat) Viterra,Viterra Inc.,,Barrhead,Alberta,T7N1A5,54.04,-114.13,-,Tonnes (t),2017
+18528,Smoky Sweet Gas Plant 07-36-058-03w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.05,-118.3,1.64,Tonnes (t),2017
+21387,Horse 05-29 -058-22-W5,Tourmaline Oil Corp,,Yellowhead County,Alberta,,54.05,-117.24,-,Tonnes (t),2017
+23761,Jupiter Sweet Gas Plant,Talisman Energy,N/A,N/A,Alberta,N/A,54.05,-117.44,-,Tonnes (t),2017
+22884,Leland Comp Stn 14-34-058-26-W5,Tourmaline Oil Corp,,Hinton,Alberta,,54.06,-117.78,-,Tonnes (t),2017
+25282,Surge Windfall 16-4 Battery,Surge Energy Inc.,,Woodlands County,Alberta,,54.07,-116.17,-,Tonnes (t),2017
+25297,Surge Corinthian Wind 13-03,Surge Energy Inc.,,Woodlands County,Alberta,,54.07,-116.17,-,Tonnes (t),2017
+29229,Xto South Kaybob 14-04-059-19w5,XTO Energy Canada ULC,C2a.116 - 505 Quarry Park Boulevard Sout,Calgary,Alberta,T2C5N1,54.07,-116.79,-,Tonnes (t),2017
+29550,Leland 01-12,Tourmaline Oil Corp,3700 - 250 6th Avenue Southwest,Calgary,Alberta,T2P 3H7,54.08,-117.75,-,Tonnes (t),2017
+18373,Berland Sweet Plant 14-15-059-24-W5,Tourmaline Oil Corp,,Greenview,Alberta, ,54.1,-117.51,1.84,Tonnes (t),2017
+18013,Amoco Windfall Heavysound 15-9,Sw Resources Ulc,,N/A,Alberta,T2P 2W2,54.11,-116.27,-,Tonnes (t),2017
+26187,Greencourt 01-29-059-06w5,Baytex Energy Ltd,,Greencourt,Alberta,,54.11,-114.85,-,Tonnes (t),2017
+21618,Trilogy Fir 08-28-59-20 W5,Paramount Resources Ltd.,,N/A,Alberta,,54.12,-116.92,0.52,Tonnes (t),2017
+21914,Trilogy Presley 03-29 100%,Paramount Resources Ltd.,,N/A,Alberta,,54.12,-116.81,1.58,Tonnes (t),2017
+29108,Amoco Windfall Gas Gathering System,Sw Resources Ulc,,Calgary,Alberta,T3H 3S5,54.12,-112.26,-,Tonnes (t),2017
+29238,Windfall 14-24,Outlier Resources Ltd.,,Woodlands County,Alberta,,54.12,-116.26,0.58,Tonnes (t),2017
+29493,Chevron 06-25-059-20w5 Multiwell Bat,Chevron Canada Resources,,Fox Creek,Alberta,,54.12,-116.86,0.44,Tonnes (t),2017
+3757,Petro-Can Whitecourt,Taqa North Ltd.,,Whitecourt,Alberta,,54.13,-115.54,3.93,Tonnes (t),2017
+6505,Whitecourt Solid Wood Division,Millar Western Forest Products Ltd.,5004 42nd Street,Whitecourt,Alberta,T7S1N2,54.13,-115.68,17.23,Tonnes (t),2017
+15916,Greencourt Sour Gas Plant 09-26-059-09w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.13,-115.23,0.82,Tonnes (t),2017
+878,Whitecourt Pulp Division,Millar Western Forest Products Ltd.,50 - Mill Road,Whitecourt,Alberta,T7S1N9,54.14,-115.69,5.32,Tonnes (t),2017
+4830,Ranger Board,West Fraser Mills Ltd.,595007 Highway 658 Highway North,Blue Ridge,Alberta,T0E0B0,54.14,-115.35,37.82,Tonnes (t),2017
+5358,Blue Ridge Lumber Inc,West Fraser Mills Ltd.,5950057 Highway 658 Highway North,Blue Ridge,Alberta,T0E0B0,54.14,-115.35,20.47,Tonnes (t),2017
+27009,Berland River Battery 02-32,ConocoPhillips Canada Resources Corp.,,N/A,Alberta,,54.14,-117.41,-,Tonnes (t),2017
+26430,Torc Fir 01-01-060-21w5,TORC Oil & Gas Ltd.,,Fir,Alberta,,54.15,-117,-,Tonnes (t),2017
+26436,Torc Kaybob Oil Battery 04-01-060-20w5,TORC Oil & Gas Ltd.,N/A,N/A,Alberta,N/A,54.15,-116.86,1.41,Tonnes (t),2017
+29456,Trouw Nutrition Canada Inc. Westlock Ab,Trouw Nutrition Canada Inc. (Hp),9415 109 Street Street North,Westlock,Alberta,T7P 2M6,54.15,-113.87,4.28,Tonnes (t),2017
+29929,Paramount Kaybob South 01-01-060-20 W5m,Paramount Resources Ltd.,,N/A,Alberta, ,54.15,-116.85,0.69,Tonnes (t),2017
+18225,Whitecourt Electric Power Generating Facility,Whitecourt Power Limited Partnership,3 Km Northwest of Whitecourt on the Sout,Whitecourt,Alberta,T7S1P6,54.16,-115.73,5.38,Tonnes (t),2017
+18774,P-03 Whitecourt,E Construction Ltd.,,Whitecourt,Alberta,,54.16,-115.76,18.21,Tonnes (t),2017
+25220,Resthaven 02-10,XTO Energy Canada ULC,C2a.116 - 505 Quarry Park Boulevard Sout,Calgary,Alberta,T2C5N1,54.16,-118.05,1.65,Tonnes (t),2017
+1028,Alberta Newsprint,Alberta Newsprint Co.,43 Highway,Whitecourt,Alberta,T7S1P9,54.17,-115.8,7.75,Tonnes (t),2017
+18023,Petromet Bigstone West Fir 14-28-59-22,Repsol Oil & Gas Canada Inc.,N/A,N/A,Alberta,N/A,54.17,-117.32,3.15,Tonnes (t),2017
+19564,Resthaven Sweet Gas Plant 07-11,Encana Corporation,N/A,N/A,Alberta,N/A,54.17,-118.33,-,Tonnes (t),2017
+21446,Resthaven Sweet Gas Plant 08-11,Encana Corporation,N/A,N/A,Alberta,N/A,54.17,-118.33,-,Tonnes (t),2017
+21871,Lynx,Ikkuma Resources Corp.,2700 - 605 5th Avenue Southwest,Calgary,Alberta,T2P 3H5,54.17,-119.53,1.14,Tonnes (t),2017
+22105,Kaybob Sour Gas Processing Plant 15-07-060-18 W5m,XTO Energy Canada ULC,C2a.116 - 505 Quarry Park Boulevard Sout,Calgary,Alberta,T2C5N1,54.17,-116.68,3.31,Tonnes (t),2017
+27963,Resthaven Sweet Gas Plant 08-11,Pembina Pipeline Corporation,,N/A,Alberta,,54.17,-118.32,11.59,Tonnes (t),2017
+4138,Windfall 8-17 Gp,Semcams ULC,,Whitecourt,Alberta,T7S1P9,54.18,-116.21,-,Tonnes (t),2017
+24427,Resthaven Gas Battery 02-16,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,54.18,-118.08,-,Tonnes (t),2017
+26434,Torc Hz Kaybob 1-14-60-20w5,TORC Oil & Gas Ltd.,,Kaybob,Alberta,,54.18,-116.9,-,Tonnes (t),2017
+28615,Journey 06-15-060-14 W5,Journey Energy Inc.,,N/A,Alberta,,54.18,-116.01,-,Tonnes (t),2017
+683,Kaybob South #3 Gas Plant,Semcams ULC,Kaybob South #3 Road,Fox Creek,Alberta,T0H 1P0,54.19,-116.63,5.55,Tonnes (t),2017
+21640,Kaybob 02-20-060-19w5,Celtic Exploration Ltd.,,Kaybob,Alberta,,54.19,-116.76,-,Tonnes (t),2017
+23883,Para 03-21-060-04w6 Gas Battery,Paramount Resources Ltd.,,N/A,Alberta,,54.19,-118.54,-,Tonnes (t),2017
+26460,12-15-060-17 W5m,Tangle Creek Energy Ltd.,,Whitecourt,Alberta,,54.19,-116.44,0.57,Tonnes (t),2017
+27901,South Kaybob 02-20,XTO Energy Canada ULC,C2a.116 - 505 Quarry Park Boulevard Sout,Calgary,Alberta,T2C5N1,54.19,-116.8,0.57,Tonnes (t),2017
+28793,01-20-060-17 W5m,Tangle Creek Energy Ltd.,,Whitecourt,Alberta,,54.19,-116.5,-,Tonnes (t),2017
+15238,Pass Creek Sweet Gas Plant 11-19-060-19w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.2,-116.84,-,Tonnes (t),2017
+15562,Fox Creek 15-24-060-22w5,Paramount Resources Ltd.,N/A,N/A,Alberta,N/A,54.2,-117.16,-,Tonnes (t),2017
+16119,Fox Creek Gas Plant,Semcams ULC,,Edson,Alberta,,54.2,-116.76,-,Tonnes (t),2017
+24161,Rmp Kaybob 10-22 Compressor,Tangle Creek Energy Ltd.,,Whitecourt,Alberta,,54.2,-116.76,-,Tonnes (t),2017
+24463,Caltex Gas Battery 08-24,Crew Energy Inc.,,N/A,Alberta,,54.2,-117.9,-,Tonnes (t),2017
+28932,Steel Reef Kaybob 04-26-060-18w5,Orlen Upstream Canada Ltd.,,N/A,Alberta,,54.21,-116.59,1.62,Tonnes (t),2017
+29971,Placid 6-29,Athabasca Oil Corporation,,Fox Creek,Alberta,,54.21,-117.41,1.12,Tonnes (t),2017
+22280,Kakwa Gas Processing 01-35-060-05w6,Jupiter Resources Inc.,Amarada Rd.,Greenview No. 16,Alberta,,54.22,-118.62,-,Tonnes (t),2017
+22862,Kakwa Gas Battery 01-35 (Abbt0098047),Encana Corporation,N/A,N/A,Alberta,N/A,54.22,-118.62,-,Tonnes (t),2017
+23422,Placid Gas Battery 06-31,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,54.22,-117.58,-,Tonnes (t),2017
+28792,11-29-060-18 W5m,Tangle Creek Energy Ltd.,,Whitecourt,Alberta,,54.22,-116.66,-,Tonnes (t),2017
+17426,Clover A &Amp; B-Plant 09-34,Paramount Resources Ltd.,,N/A,Alberta,,54.23,-116.61,-,Tonnes (t),2017
+21223,Bonnyville Manufacturing Shop,Altus Energy Services,#1 Nusco Way,Bonnyvlle,Alberta,T9N2H3,54.24,-110.68,-,Tonnes (t),2017
+23193,Bigstone 03-06,Mapan Energy Ltd.,,Bigstone,Alberta,A9A9A9,54.24,-117.29,-,Tonnes (t),2017
+23238,Thunder Sweet Gas Plant 09-06,Trident Exploration Corp,N/A,N/A,Alberta,N/A,54.24,-114.73,-,Tonnes (t),2017
+17134,Sugden Compressor Station 03-16,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,54.26,-111.14,-,Tonnes (t),2017
+18012,Amoco Windfall Heavysound 15-9,Repsol Oil & Gas Canada Inc.,,N/A,Alberta,,54.26,-116.34,-,Tonnes (t),2017
+18772,P-29 Bonnyville,E Construction Ltd.,P 29 - 5302 55th Avenue Street South,Bonnyville,Alberta,T9N 2K6,54.27,-110.75,2.08,Tonnes (t),2017
+24208,Morse River 03-32,Aspenleaf Energy Ltd.,,Morse River,Alberta,,54.27,-115.71,0.8,Tonnes (t),2017
+28773,Kakwa 12-18-061-04-W6,Tourmaline Oil Corp,,Grand Cache,Alberta,,54.27,-118.59,-,Tonnes (t),2017
+21706,Carson Creek Gp 4-23,Pengrowth Energy Corporation,,Whitecourt,Alberta,,54.28,-115.69,-,Tonnes (t),2017
+23028,Greencourt 13-18 Battery,Nexen Inc.,13-18-061-09w5,Doris,Alberta,,54.28,-115.34,-,Tonnes (t),2017
+27966,Carson Creek Gp 4-23,Accel Canada Holdings Limited,,Whitecourt,Alberta,,54.28,-115.69,4.82,Tonnes (t),2017
+6940,Windfall Compressor Station,Alliance Pipeline Ltd.,,Fox Creek,Alberta,T0H1P0,54.29,-116.18,1.09,Tonnes (t),2017
+17832,Enerplus Kakwa 11-23,Rife Resources Ltd.,,Calgary,Alberta,,54.29,-118.49,-,Tonnes (t),2017
+22864,Kakwa Gas Battery 04-26-061-05w6,Jupiter Resources Inc.,Pancan Road,Greenview No. 16,Alberta,,54.3,-118.64,-,Tonnes (t),2017
+28140,Jayar 14-29,Strath Resources Ltd.,600 - 301 8 Avenue Southwest,Jayar,Alberta,,54.3,-118.41,0,Tonnes (t),2017
+18216,Fox Creek Sour Gas Plant 05-36,Sinopec Canada,,N/A,Alberta,,54.31,-116.57,-,Tonnes (t),2017
+23009,Fox Creek Gas Battery 05-36,Sinopec Canada,,N/A,Alberta,,54.31,-116.57,-,Tonnes (t),2017
+29231,Xto Energy Canada 13-32-61-22,XTO Energy Canada ULC,C2a.116 - 505 Quarry Park Boulevard Sout,Calgary,Alberta,T2C5N1,54.31,-117.27,-,Tonnes (t),2017
+16909,Carson Creek 13-36,Accel Canada Holdings Limited,,Whitecourt,Alberta,,54.32,-115.67,1.13,Tonnes (t),2017
+22493,Orion Facilities,Osum Production Corp.,1 No Physical Address Lane,No Physical Address,Alberta,A1A 1A1,54.32,-110.25,5.23,Tonnes (t),2017
+22513,Palliser,Ikkuma Resources Corp.,2700 - 605 5th Avenue Southwest,Calgary,Alberta,T2P 3H5,54.32,-119.81,0.73,Tonnes (t),2017
+28161,Fox Creek Gas Battery 16-32,Sinopec Canada,,N/A,Alberta,,54.32,-116.5,-,Tonnes (t),2017
+28737,Kaybob Swd,Secure Energy Services Inc.,PO Box 329,Fox Creek,Alberta,T0H 1P0,54.32,-116.61,0,Tonnes (t),2017
+29868,Jayar 09-03-062-03w6,Strath Resources Ltd.,600 - 301 8 Avenue Southwest,Jayar,Alberta,,54.33,-118.35,0,Tonnes (t),2017
+16117,Fox Creek 12-12,Celtic Exploration Ltd.,,Woodlands County,Alberta,,54.34,-116.57,-,Tonnes (t),2017
+16358,Narraway Sweet Gas Plant 10-08-062-10w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.34,-119.46,2.43,Tonnes (t),2017
+21548,Tucker Thermal,Husky Oil Operations Limited,0,Bonnyville,Alberta,T9N2G7,54.34,-110.32,23.25,Tonnes (t),2017
+22631,Baytex Sugden 9-11-62-10w4,Baytex Energy Ltd,,Sugden,Alberta,,54.34,-111.38,-,Tonnes (t),2017
+27280,Saxon 09-02-062-25w5,Canadian Natural Resources Limited,,N/A,Alberta,,54.34,-117.65,-,Tonnes (t),2017
+27828,Jayar 06-08-062-03w6,Strath Resources Ltd.,6 - 301 8 Avenue Southwest,Jayar,Alberta,,54.34,-118.41,0.44,Tonnes (t),2017
+29228,Kakwa Gas Plant 07-09-062-08 W6m,Modern Resources Inc.,,Kakwa,Alberta, ,54.34,-119.13,2.11,Tonnes (t),2017
+29943,Simonette 5-7,Cequence Energy Ltd.,,Grande Prairie,Alberta,,54.34,-117.74,0.9,Tonnes (t),2017
+17833,Enerplus Kakwa 15-07-062-04 W6,Rife Resources Ltd.,,N/A,Alberta,,54.35,-118.58,-,Tonnes (t),2017
+17979,Cutbank Gas Plant,Pembina Pipeline Corporation,Unnamed Rd Road,Greenview No. 16,Alberta,,54.35,-119.13,0.62,Tonnes (t),2017
+18010,Tourmaline Musreau 02/08-13-062-06-W6 Ggs,Tourmaline Oil Corp,,Grande Cache,Alberta,,54.35,-118.75,3.99,Tonnes (t),2017
+21977,Devon Narraway 10-08,Devon Canada Corporation,,Narraway,Alberta,,54.35,-119.46,-,Tonnes (t),2017
+24393,Amoco Simonette 11-8-62-25,Canadian Natural Resources Limited,,N/A,Alberta,,54.35,-117.71,-,Tonnes (t),2017
+25221,13-11-062-27 W5m Simonette,Kanata Energy Group Ltd.,1900 - 112 4 Avenue Southwest,Grand Prairie,Alberta,,54.35,-117.94,0.6,Tonnes (t),2017
+28616,Red Rock Gas Battery 09-07-062-06w6,Jupiter Resources Inc.,Block 60 Road,Greenview No. 16,Alberta,,54.35,-118.87,-,Tonnes (t),2017
+5375,Fox Creek Division,Millar Western Forest Products Ltd.,,Fox Creek,Alberta,T0H1P0,54.36,-116.69,2.61,Tonnes (t),2017
+17428,Trilogy Fox Creek Gas Group,Paramount Resources Ltd.,,N/A,Alberta,,54.36,-116.62,0.1,Tonnes (t),2017
+25287,Chime 08-13,Pembina Pipeline Corporation,Unnamed Rd Road,Greenview No. 16,Alberta,,54.36,-118.75,0.47,Tonnes (t),2017
+26516,Red Rock Well Pad 16-13,Encana Corporation,,N/A,Alberta,,54.36,-118.9,-,Tonnes (t),2017
+26649,Tourmaline Musreau 02/09-13-062-06-W6,Tourmaline Oil Corp,,Grande Cache,Alberta,,54.36,-118.75,0.71,Tonnes (t),2017
+17766,Kaybob Ob 03-24-62-20w5,Razor Energy Corp.,,Fox Creek,Alberta,T0H 1P0,54.37,-116.87,0.68,Tonnes (t),2017
+18779,Paramount Kakwa 4-22-062-04w6,Seven Generations Energy Ltd.,,N/A,Alberta,,54.37,-118.52,-,Tonnes (t),2017
+26427,Saxon 10-19,Athabasca Oil Corporation,,Fox Creek,Alberta,,54.37,-117.28,0.52,Tonnes (t),2017
+26515,Red Rock Well Pad 06-19,Encana Corporation,,N/A,Alberta,,54.37,-118.89,-,Tonnes (t),2017
+16111,Fox Creek Trd,Tervita Corp.,,Fox Creek,Alberta,,54.38,-116.96,-,Tonnes (t),2017
+17829,Rife Kakwa 04-25-062-05-W6,Rife Resources Ltd.,,Calgary,Alberta,,54.38,-118.62,-,Tonnes (t),2017
+25284,Musreau Gas Plant,Pembina Pipeline Corporation,Unnamed Rd Road,Greenview No. 16,Alberta,,54.38,-118.77,7.96,Tonnes (t),2017
+26538,Weasone Oil Swb 12-31,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.38,-115.35,0.87,Tonnes (t),2017
+28437,Kaybob 15-28,Semcams ULC,,Kaybob,Alberta,,54.39,-116.93,2.47,Tonnes (t),2017
+28709,Musreau Ii 09-26-062-6w6,Pembina Pipeline Corporation,,N/A,Alberta, ,54.39,-118.77,4.38,Tonnes (t),2017
+29889,Duvernay Kaybob Complex,Pembina Pipeline Corporation,Bigstone Rd Road,M.D. of Greenview,Alberta,T0H1P0,54.39,-116.94,1.6,Tonnes (t),2017
+29956,Waskahigan Mgs 10-29-062-23w5,Pembina Pipeline Corporation,Unnamed Road Road,M.D. of Greenview No. 16,Alberta,T0H1P0,54.39,-117.41,1.36,Tonnes (t),2017
+6697,4 Wing Cold Lake,Department of National Defence,,Cold Lake,Alberta,T9M2C6,54.4,-110.27,1.53,Tonnes (t),2017
+23261,Sakwatamau 12-32,Vero Energy Inc.,12-32-062-13-5,Sakwatamau,Alberta,,54.4,-115.92,-,Tonnes (t),2017
+26501,Kaybob Gas Plant 05-31,Encana Corporation,,N/A,Alberta,,54.4,-117.59,2.18,Tonnes (t),2017
+29494,Kaybob 1-31-062-20w5,Chevron Canada Resources,,Fox Creek,Alberta,,54.4,-116.97,0.54,Tonnes (t),2017
+16105,Judy Creek Trd,Tervita Corp.,,Judy Creek,Alberta,,54.41,-115.63,-,Tonnes (t),2017
+17422,Trilogy Two Creek 07-04,Paramount Resources Ltd.,,N/A,Alberta,,54.41,-116.36,-,Tonnes (t),2017
+22322,Lator 02-06-063-02w6,Strath Resources Ltd.,600 - 301 8 Avenue Southwest,Lator,Alberta,,54.41,-118.28,0.05,Tonnes (t),2017
+24199,Kakwa 16-36-062-06w6,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.41,-118.75,-,Tonnes (t),2017
+25231,Dapp Power Lp,Dapp Power Lp,,Westlock,Alberta,T7P 2N9,54.41,-114.17,0.79,Tonnes (t),2017
+26413,Fox Creek Fst,Secure Energy Services Inc.,PO Box 329,Fox Creek,Alberta,T0H 1P0,54.41,-116.85,1.1,Tonnes (t),2017
+27380,Lts Sakwa 9-6-63-14w5,Ridgeback Resources Inc.,,N/A,Alberta,,54.41,-116.12,-,Tonnes (t),2017
+28182,Kaybob Gas Plant 15-31,Encana Corporation,,N/A,Alberta,T2P 2S5,54.41,-117.14,3.51,Tonnes (t),2017
+2227,Simonette Gas Plant,Keyera Corp,,Simonette,Alberta,,54.42,-117.76,9.35,Tonnes (t),2017
+4150,Kaybob Amalgamated Sour Gas Plant,Semcams ULC,Kaybob Amalgamated,Fox Creek,Alberta,T0H 1P0,54.42,-116.88,11.83,Tonnes (t),2017
+17948,Simonette Compressor Station 11-06-063-25w5,Gain Energy Ltd.,,Simonette,Alberta,,54.42,-117.78,2.42,Tonnes (t),2017
+21393,P-13 Mobile Plant,E Construction Ltd.,,Mobile,Alberta,T6P1W7,54.42,-114.5,11.44,Tonnes (t),2017
+21396,P-24 Mobile Plant,E Construction Ltd.,,Elk Point,Alberta, ,54.42,-110.3,-,Tonnes (t),2017
+23546,Judy Creek Oil Mwb 12-03,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.42,-115.28,1.69,Tonnes (t),2017
+17066,Kakwa Gas Plant 10-07-063-05w6,Husky Oil Operations Limited,,Amundson,Alberta,,54.43,-118.74,0.58,Tonnes (t),2017
+18253,Sakwatamau 06-12-063-15w5,Enercapita Energy Ltd.,,N/A,Alberta,,54.43,-116.13,0.95,Tonnes (t),2017
+19531,Gunderson Gas Battery 10-12-063-12w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.43,-119.67,-,Tonnes (t),2017
+23191,Lator 01-21-063-02w6,Seven Generations Energy Ltd.,,Calgary,Alberta,,54.43,-118.25,0.86,Tonnes (t),2017
+29820,7gen 08-07 08-07-063-04w6,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.43,-118.58,1.69,Tonnes (t),2017
+15861,Waskahigan Gas Battery 06-14-063-24w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.44,-117.52,0.57,Tonnes (t),2017
+18782,Kakwa Comp Stn 01-13,ConocoPhillips Canada Resources Corp.,N/A,N/A,Alberta,N/A,54.44,-118.6,-,Tonnes (t),2017
+26426,Kaybob West 07-14,Athabasca Oil Corporation,,Fox Creek,Alberta,,54.44,-116.9,2.12,Tonnes (t),2017
+26617,Trilogy 102 Hz Kaybobs 3-5-63-20w5,Trilogy Energy Corp.,,N/A,Alberta,,54.44,-116.99,-,Tonnes (t),2017
+26618,Kakwa River Gas Plant 08-13-063-05w6,Pembina Pipeline Corporation,,N/A,Alberta,,54.44,-118.59,14.6,Tonnes (t),2017
+27403,Sakwatamau 13-7-63-14 Swb,Ridgeback Resources Inc.,,N/A,Alberta,,54.44,-116.12,-,Tonnes (t),2017
+28144,Trilogy Hz Kaybob 07-17-063-19w5,Trilogy Resources Ltd.,,N/A,Alberta,,54.44,-116.88,-,Tonnes (t),2017
+28707,Para 102 16-7-63-4w6 Gas Multi Grp,Seven Generations Energy Ltd.,,N/A,Alberta,,54.44,-118.58,-,Tonnes (t),2017
+28819,Virginia Hills Oil Swb 01-14,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.44,-116.14,1.19,Tonnes (t),2017
+17341,Northrock Red Rock 16-14,Taqa North Ltd.,,Red Rock,Alberta,,54.45,-119.09,-,Tonnes (t),2017
+19898,Kaybob 13-18,Trilogy Energy LP,13-18-063-19w5,N/A,Alberta,,54.45,-116.85,-,Tonnes (t),2017
+21100,Lator #2 01-21-063-02w6,Seven Generations Energy Ltd.,,Lator,Alberta, ,54.45,-118.23,2.05,Tonnes (t),2017
+21219,Manatokan Custom Treating Facility 9-14,Devon Canada Corporation,,La Corey,Alberta,,54.45,-111.09,2.93,Tonnes (t),2017
+24082,Red Rock Gas Well 15-15 - Abbt0107210,Encana Corporation,,N/A,Alberta,,54.45,-119.11,-,Tonnes (t),2017
+26619,Para Hz Kakwa 15-5-64-4w6 Gas Swb,Paramount Resources Ltd.,,N/A,Alberta,,54.45,-118.57,-,Tonnes (t),2017
+28669,Kaybob 03-20/04-22,Trilogy Resources Ltd.,N/A,N/A,Alberta,N/A,54.45,-116.79,-,Tonnes (t),2017
+29846,7gen Pad 12-14 12-14-063-05w6,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.45,-118.65,5.07,Tonnes (t),2017
+17446,Judy Creek B-Pool Wp,Pengrowth Energy Corporation,Woodlands County,Woodlands County,Alberta,,54.47,-115.65,-,Tonnes (t),2017
+18771,P-01 Cold Lake,E Construction Ltd.,,Cold Lake,Alberta, ,54.47,-110.21,-,Tonnes (t),2017
+21142,Rio Alto Waskahigan,Canadian Natural Resources Limited,,N/A,Alberta,,54.47,-117.59,-,Tonnes (t),2017
+29485,7gen Pad 23 - 16-23-063-05 W6m,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.47,-118.63,2.26,Tonnes (t),2017
+6723,Latornell,TransCanada Pipelines Ltd.,,N/A,Alberta,,54.48,-118.1,-,Tonnes (t),2017
+17976,Vista Musreau Gas Plant,Talisman Energy,04-25-062-06w6,N/A,Alberta,,54.48,-118.77,-,Tonnes (t),2017
+26560,Judy Creek Oil Mwb 04-31,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.48,-115.35,-,Tonnes (t),2017
+27615,Judy Creek Battery 13-30,Crescent Point Resources Partnership,,N/A,Alberta,,54.48,-115.35,-,Tonnes (t),2017
+28139,Latornell 11-28,Strath Resources Ltd.,600 - 301 8 Avenue Southwest,Latornell,Alberta,,54.48,-118.08,0.03,Tonnes (t),2017
+28708,Para 16-28-63-4w6 Gas Multiwell (B) & (A),Seven Generations Energy Ltd.,,N/A,Alberta,,54.48,-118.53,-,Tonnes (t),2017
+29062,02-34-063-04 Battery,Seven Generations Energy Ltd.,,Grovedale,Alberta, ,54.48,-118.51,-,Tonnes (t),2017
+29064,Para Kakwa 14-28-063-04w6 Mwb Pad,Seven Generations Energy Ltd.,,Grovedale,Alberta,,54.48,-118.54,-,Tonnes (t),2017
+29453,Kaybob Gas Plant 10-29-063,Encana Corporation,500 - Centre Street Southeast,N/A,Alberta, ,54.48,-117.43,4.64,Tonnes (t),2017
+29488,7g Pad 31 - 02-31-063-04w6,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.48,-118.58,1.72,Tonnes (t),2017
+15289,Belloy Battery,Paramount Resources Ltd.,N/A,N/A,Alberta,N/A,54.49,-115.95,0.48,Tonnes (t),2017
+24547,Prospex 04-31 Compressor Station (04-31-063-04w6),Paramount Resources Ltd.,,N/A,Alberta,,54.49,-118.59,-,Tonnes (t),2017
+26596,Pbn Hz Kaybob 16-34-63-18w5,Lightstream Resources Ltd.,,N/A,Alberta,,54.49,-116.65,-,Tonnes (t),2017
+23628,Jcwp 7-6,Accel Energy Canada Limited,,Swan Hills,Alberta,,54.5,-115.48,0.54,Tonnes (t),2017
+27767,Judy Creek Fst,Secure Energy Services Inc.,PO Box 810,Whitecourt,Alberta,T7S 1N8,54.5,-115.41,0.57,Tonnes (t),2017
+28748,7gen Pad 2 - 01-02-064-05 W6m,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.5,-118.63,1.75,Tonnes (t),2017
+28749,7gen Pad 4 - 07-04-064-05 W6m,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.5,-118.68,0.98,Tonnes (t),2017
+29486,7g Pad 6 - 08-06-064-04 W6m,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.5,-118.58,1.95,Tonnes (t),2017
+29532,Kakwa Fst,Secure Energy Services Inc.,Husky Road,Grande Prairie,Alberta,,54.5,-118.7,0.29,Tonnes (t),2017
+29622,Kaybob Gas Pad 11-18-064-20w5,Murphy Oil Company Ltd.,,N/A,Alberta, ,54.5,-116.9,2.92,Tonnes (t),2017
+4566,Judy Creek Production Complex,Accel Energy Canada Limited,,Swan Hills,Alberta,T0G2C0,54.51,-115.51,-,Tonnes (t),2017
+23858,Trilogy Hz Kaybob 16-01,Trilogy Energy Corp.,16-01-064-18w5,N/A,Alberta,,54.51,-116.57,-,Tonnes (t),2017
+29928,Paramount Kaybob 10-02-064-18 W5m,Paramount Resources Ltd.,,N/A,Alberta, ,54.51,-116.6,1.41,Tonnes (t),2017
+3754,Kaybob Gas Plant,Paramount Resources Ltd.,,Fox Creek,Alberta,T0H1P0,54.52,-116.79,3.59,Tonnes (t),2017
+16019,Waskahigan Sweet Gas Plant 15-07-064-23w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.52,-117.46,-,Tonnes (t),2017
+21911,Para Kaybob 12-10-064-19w5,Paramount Resources Ltd.,,N/A,Alberta,,54.52,-116.79,3.48,Tonnes (t),2017
+26320,Rmp Waskahigan 12-07-064-23w5,Tangle Creek Energy Ltd.,,Little Smoky,Alberta,,54.52,-117.46,-,Tonnes (t),2017
+27423,Trilogy Hz Kaybob 09-10-064-19w5,Trilogy Energy Corp.,,N/A,Alberta,,54.52,-116.8,-,Tonnes (t),2017
+28746,7gen Pad 8 - 13-08-064-04 W6m,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.52,-118.57,2.49,Tonnes (t),2017
+29822,7gen Pad 10 10-10-064-05w6,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.52,-118.66,0.44,Tonnes (t),2017
+29844,7gen Pad 12 12-12-064-04w6,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.52,-118.47,0.38,Tonnes (t),2017
+15290,Hope Creek,Apache Canada Ltd.,N/A,N/A,Alberta,N/A,54.53,-115.93,-,Tonnes (t),2017
+17347,Bilbo Northrock 9-13-64-8w6 Ggs,Taqa North Ltd.,,N/A,Alberta,,54.53,-119.06,-,Tonnes (t),2017
+24143,Lre - Caltex 07-14,Long Run Exploration Ltd,,N/A,Alberta,,54.53,-118.79,-,Tonnes (t),2017
+24722,Trilogy Hz Kaybob 03-21-064-18w5,Trilogy Energy Corp.,,N/A,Alberta,,54.53,-116.66,-,Tonnes (t),2017
+27426,Trilogy Smoky River 06-16 South Leg,Trilogy Energy Corp.,,N/A,Alberta,,54.53,-117.11,-,Tonnes (t),2017
+29489,7g Pad 4-14 - 04-14-064-05w6,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.53,-118.65,0.57,Tonnes (t),2017
+29623,Tony Creek Hz 100/01-07-064-20w5/02,Murphy Oil Company Ltd.,,N/A,Alberta, ,54.53,-116.99,1.63,Tonnes (t),2017
+16161,Simonette Battery 16-17,Paramount Resources Ltd.,,N/A,Alberta,,54.54,-117.88,0.47,Tonnes (t),2017
+23190,Karr 07-11-064-04w6,Seven Generations Energy Ltd.,,Calgary,Alberta,,54.54,-118.17,13.11,Tonnes (t),2017
+28685,Coral Hill Oil Swb 01-19,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.54,-115.94,-,Tonnes (t),2017
+28684,Coral Hill Oil Swb 06-21,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.55,-115.3,0.57,Tonnes (t),2017
+28820,Virginia Hills Swb 13-20,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.55,-115.63,5.86,Tonnes (t),2017
+28956,Swan Hills 04-30,Aspenleaf Energy Ltd.,2100 - 240 4 Avenue Southwest,Swan Hills,Alberta,,54.55,-115.18,-,Tonnes (t),2017
+29298,Judy Creek Oil Swb 14-20,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.55,-115.62,-,Tonnes (t),2017
+29642,Swan Hills Oil Mwb 14-22,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.55,-115.42,1.3,Tonnes (t),2017
+28445,Belloy 04-28,Apache Canada Ltd.,,Virginia Hills,Alberta,,54.56,-115.91,-,Tonnes (t),2017
+28821,Coral Hill Oil Swb 04-28,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.56,-115.91,-,Tonnes (t),2017
+440,Judy Creek Gas Conservation Plant,Accel Energy Canada Limited,,Swan Hills,Alberta,,54.57,-115.52,4.17,Tonnes (t),2017
+28691,Coral Hill Oil Swb 15-28,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.57,-115.9,-,Tonnes (t),2017
+28747,7gen Pad 29 - 16-29-064-05 W6m,Seven Generations Energy Ltd.,,Kakwa,Alberta,,54.57,-118.7,1.32,Tonnes (t),2017
+28816,Virginia Hills Oil Swb 13-32,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.57,-115.91,-,Tonnes (t),2017
+6506,Boyle Wood Products Division,Millar Western Forest Products Ltd.,Hwy 63 & Boyle Rd,Boyle,Alberta,T0A0M0,54.58,-112.82,-,Tonnes (t),2017
+28690,Coral Hill Oil Swb 13-31,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.58,-115.96,-,Tonnes (t),2017
+28814,Swan Hills Oil Mwb 12-36,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.58,-115.38,-,Tonnes (t),2017
+442,Cold Lake,Imperial Oil Resources Limited,,Grande Centre,Alberta,T0A1T0,54.59,-110.39,178.92,Tonnes (t),2017
+22466,Virginia Hills 03-02-065-13w5,Penn West Petroleum Ltd.,,N/A,Alberta,,54.59,-115.85,-,Tonnes (t),2017
+28225,Virginia Hills Oil Swb 08-01,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.59,-115.97,-,Tonnes (t),2017
+28688,Coral Hill Oil Swb 04-04,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.59,-115.91,-,Tonnes (t),2017
+28689,Coral Hill Oil Swb 08-06,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.59,-115.94,-,Tonnes (t),2017
+28952,Anten 12-04-065-24w5,Apache Canada Ltd.,,Valleyview,Alberta,,54.59,-117.51,-,Tonnes (t),2017
+24558,Virginia Hills Ob 04-07-65-12w5,Razor Energy Corp.,,Whitecourt,Alberta,T7S 0A1,54.6,-115.81,0.63,Tonnes (t),2017
+26425,Kaybob East 16-03,Athabasca Oil Corporation,,Fox Creek,Alberta,,54.6,-116.62,-,Tonnes (t),2017
+27041,Devon Hz Redrock 1-17-65-9,Devon Canada Corporation,,N/A,Alberta,,54.6,-119.3,-,Tonnes (t),2017
+28950,Anten 09-07-065-24w5,Apache Canada Ltd.,,Valleyview,Alberta,,54.6,-117.57,-,Tonnes (t),2017
+29726,Bilbo 04-25 Group Gas Bty,Harvest Operations Corp.,,N/A,Alberta, ,54.6,-118.77,0.55,Tonnes (t),2017
+15928,Karr Sweet Gas Plant 10-10-065-02w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.61,-118.21,7.15,Tonnes (t),2017
+22694,Rio Alto Karr,Canadian Natural Resources Limited,,N/A,Alberta,,54.61,-118.21,-,Tonnes (t),2017
+26024,Swan Hills Ob 02-14-65-13w5,Razor Energy Corp.,,High Prairie,Alberta,T0G 1E0,54.61,-115.85,1.75,Tonnes (t),2017
+29487,Cutbank 10-10-065-05 W6m,Seven Generations Energy Ltd.,,Cutbank,Alberta,,54.61,-118.66,2.74,Tonnes (t),2017
+29708,Nuvista Single Well Gas Battery 16-10,NuVista Energy Ltd.,N/A,N/A,Alberta,N/A,54.61,-118.8,0.82,Tonnes (t),2017
+21907,Chevron Karr 6-14,Trilogy Energy Corp.,,N/A,Alberta,,54.62,-118.19,-,Tonnes (t),2017
+27827,Rio Alto Waskahigan,Canadian Natural Resources Limited,,N/A,Alberta,,54.62,-117.52,-,Tonnes (t),2017
+29657,South Wapiti Gas Battery 09-16-065-08w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.62,-119.13,0.52,Tonnes (t),2017
+24554,Swan Hills Ob 03-19-65-10w5,Razor Energy Corp.,,High Prairie,Alberta,T0G 1E0,54.63,-115.5,0.21,Tonnes (t),2017
+17445,South Swan Hills,Accel Energy Canada Limited,,Swan Hills,Alberta,,54.64,-115.49,0.94,Tonnes (t),2017
+23481,Karr Comp Stn 16-21,Sinopec Canada,N/A,N/A,Alberta,N/A,54.64,-118.38,-,Tonnes (t),2017
+24575,Pennwest Swan Hills 10-19,Penn West Petroleum Ltd.,,N/A,Alberta,,54.64,-115.49,-,Tonnes (t),2017
+24636,Virgh 4-28-65-13 Multi Oil Bty,Ridgeback Resources Inc.,,N/A,Alberta,,54.64,-115.91,1.25,Tonnes (t),2017
+27511,Karr Swb 04-29,Sinopec Canada,N/A,N/A,Alberta,N/A,54.64,-119.33,-,Tonnes (t),2017
+27877,Bilbo Gas Plant,Harvest Operations Corp.,,N/A,Alberta,,54.64,-118.92,2.63,Tonnes (t),2017
+28954,Celtic Swan Hills 14-19-65-09-W5m,Aspenleaf Energy Ltd.,SWan Hills,Swan Hills,Alberta,,54.64,-115.35,0.61,Tonnes (t),2017
+29702,Nuvista Single Well Gas Battery 12-22,NuVista Energy Ltd.,N/A,N/A,Alberta,N/A,54.64,-118.82,1.03,Tonnes (t),2017
+15292,Akuinu River Gas Plant,Apache Canada Ltd.,,Westlock,Alberta,,54.65,-114.52,-,Tonnes (t),2017
+22495,Tourmaline Chin/09-29 Ggs,Tourmaline Oil Corp,3700 - 250 6th Avenue Southwest,Calgary,Alberta,,54.65,-119.91,1.56,Tonnes (t),2017
+26023,Swan Hills Ob 10-30-65-12w5,Razor Energy Corp.,,High Prairie,Alberta,T0G 1E0,54.65,-115.8,-,Tonnes (t),2017
+28955,Celtic Hz Swan Hills 05-30-65-09-W5m,Aspenleaf Energy Ltd.,,Swan Hills,Alberta,,54.65,-115.35,0.55,Tonnes (t),2017
+16313,Bilbo Compressor Station 04-32-065-07w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.66,-119.03,-,Tonnes (t),2017
+16328,Bilbo Compressor Station 06-34-065-08w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.66,-119.12,-,Tonnes (t),2017
+19122,Ante Creek Sweet Gas Plant 10-36,ARC Resources,N/A,N/A,Alberta,N/A,54.66,-117.65,-,Tonnes (t),2017
+22737,Swan Hills 07-32-065-09-W5m,Aspenleaf Energy Ltd.,2100 - 240 4 Avenue Southwest,Swan Hills,Alberta,,54.66,-115.32,-,Tonnes (t),2017
+28646,Wapiti Gas Battery 03-36,NuVista Energy Ltd.,N/A,N/A,Alberta,N/A,54.66,-118.77,3.05,Tonnes (t),2017
+28721,Progress Karr 1-34 Battery,Progress Energy Canada Ltd.,,Karr,Alberta,,54.66,-118.35,-,Tonnes (t),2017
+17763,Bilbo 16-36-65-7w6,Taqa North Ltd.,,Bilbo,Alberta,,54.67,-118.91,-,Tonnes (t),2017
+21637,Celtic Swan Hills 02-02-066-10 W5m,Aspenleaf Energy Ltd.,,Swan Hills,Alberta,,54.67,-115.39,-,Tonnes (t),2017
+22738,Swan Hills 16-33-065-09w5,Celtic Exploration Ltd.,16-33-065-09-W5,Swan Hills,Alberta,,54.67,-115.29,-,Tonnes (t),2017
+27801,Swan Hills South 13-33,Aspenleaf Energy Ltd.,2100 - 240 4 Avenue Southwest,Calgary,Alberta,,54.67,-115.3,-,Tonnes (t),2017
+15922,Dunvegan Sweet Gas Plant 10-04-066-23w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.68,-117.41,-,Tonnes (t),2017
+16018,Ante Creek 15-05,Canadian Natural Resources Limited,,N/A,Alberta,,54.68,-117.58,-,Tonnes (t),2017
+28645,Wapiti 13-07,NuVista Energy Ltd.,,N/A,Alberta,,54.68,-118.73,-,Tonnes (t),2017
+28872,Big Mountain Gas Battery 08-05-066-05w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.68,-118.7,-,Tonnes (t),2017
+29335,Virginia Hills Oil Swb 13-02,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.68,-115.86,-,Tonnes (t),2017
+18210,Freeman Oil Battery 02-11,Penn West Exploration Ltd,N/A,N/A,Alberta,N/A,54.69,-115.7,-,Tonnes (t),2017
+27608,Swan Hills Oil Swb 03-10,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.69,-115.27,3.17,Tonnes (t),2017
+28817,Virginia Hills Mwb 4-12,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.69,-115.83,-,Tonnes (t),2017
+29869,Freeman 1-11-66-13w5,Coastal Resources Ltd.,1400 - 520 5th Avenue Southwest,Calgary,Alberta, ,54.69,-115.84,0.94,Tonnes (t),2017
+15994,Flat Lake Compressor Station 13-12-066-20w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.7,-112.9,-,Tonnes (t),2017
+24548,Para Karr 06-18 Compressor,Paramount Resources Ltd.,2800 - 421 7 Avenue Southwest,Calgary,Alberta,T2P 4K9,54.7,-118.6,10.11,Tonnes (t),2017
+28839,Big Mountain Gas Battery 01-13-066-06w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.7,-118.75,-,Tonnes (t),2017
+22621,Ante Creek Single Oil Battery 07-18,ARC Resources,N/A,N/A,Alberta,N/A,54.71,-117.61,-,Tonnes (t),2017
+24584,Gulf Meekwap Oil Battery 15-18,Penn West Petroleum Ltd.,,N/A,Alberta,,54.71,-116.25,-,Tonnes (t),2017
+26302,Wapiti 13-16-66-08w6m,Gain Energy Ltd.,,Wapiti,Alberta,,54.71,-119.15,0.91,Tonnes (t),2017
+15611,Wapiti Comp Station 04-23,ConocoPhillips Canada Resources Corp.,N/A,N/A,Alberta,N/A,54.72,-119.11,-,Tonnes (t),2017
+24464,Bilbo Compressor Station 04-23-066-08w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.72,-119.1,1.99,Tonnes (t),2017
+27415,Lionheart et Al Drew Lake 1-21,Harvest Operations Corp.,,N/A,Alberta,,54.72,-117.1,-,Tonnes (t),2017
+18455,Gold Creek 03-30,Canadian Natural Resources Limited,,N/A,Alberta,,54.73,-118.9,-,Tonnes (t),2017
+18926,Karr Gold Creek 15-19-066-04w6,Paramount Resources Ltd.,,N/A,Alberta,,54.73,-118.59,-,Tonnes (t),2017
+28706,Paramount Res. Gas Test Battery 06-30,Paramount Resources Ltd.,,N/A,Alberta,,54.73,-118.74,-,Tonnes (t),2017
+29084,Ante 5-26,RMP Energy Inc.,,Little Smoky,Alberta,,54.73,-117.52,-,Tonnes (t),2017
+26026,Torrington Oil Battery 10-30,Penn West Petroleum Ltd.,,N/A,Alberta,,54.74,-116.25,-,Tonnes (t),2017
+29375,100/13-30-066-08w6/0 (15-29) Swb,Whitecap Resources Inc.,,N/A,Alberta,,54.74,-119.16,-,Tonnes (t),2017
+18750,Swan Hills Oil Battery 05-34-066-10w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.75,-115.43,-,Tonnes (t),2017
+27854,Ante 4-36,RMP Energy Inc.,,Calais,Alberta,,54.75,-117.5,-,Tonnes (t),2017
+16006,Big Bend Sour Gas Plant 13-36-066-27w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.76,-113.95,-,Tonnes (t),2017
+1042,Swan Hills Treatment Center,Suez Canada Waste Services Inc.,10000 Chrystina Lake Road,Swan Hills,Alberta,T0G2C0,54.77,-115.21,0.52,Tonnes (t),2017
+4136,Wolf Lake and Primrose Plant,Canadian Natural Resources Limited,,N/A,Alberta,,54.77,-110.57,51.49,Tonnes (t),2017
+16278,Goose River Oil Battery 10-04,Accel Canada Holdings Limited,,Greenview No. 16,Alberta,,54.77,-116.68,0.69,Tonnes (t),2017
+29362,100/16-04-067-08w6/0 (13-05) Swb,Whitecap Resources Inc.,,N/A,Alberta,,54.77,-119.19,-,Tonnes (t),2017
+15416,Ante Creek Oil Battery 10-07,ARC Resources,N/A,N/A,Alberta,N/A,54.78,-117.65,3.94,Tonnes (t),2017
+24091,Wapiti Oil Battery 16-03,EOG Resources Canada Inc.,,N/A,Alberta,,54.78,-119.12,-,Tonnes (t),2017
+27127,Ante Creek North Sweet Gas Plant 10-07,ARC Resources,N/A,N/A,Alberta,N/A,54.78,-117.64,3.19,Tonnes (t),2017
+17438,Swan Hills Compressor Station 03-18-067-10w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.79,-115.52,1.21,Tonnes (t),2017
+24281,Swan Hills Battery 4-16,Penn West Petroleum Ltd.,,N/A,Alberta,,54.79,-115.32,-,Tonnes (t),2017
+24559,Swan Hills Battery 4-14,Penn West Petroleum Ltd.,,N/A,Alberta,,54.79,-115.26,-,Tonnes (t),2017
+29712,100/15-18-067-08w6/0 (15-07) Swb,Whitecap Resources Inc.,,N/A,Alberta, ,54.79,-119.2,0.58,Tonnes (t),2017
+17058,Wapiti Oil Battery 10-14-067-08w6,Husky Oil Operations Limited,,Grovedale,Alberta,,54.8,-119.1,-,Tonnes (t),2017
+18749,Swan Hills Oil Battery 02-23-067-10w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.8,-115.41,-,Tonnes (t),2017
+18751,Swan Hills Oil Battery 11-18-067-10w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.8,-115.52,-,Tonnes (t),2017
+24468,Home Swan Hills Unit #1 Sf,Canadian Natural Resources Limited,,N/A,Alberta,,54.8,-115.47,-,Tonnes (t),2017
+29711,100/04-20-067-08w6/0 (05-21) Swb,Whitecap Resources Inc.,,N/A,Alberta, ,54.81,-119.16,0.63,Tonnes (t),2017
+6718,Gold Creek,TransCanada Pipelines Ltd.,,N/A,Alberta,,54.82,-118.64,0.55,Tonnes (t),2017
+26268,Ethel Connector 04-26,Aspenleaf Energy Ltd.,,N/A,Alberta,,54.82,-115.11,3.45,Tonnes (t),2017
+27959,Wapati 04-30-67-08w6m,Gain Energy Ltd.,,Wapati,Alberta,,54.82,-119.21,1.13,Tonnes (t),2017
+29248,Gold Creek Oil Battery 01-28-067-04w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.82,-118.53,-,Tonnes (t),2017
+3753,Gold Creek Gas Plant,Canadian Natural Resources Limited,,Grande Prairie,Alberta,T8V8B9,54.83,-118.64,17.14,Tonnes (t),2017
+26558,Swan Hills Oil Mwb 03-36,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.83,-115.54,1.36,Tonnes (t),2017
+17527,Swan Hills Ob 10-32-67-09w5,Razor Energy Corp.,,High Prairie,Alberta,T0G 1E0,54.84,-115.33,0.13,Tonnes (t),2017
+24474,South Wapiti Sweet Gas Plant 16-36-067-09w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.84,-119.22,2.17,Tonnes (t),2017
+27547,South Wapiti Gas Group 16-36,Canadian Natural Resources Limited,,N/A,Alberta,,54.84,-119.22,-,Tonnes (t),2017
+28899,Gold Creek Oil Battery 13-32-067-04w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.84,-118.58,-,Tonnes (t),2017
+28962,Swan Hills 15-01,Aspenleaf Energy Ltd.,,Swan Hills,Alberta,,54.84,-115.23,0.62,Tonnes (t),2017
+28959,Celtic Swan Hills 04-02-68-09-M5w,Aspenleaf Energy Ltd.,,Swan Hills,Alberta,,54.85,-115.26,0.78,Tonnes (t),2017
+21119,Gold Creek Oil Battery 02-11-068-06w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.86,-118.79,-,Tonnes (t),2017
+22037,Cnrl Gas Test Flare Bt,Canadian Natural Resources Limited,,N/A,Alberta,,54.86,-119.22,-,Tonnes (t),2017
+27131,Comaplex Swan Hills Oil Battery 04-08,ARC Resources,N/A,N/A,Alberta,N/A,54.86,-115.49,-,Tonnes (t),2017
+15606,South Wapiti Compressor Station 10-07-068-09w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.87,-119.36,-,Tonnes (t),2017
+28716,Gold Creek 05-11-068-06w6,Progress Energy Canada Ltd.,,Gold Creek,Alberta,,54.87,-118.81,-,Tonnes (t),2017
+28916,Wapiti Gas Battery 08-10,NuVista Energy Ltd.,N/A,N/A,Alberta,N/A,54.87,-119.12,4.82,Tonnes (t),2017
+24321,Swan Hills Oil Battery 10-17,ARC Resources,N/A,N/A,Alberta,N/A,54.88,-115.48,0.68,Tonnes (t),2017
+15131,Ante Creek North Sour Gas Plant 02-26,ARC Resources,N/A,N/A,Alberta,N/A,54.89,-117.7,1.39,Tonnes (t),2017
+15789,Tweedie Compressor Station 01-19-068-12w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.89,-111.81,-,Tonnes (t),2017
+19347,Deer Mountain Oil Bt 10-19,Aspenleaf Energy Ltd.,,Calgary,Alberta,,54.9,-115.2,2.97,Tonnes (t),2017
+22562,Arc Elm 5-30 Cr-Oil Proration Bty,Whitecap Resources Inc.,,N/A,Alberta,,54.91,-118.91,1.73,Tonnes (t),2017
+1,Alberta-Pacific Forest Industries Inc.,Alberta-Pacific Forest Industries Inc.,,County of Athabasca,Alberta,T0A0M0,54.92,-112.86,328.06,Tonnes (t),2017
+24694,Wapiti Gas Battery 01-31,Sinopec Canada,N/A,N/A,Alberta,N/A,54.92,-119.19,-,Tonnes (t),2017
+26417,South Gp Fst,Secure Energy Services Inc.,PO Box 382,Grovedale,Alberta,T0H 1X0,54.92,-118.77,-,Tonnes (t),2017
+28741,South Grande Prairie Lf,Secure Energy Services Inc.,29 - Kms South of Grande Praire on Hwy 4,Grande Prairie,Alberta,T0H 1X0,54.92,-118.77,1.29,Tonnes (t),2017
+27381,Lts Swan H 3-34-68-9w5,Lightstream Resources Ltd.,,N/A,Alberta,,54.93,-115.28,-,Tonnes (t),2017
+27398,Pbn Hz Swanh 4-34-68-09w5,Lightstream Resources Ltd.,,N/A,Alberta,,54.93,-115.28,-,Tonnes (t),2017
+29812,Velvet Bezan 07-10-069-03 W6m,Velvet Energy Ltd.,*Near* Forestry Trunk Road,Greenview No. 16,Alberta,,54.93,-118.32,1.43,Tonnes (t),2017
+24320,Swb Oil Battery 06-01,ARC Resources,N/A,N/A,Alberta,N/A,54.94,-117.62,-,Tonnes (t),2017
+26210,Gold Creek 06-03-069-06w6,Progress Energy Canada Ltd.,,Gold Creek,Alberta,,54.94,-118.82,-,Tonnes (t),2017
+28356,Lts Deer Mtn 6-3-69-9w5 Mwob,Ridgeback Resources Inc.,N/A,N/A,Alberta,N/A,54.94,-115.28,-,Tonnes (t),2017
+432,Wapiti Gas Plant,Canadian Natural Resources Limited,,Grovedale,Alberta,,54.95,-119.19,4.61,Tonnes (t),2017
+18709,Elmworth Comp Stn 05-09,Sinopec Canada,N/A,N/A,Alberta,N/A,54.95,-119.78,-,Tonnes (t),2017
+19454,Deer Mtn.#1 Bty 4-7,Accel Canada Holdings Limited,,Dear Mountain,Alberta,T2P0B4,54.95,-115.21,-,Tonnes (t),2017
+19538,Elmworth Gas Group,Canadian Natural Resources Limited,,N/A,Alberta,,54.95,-119.19,-,Tonnes (t),2017
+28536,14-06-069-05w6,Chinook Energy Inc.,,N/A,Alberta,,54.95,-118.75,-,Tonnes (t),2017
+29698,Nuvista Single Well Gas Battery 01-09,NuVista Energy Ltd.,N/A,N/A,Alberta,N/A,54.95,-118.99,1.44,Tonnes (t),2017
+16391,Devon Elmworth Halfway 15-09,Devon Canada Corporation,,Elmworth,Alberta,,54.96,-119.3,-,Tonnes (t),2017
+16861,Wapiti Compressor Station 07-24-068-07w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,54.96,-119.13,-,Tonnes (t),2017
+17247,Nal Sturgeon Lake Gas Plant 13-07-069-24-W5,NAL Resources Management,,Sturgeon Lake,Alberta,,54.96,-117.67,-,Tonnes (t),2017
+26535,Swan Hills Oil Mwb 14-09,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.96,-115.46,1.74,Tonnes (t),2017
+27194,Elmworth 4-9-69-9w6,Canadian Natural Resources Limited,,N/A,Alberta,,54.96,-119.33,-,Tonnes (t),2017
+27382,Lts Swanh 12-9-69-9w5,Lightstream Resources Ltd.,,N/A,Alberta,,54.96,-115.29,-,Tonnes (t),2017
+27401,Pbn Swanh 1-16-69-9w5,Lightstream Resources Ltd.,,N/A,Alberta,,54.96,-115.3,-,Tonnes (t),2017
+27512,Wapiti Comp Stn 15-09,Sinopec Canada,N/A,N/A,Alberta,N/A,54.96,-119.3,0.68,Tonnes (t),2017
+28815,Swan Hills Oil Swb 01-13,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.96,-115.52,-,Tonnes (t),2017
+16106,Valleyview Trd,Tervita Corp.,,Valleyview,Alberta,,54.97,-117.28,-,Tonnes (t),2017
+22103,South Wapiti Trd,Tervita Corp.,,South Wapiti,Alberta,,54.97,-118.77,-,Tonnes (t),2017
+27400,Pbn Swanh 08-17-69-09w5 Mwob,Ridgeback Resources Inc.,,N/A,Alberta,,54.97,-115.32,7.95,Tonnes (t),2017
+27609,Cpec Swanhills Swb 09-20,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,54.99,-115.47,-,Tonnes (t),2017
+19046,Sunset Oil Battery 14-29,Enercapita Energy Ltd.,,N/A,Alberta,,55,-116.87,1.18,Tonnes (t),2017
+21046,Swan Hills Oil Battery 10-28,ARC Resources,N/A,N/A,Alberta,N/A,55,-115.46,2.83,Tonnes (t),2017
+23292,House Mountain 10-30,Apache Canada Ltd.,,Swan Hills,Alberta,,55,-115.35,-,Tonnes (t),2017
+24267,Gold Creek 07-32,Chinook Energy Inc.,,Grovedale,Alberta,,55.01,-118.56,-,Tonnes (t),2017
+28686,Coral Hill Oil Swb 02-35,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,55.01,-115.25,0.6,Tonnes (t),2017
+4880,Grande Prairie Osb Mill,Norbord Inc.,40 Highway,Grande Prairie,Alberta,T8V6Y9,55.02,-118.74,45.94,Tonnes (t),2017
+22980,Gold Creek 14-32,Craft Oil Inc.,,Grande Prairie,Alberta,,55.02,-118.57,-,Tonnes (t),2017
+23511,Mobil Mitsue 4-3,Devon Canada Corporation,,Mitsue,Alberta,,55.02,-114.37,-,Tonnes (t),2017
+28687,Coral Hill Oil Swb 04-01,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,55.02,-115.54,-,Tonnes (t),2017
+28837,Gold Creek Gas Battery 01-06-070-08w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.02,-119.19,-,Tonnes (t),2017
+4928,Elmworth Gas Battery 04-08,ConocoPhillips Canada Resources Corp.,,N/A,Alberta,,55.04,-119.63,-,Tonnes (t),2017
+5224,House Mountain Complex,Cardinal Energy Ltd.,,Swan Hills,Alberta,T0G 2C0,55.04,-115.47,0.51,Tonnes (t),2017
+16687,Caribou North Comp Stn 11-08,Cenovus Energy Inc.,0,Bonnyville,Alberta,T9N2H4,55.04,-110.57,-,Tonnes (t),2017
+23956,Elmworth Gas Plant,Cenovus Energy Inc.,0,Elmworth,Alberta,T0H1J0,55.04,-119.63,8.33,Tonnes (t),2017
+29900,House Mountain 12-12-70-10w5,Cardinal Energy Ltd.,,Swan Hills,Alberta,T0G 2C0,55.04,-115.39,1.27,Tonnes (t),2017
+6627,Foster Creek Sagd Bitumen Battery (With Cogen),Cenovus Fccl Ltd. as Operator for FCCL Partnership,0,Bonnyville,Alberta,T9N2J7,55.06,-110.53,25.2,Tonnes (t),2017
+15790,Calling Lake South Sour Gas Plant 01-20-070-22w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.06,-113.31,-,Tonnes (t),2017
+2796,Grande Prairie Plant,ERCO Worldwide a Division of Superior Plus LP,Contractor Road off Resources Road,Grande Prairie,Alberta,T8V3R5,55.07,-118.68,1.27,Tonnes (t),2017
+2875,International Paper Canadian Pulp Holdings Ulc,International Paper Company,10 Km Se on Resources Road,Grande Prairie,Alberta,T8V3A9,55.07,-118.69,57.11,Tonnes (t),2017
+5370,Sturgeon Lake South Sour Gas Plant 02-02-06-22w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.07,-117.27,-,Tonnes (t),2017
+18315,Sunset Sour Gas Plant 06-22,Enercapita Energy Ltd.,,N/A,Alberta,,55.07,-116.97,-,Tonnes (t),2017
+28464,Grande Prairie Sawmill,Weyerhaeuser Company Limited,12 Km's South on Resources Road Road Sou,Grande Prairie,Alberta,T8V 3A9,55.07,-118.68,1,Tonnes (t),2017
+23294,House Mountain 14-20,Apache Canada Ltd.,,Swan Hills,Alberta,,55.08,-115.64,-,Tonnes (t),2017
+21287,Elmworth Oil Battery 11-29,ConocoPhillips Canada Resources Corp.,,N/A,Alberta,,55.09,-119.18,-,Tonnes (t),2017
+22223,Elmworth Oil Battery 14-29,ConocoPhillips Canada Resources Corp.,14-29-070-08w6,N/A,Alberta,,55.09,-119.18,-,Tonnes (t),2017
+29703,Nuvista Single Well Gas Battery 13-27,NuVista Energy Ltd.,N/A,N/A,Alberta,N/A,55.09,-119.14,1.53,Tonnes (t),2017
+21286,Elm Oil Battery 05-32,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,55.1,-119.19,0.85,Tonnes (t),2017
+15314,Chevron Snipe Lake Unit No.1,Long Run Exploration Ltd,,N/A,Alberta,,55.11,-116.71,-,Tonnes (t),2017
+21842,Taqa North 16-31-70-8w6,Taqa North Ltd.,,Elmworth,Alberta,,55.11,-119.19,-,Tonnes (t),2017
+22225,Elmworth Oil Battery 14-32,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,55.11,-119.18,0.73,Tonnes (t),2017
+28184,Pipestone Comp Stn 16-34,Encana Corporation,,N/A,Alberta,T2P 2S5,55.11,-119.27,1.33,Tonnes (t),2017
+28635,Muni Plant,N.P.A. Limited (Wapiti Gravel Suppliers),4201 93 Street,Grande Prairie,Alberta,T8V 3A8,55.11,-118.77,-,Tonnes (t),2017
+28148,Guide Bezanson 02-07-071-03w6,Long Run Exploration Ltd,,N/A,Alberta,,55.13,-118.44,-,Tonnes (t),2017
+16153,Mitsue Gp 08-15-71-04w5,Cardinal Energy Ltd.,,Slave Lake,Alberta,T0G 2A0,55.14,-114.51,0.63,Tonnes (t),2017
+28385,Chevron Mitsue Compressor Station 08-15,Penn West Petroleum Ltd.,N/A,N/A,Alberta,N/A,55.14,-114.51,-,Tonnes (t),2017
+28537,Elmworth Ob 15-18-71-10w6,Cardinal Energy Ltd.,,Elmworth,Alberta,T0H 1J0,55.15,-119.52,0.35,Tonnes (t),2017
+5170,Grande Prairie,Canadian Forest Products Ltd,9401 108th Street,Grande Prairie,Alberta,T8V3A3,55.16,-118.81,25.88,Tonnes (t),2017
+19958,Canfor Green Energy Combined Heat and Power Plant,Canadian Forest Products Ltd.,8701 108 Street,Grande Prairie,Alberta,T8V4C5,55.16,-118.81,34.96,Tonnes (t),2017
+18142,Bear Creek Power Plant,TransCanada Energy Ltd.,,Grande Prairie,Alberta,T8V3A9,55.17,-118.83,0.72,Tonnes (t),2017
+5389,Peco Sweet Gas Plant,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,55.19,-116.22,0.54,Tonnes (t),2017
+18273,Grande Prairie Cpc (Au) Viterra,Viterra Inc.,9728 128th Avenue,Grande Prairie,Alberta,T8V4J4,55.19,-118.78,-,Tonnes (t),2017
+29457,Trouw Nutrition Canada Inc. Grande Prairie Ab,Trouw Nutrition Canada Inc. (Hp),12805 97b Street Street East,Grande Prairie,Alberta,T8V 6K1,55.19,-118.78,3.11,Tonnes (t),2017
+19395,Sinclair Comp Stn 02-02,ConocoPhillips Canada Resources Corp.,,N/A,Alberta,,55.2,-119.88,-,Tonnes (t),2017
+22581,Sturgeon Sweet Gas Plant 03-03-072-26w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.2,-117.91,-,Tonnes (t),2017
+27790,Clairmont 06-07,Craft Oil Inc.,,Grande Prairie,Alberta,,55.22,-118.6,-,Tonnes (t),2017
+22403,6-18-72-7w5m Battery,BlackPearl Resources Inc.,,Calgary,Alberta,,55.23,-115.06,-,Tonnes (t),2017
+3959,Slave Lake Pulp - Slave Lake,Slave Lake Pulp - a division of West Fraser Mills,,Slave Lake,Alberta,T0G2A0,55.24,-114.51,14.24,Tonnes (t),2017
+16277,Goodfare Sweet Gas Plant,Tidewater Midstream and Infrastructure Ltd.,,N/A,Alberta,,55.24,-119.68,0.21,Tonnes (t),2017
+21141,Albright Oil Battery 06-24-072-09w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.24,-119.24,-,Tonnes (t),2017
+23236,Tolko Athabasca,Tolko Industries Ltd.,,Slave Lake,Alberta,T0G2A0,55.24,-114.49,25.74,Tonnes (t),2017
+24714,Mark et Al Grande Prairie 06-19,Taqa North Ltd.,,Knopcik,Alberta,,55.24,-118.91,-,Tonnes (t),2017
+28143,Trilogy 102 Hz Albrt 08-25-072-09w6,Trilogy Resources Ltd.,,N/A,Alberta,,55.24,-119.24,-,Tonnes (t),2017
+16108,Mitsue Trd & Lf,Tervita Corp.,,Slave Lake,Alberta,T0G 2B0,55.25,-114.58,-,Tonnes (t),2017
+17335,Mark et Al Wembley 16-24,Taqa North Ltd.,,Knopcik,Alberta,,55.25,-118.93,0.99,Tonnes (t),2017
+17340,Encal Grande Prairie 14-19-72-6,Taqa North Ltd.,,Knopcik,Alberta,,55.25,-118.91,0.63,Tonnes (t),2017
+18715,Beaver Lodge 14-22,Devon Canada Corporation,,Beaverlodge,Alberta,,55.25,-119.45,-,Tonnes (t),2017
+21762,High Prairie Fractionation Plant,Plains Midstream Canada,,High Prairie,Alberta,,55.25,-116.29,0.85,Tonnes (t),2017
+23242,Trilogy Bm 09-24-072-09w6 Oil Bty,Paramount Resources Ltd.,,N/A,Alberta,,55.25,-119.23,-,Tonnes (t),2017
+27421,Trilogy Bm 09-24-072-09w6 Oil Bty,Trilogy Resources Ltd.,,Wembley,Alberta,,55.25,-119.23,-,Tonnes (t),2017
+5371,Vanderwell Contractors (1971) Ltd.,Vanderwell Contractors (1971) Ltd.,695 West Mitsue Industrial Road,Slave Lake,Alberta,T0G 2A0,55.26,-114.58,0.64,Tonnes (t),2017
+15970,Mitsue Ob 14-30-72-04w5,Cardinal Energy Ltd.,,Slave Lake,Alberta,T0G 2A0,55.26,-114.6,0.64,Tonnes (t),2017
+16149,Mitsue Sour Gp 10-30-72-4w5,Cardinal Energy Ltd.,,Slave Lake,Alberta,T0G 2A0,55.26,-114.6,0.96,Tonnes (t),2017
+27422,Trilogy Hz Albrt 08-25-072-09w6,Trilogy Energy Corp.,,N/A,Alberta,,55.26,-119.23,-,Tonnes (t),2017
+28533,Beaverlodge Ob 06-26-72-10w6,Cardinal Energy Ltd.,,Wembley,Alberta,T2R 0A8,55.26,-119.42,-,Tonnes (t),2017
+5157,Alberta Plywood Slave Lake Veneer,Alberta Plywood Ltd.,Mitsue Industrial Site,Slave Lake,Alberta,T0G2A0,55.27,-114.6,30.88,Tonnes (t),2017
+21394,P-02 Mobile Plant,E Construction Ltd.,Northeast,Slave Lake,Alberta,T9H3G3,55.27,-114.76,9.23,Tonnes (t),2017
+25209,Birchliff Teepee 8-36-72-4,Birchcliff Energy Ltd.,,Teepee,Alberta,,55.27,-118.46,-,Tonnes (t),2017
+24306,Chevron Mitsue Gilwood A,Penn West Petroleum Ltd.,,N/A,Alberta,,55.28,-114.58,-,Tonnes (t),2017
+24397,Wembley Oil Battery 11-36-072-08w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.28,-119.09,-,Tonnes (t),2017
+15714,Noel Sweet Gas Plant,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,55.29,-120.48,3.26,Tonnes (t),2017
+16100,La Glace Trd,Tervita Corp.,,La Glace,Alberta,,55.3,-119.2,-,Tonnes (t),2017
+24403,Wembley Oil Battery 14-03-073-08w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.3,-119.14,2.11,Tonnes (t),2017
+28532,Primrose Oil Battery (06-10),Cenovus Fccl Ltd. as Operator for FCCL Partnership,,N/A,Alberta,,55.3,-110.84,-,Tonnes (t),2017
+28744,Emerson Swd,Secure Energy Services Inc.,RR1 Site 14 Box 14,Sexsmith,Alberta,T0H 3C0,55.3,-119.02,0.05,Tonnes (t),2017
+18567,High Prairie Trd,Tervita Corp.,,High Prairie,Alberta,,55.31,-116.49,0.45,Tonnes (t),2017
+26414,Laglace Fst,Secure Energy Services Inc.,RR1 Site 14 Box 14,Sexsmith,Alberta,T0H 3C0,55.31,-119.2,1.07,Tonnes (t),2017
+17362,Mark Grande Prairie 16-16,Taqa North Ltd.,,Knopcik,Alberta,,55.32,-119,-,Tonnes (t),2017
+23347,Wide Water 15-16-73-7w5,Canadian Natural Resources Limited,,N/A,Alberta,,55.32,-115.01,-,Tonnes (t),2017
+29146,Sexsmith Viterra,Viterra Inc.,2 Highway South,Sexsmith,Alberta,T0H 3C0,55.32,-118.78,2.45,Tonnes (t),2017
+536,Wembley Gas Plant,Cenovus Energy Inc.,,Wembley,Alberta,T0H3S0,55.33,-119.22,3.72,Tonnes (t),2017
+15869,Knopcik Oil Battery 06-24-073-10w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.33,-119.4,0.58,Tonnes (t),2017
+18122,Teepee Oil Battery 14-21-072-03w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.33,-118.53,1.21,Tonnes (t),2017
+23432,Northern Prairie Thermal Electric Power Plant,Grande Prairie Generation Inc.,RR#1 Site 14 Box 15,Sexsmith,Alberta,T0H3C0,55.34,-119.21,1.34,Tonnes (t),2017
+26109,Kirby South 13-21-73-7w4,Canadian Natural Resources Limited,2705 - 5 Street,Nisku,Alberta,T9E 0C2,55.34,-111.03,14.93,Tonnes (t),2017
+23937,Defiant Res Sheldon 7-26-73-23 W5,Perpetual Energy Inc.,,N/A,Alberta,,55.35,-117.42,-,Tonnes (t),2017
+24467,Amoco Kirby,Devon Canada Corporation,,Kirby South,Alberta,,55.35,-110.63,1.26,Tonnes (t),2017
+16743,Hythe Comp Stn 07-34,Encana Corporation,,N/A,Alberta,,55.36,-119.76,0.54,Tonnes (t),2017
+18002,Teepee Creek Sour Gas Plant 07-02-074-04w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.37,-118.49,2.13,Tonnes (t),2017
+21476,Mitsue 16-31-73-5w5,Exall Energy Corporation,,Slave Lake,Alberta,,55.37,-114.74,-,Tonnes (t),2017
+25312,Surge Valhalla 14-32,Surge Energy Inc.,,La Glace,Alberta,,55.37,-119.19,-,Tonnes (t),2017
+25311,Surge Valhalla 16-06,Surge Energy Inc.,,La Glace,Alberta,,55.38,-119.2,-,Tonnes (t),2017
+15229,Knopcik Sweet Gas Plant 09-10-074-11w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.39,-119.59,1.44,Tonnes (t),2017
+18841,Valhalla Oil Battery 06-18,Surge Energy Inc.,,La Glace,Alberta,,55.4,-119.22,2.04,Tonnes (t),2017
+25003,Knopcik 6-17-74-10w6,Insignia Energy Ltd.,,Knopcik,Alberta,,55.4,-119.48,0.66,Tonnes (t),2017
+25313,Surge Valhalla 14-07,Surge Energy Inc.,,La Glace,Alberta,,55.4,-119.22,-,Tonnes (t),2017
+25314,Surge Valhalla 04-19,Surge Energy Inc.,,La Glace,Alberta,,55.41,-119.22,-,Tonnes (t),2017
+16935,High Prairie Forest Products,High Prairie Forest Products,Railroad 1 Avenue,High Prairie,Alberta,T0G1E0,55.42,-116.49,8.05,Tonnes (t),2017
+15804,Mitsue Oil Battery 02-26-074-06w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.43,-114.8,-,Tonnes (t),2017
+16304,Lre - Puskwaskau 03-26,Long Run Exploration Ltd,,N/A,Alberta,,55.43,-118.04,-,Tonnes (t),2017
+22859,P-28 Mobile Plant,E Construction Ltd.,P 28 - 5416 55th Street West,High Prairie,Alberta,T0G1E0,55.43,-116.51,-,Tonnes (t),2017
+25235,Mitsue 13-19-74-05w5m,Exall Energy Corporation,,Mitsue,Alberta,,55.43,-114.76,-,Tonnes (t),2017
+26310,Mitsue 09-30-74-05w5m,Exall Energy Corporation,,Mitsue,Alberta,,55.44,-114.74,-,Tonnes (t),2017
+28300,Knopcik 16-30-74-10w6 Wet Meter Batt,Canadian Natural Resources Limited,,N/A,Alberta,,55.44,-119.51,-,Tonnes (t),2017
+6729,Paul Lake,TransCanada Pipelines Ltd.,,N/A,Alberta,,55.45,-113.92,-,Tonnes (t),2017
+24181,Mitsue 13-31-74-5w5m,Exall Energy Corporation,,Mitsue,Alberta,,55.45,-114.76,-,Tonnes (t),2017
+26309,Mitsue 12-31-74-5w5m,Exall Energy Corporation,,Mitsue,Alberta,,55.45,-114.76,-,Tonnes (t),2017
+29100,Valhalla Swb 13-31,Surge Energy Inc.,,N/A,Alberta,,55.45,-119.22,-,Tonnes (t),2017
+29463,Valhalla Oil Battery 08-06,Surge Energy Inc.,,N/A,Alberta,,55.46,-119.21,-,Tonnes (t),2017
+29105,Valhalla Swb 12-06,Surge Energy Inc.,,N/A,Alberta,,55.47,-119.23,-,Tonnes (t),2017
+29106,Valhalla Swb 13-06,Surge Energy Inc.,,N/A,Alberta,,55.47,-119.23,-,Tonnes (t),2017
+4823,Sexsmith Sour Gas Plant,Encana Corporation,,N/A,Alberta,,55.48,-119.05,7.14,Tonnes (t),2017
+5239,Hythe Brainard Sour Gas Plant,Veresen Midstream General Partner Inc.,,N/A,Alberta,,55.48,-119.75,10.12,Tonnes (t),2017
+19929,Narrows Point Generating Station,ATCO Electric Ltd.,,M.D. of Big Lakes,Alberta,T0G 1E0,55.48,-115.39,0.81,Tonnes (t),2017
+22580,Lre - Kakut 14-12,Long Run Exploration Ltd,,N/A,Alberta,,55.48,-118.32,-,Tonnes (t),2017
+22665,Crestar Valhalla 16-8-75-9,Long Run Exploration Ltd,,N/A,Alberta,,55.48,-119.34,-,Tonnes (t),2017
+15420,Surge Valhalla 06-14,Surge Energy Inc.,RR92 County of Grande Prairie No. 1 Road,N/A,Alberta, ,55.49,-119.28,-,Tonnes (t),2017
+18197,Grouard 02-13,Whitecap Resources Inc.,N/A,N/A,Alberta,N/A,55.49,-116.18,-,Tonnes (t),2017
+18198,Whitecap Grouard 07-18-075-15w5m,Whitecap Resources Inc.,,Grouard,Alberta,,55.49,-116.32,-,Tonnes (t),2017
+28033,Jackfish 3 Sagd Plant,Devon Canada Corporation,,Conklin,Alberta,,55.51,-110.95,7.7,Tonnes (t),2017
+16633,Whitecap Valhalla North 03-27-075-09w6,Whitecap Resources Inc.,,Valhalla,Alberta,,55.52,-119.31,-,Tonnes (t),2017
+22267,Jackfish 1 Sagd Plant,Devon Canada Corporation,,Conklin,Alberta,,55.52,-110.87,8.47,Tonnes (t),2017
+24366,La Glace Sweet Gas Plant 01-29-075-09w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.52,-119.35,1.14,Tonnes (t),2017
+24465,Jackfish 2 Sagd Plant,Devon Canada Corporation,,Conklin,Alberta,,55.52,-110.99,7.99,Tonnes (t),2017
+24408,Rycroft Oil Battery 16-26-075-06w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.53,-118.8,-,Tonnes (t),2017
+23281,Glacier Sour Gas Plant 05-02,Advantage Oil & Gas Ltd.,,N/A,Alberta,,55.55,-119.75,11.36,Tonnes (t),2017
+23763,Saddle Hills 06-02-076-06w6,Canadian Natural Resources Limited,,N/A,Alberta,,55.55,-118.81,-,Tonnes (t),2017
+22929,Lre - Girouxville 103/13-04,Long Run Exploration Ltd,,N/A,Alberta,,55.56,-117.05,-,Tonnes (t),2017
+18360,Valhalla Oil Battery 13-08,Surge Energy Inc.,Unnamed Road Saddle Hills County,N/A,Alberta,,55.57,-119.52,-,Tonnes (t),2017
+27151,Randell 16-11-76-11w5,Spyglass Resources Corp.,,N/A,Alberta,,55.57,-115.58,-,Tonnes (t),2017
+29247,Valhalla Oil Battery 01-18-076-08w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.57,-119.21,-,Tonnes (t),2017
+6625,Christina Lake Sagd Bitumen Battery,Cenovus Fccl Ltd. as Operator for FCCL Partnership,0,Lac la Biche,Alberta,T0P1J0,55.58,-110.88,28.72,Tonnes (t),2017
+15596,Marten Hills Sour Gas Plant 12-18-076-25w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.58,-117.89,1.07,Tonnes (t),2017
+15713,Brassey Comp Station D-013-F,Cenovus Energy Inc.,N/A,N/A,Alberta,N/A,55.59,-120.78,-,Tonnes (t),2017
+21308,Saddle Hills Oil Battery 14-13-076-08w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.59,-119.1,-,Tonnes (t),2017
+17760,Cascade Valhalla,Taqa North Ltd.,,Valhalla/Pouce Coupe,Alberta,,55.6,-119.34,3.2,Tonnes (t),2017
+22576,Lre - Eaglesham 01-25,Long Run Exploration Ltd,,N/A,Alberta,,55.6,-118,-,Tonnes (t),2017
+23770,Cascade Valhalla,Taqa North Ltd.,,Valhalla/Pouce Coupe,Alberta,,55.6,-119.34,-,Tonnes (t),2017
+23553,Shane 10-30-076-01 W6,Guide Exploration Ltd.,,N/A,Alberta,,55.61,-118.13,-,Tonnes (t),2017
+23599,Girouxville 12-28-76-22w5,NAL Resources Management,,Girouxville,Alberta,,55.61,-117.36,-,Tonnes (t),2017
+25212,2-36-76-18w4m,BlackPearl Resources Inc.,,Wandering River,Alberta,,55.62,-112.65,1.41,Tonnes (t),2017
+15945,Duncan Compressor Station 10-36-076-15w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.63,-112.18,0.92,Tonnes (t),2017
+16835,Valhalla Oil Battery 14-36,Enerplus Corporation,,N/A,Alberta,,55.63,-119.57,-,Tonnes (t),2017
+22921,Eaglesham 14-36-076-01w6,Galleon Energy Inc.,14-36-076-01w6,,Alberta,,55.63,-118.01,-,Tonnes (t),2017
+28657,Sundown B-067-H/093-P-10,Tourmaline Oil Corp,3700 - 250 6th Avenue Southwest,Calgary,Alberta,T2P3H7,55.63,-120.58,2.02,Tonnes (t),2017
+15128,Marten Creek Sour Gas Plant 10-02,Tidewater Midstream and Infrastructure Ltd.,,N/A,Alberta,,55.64,-114.65,-,Tonnes (t),2017
+22578,Lre - Donnelly 06-01,Long Run Exploration Ltd,,N/A,Alberta,,55.64,-117.11,0.53,Tonnes (t),2017
+23096,Girouxville Oil Battery 06-03,Penn West Petroleum Ltd.,N/A,N/A,Alberta,N/A,55.64,-117.32,-,Tonnes (t),2017
+16302,Leismer 03-07,Devon Canada Corporation,,Leismer,Alberta,,55.65,-111.08,2.59,Tonnes (t),2017
+17479,Heart River Gas Plant 4-11-77-16w5,Penn West Petroleum Ltd.,,N/A,Alberta,,55.65,-116.38,-,Tonnes (t),2017
+28771,Spirit River Gp 03-10-077-07-W6,Tourmaline Oil Corp,,Grand Prairie,Alberta,,55.65,-118.99,3.69,Tonnes (t),2017
+16301,Eaglesham Sweet Gas Plant 02-14-077-25w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.66,-117.76,-,Tonnes (t),2017
+21959,Lafarge Canada Inc. Greater Edmonton Villeneuve Aggregates,Lafarge North America,,Sturgeon County,Alberta, ,55.66,-113.78,-,Tonnes (t),2017
+22346,Meg Christina Lake Regional Project,MEG Energy Corp.,,Regional Municipality of Wood,Alberta,T2T6N9,55.66,-110.71,24.22,Tonnes (t),2017
+22544,Whitesands Project,Grizzly Oil Sands Ulc,,Conklin,Alberta,,55.66,-111.25,-,Tonnes (t),2017
+24100,Meg Christina Lake Cogeneration Facility,MEG Energy Corp.,,Regional Municipality of Wood,Alberta,T2T6N9,55.66,-110.71,32.11,Tonnes (t),2017
+19296,Progress Oil Battery 14-17-077-09w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.67,-119.35,-,Tonnes (t),2017
+24209,Lre - Girouxville 15-16,Long Run Exploration Ltd,,N/A,Alberta,,55.67,-117.19,-,Tonnes (t),2017
+25005,Pouce Coupe 1-19,Insignia Energy Ltd.,,Pouce Coupe,Alberta,,55.67,-119.51,-,Tonnes (t),2017
+25405,Pouce Coupe 14-27,Insignia Energy Ltd.,,Pouce Coupe,Alberta,,55.67,-119.51,1.1,Tonnes (t),2017
+27678,Taqa North Proration 16-18-77-10w6,Taqa North Ltd.,,N/A,Alberta,,55.67,-119.53,-,Tonnes (t),2017
+17498,Kelt Progress Battery 06-19-077-09w6,Kelt Exploration,,N/A,Alberta,,55.68,-119.39,-,Tonnes (t),2017
+22912,Cindy 11-22-077-01w6,Galleon Energy Inc.,11-22-077-01w6,,Alberta,,55.68,-118.06,-,Tonnes (t),2017
+27093,Pwe Pouce Coupe 1-19 Ggs,Taqa North Ltd.,,Valhalla/Pouce Coupe,Alberta,,55.68,-119.52,-,Tonnes (t),2017
+29195,Pwe Pouce Coupe 1-19 Ggs,Taqa North Ltd.,,N/A,Alberta,,55.68,-119.52,-,Tonnes (t),2017
+15588,16-23-77-9w4,BP Canada Energy Company,16-23-77-9w4,,Alberta,,55.69,-111.27,-,Tonnes (t),2017
+21061,Pouce Coupe South 7-25-77-12w6,Birchcliff Energy Ltd.,49 Highway,Bay Tree,Alberta,T0H 0A0,55.69,-119.71,-,Tonnes (t),2017
+22915,Shane 09-30-077-01w6,Guide Exploration Ltd.,,N/A,Alberta,,55.69,-118.12,-,Tonnes (t),2017
+24471,Amoco Leismer,Devon Canada Corporation,,Leismer,Alberta,,55.69,-111.27,0.8,Tonnes (t),2017
+6989,Dunvegan,Richardson Pioneer Ltd.,,Rycroft,Alberta,T0H3A0,55.71,-118.72,10.13,Tonnes (t),2017
+15491,Spirit River Gas Plant 08-34,Rising Star Resources Ltd.,,N/A,Alberta,,55.71,-118.83,0.91,Tonnes (t),2017
+19933,Little Horse Generating Station,ATCO Electric Ltd.,,M.D. of Big Lakes,Alberta,T0G 1E0,55.71,-115.89,-,Tonnes (t),2017
+21091,Sabanero Little Horse 07-35-077-13 W5m,Sabanero Energy Corp.,,Calgary,Alberta,,55.71,-115.89,-,Tonnes (t),2017
+21197,Kelt Pouce Coupe 100/06-33-077-11w6m,Kelt Exploration,,N/A,Alberta,,55.71,-119.65,-,Tonnes (t),2017
+22101,Spirit River Trd,Tervita Corp.,,Spirit River,Alberta,,55.71,-118.77,-,Tonnes (t),2017
+23087,Tornado Roxana 3-32-77-17,Penn West Petroleum Ltd.,,N/A,Alberta,,55.71,-116.6,-,Tonnes (t),2017
+25143,Louis Dreyfus Canada Ltd - Rycroft,Louis Dreyfus Company Canada Ulc,2mile S on Hwy 2 1mile W,Rycroft,Alberta,T0H3A0,55.71,-118.72,3.7,Tonnes (t),2017
+26192,Cargill Aghorizons McLennan Ab,Cargill Limited,20130 Range Road 201,Mclennan,Alberta,T0H 2L0,55.71,-116.97,15.66,Tonnes (t),2017
+29162,Kelt Pouce Coupe 103/06-33-077-11w6m,Kelt Exploration,,Pouce Coupe,Alberta,,55.71,-119.64,1.59,Tonnes (t),2017
+1755,Progress Gas Plant,Canadian Natural Resources Limited,,Gordondale,Alberta,T0H1V0,55.72,-119.39,6.76,Tonnes (t),2017
+15218,Courage Pouce Coupe 06-03,Pace Oil & Gas Ltd.,,N/A,Alberta,,55.72,-119.77,-,Tonnes (t),2017
+15252,Progress 16-36,Canadian Natural Resources Limited,16-36-077-10w6,N/A,Alberta,,55.72,-119.4,-,Tonnes (t),2017
+19299,Norcen Progress,Canadian Natural Resources Limited,,N/A,Alberta,,55.72,-119.39,-,Tonnes (t),2017
+26009,Pennwest Pouce Coupe 01-01,Penn West Petroleum Ltd.,,N/A,Alberta,,55.72,-119.71,-,Tonnes (t),2017
+26010,Pennwest Pouce Coupe 13-31,Penn West Petroleum Ltd.,,N/A,Alberta,,55.72,-119.7,-,Tonnes (t),2017
+6982,Smoky River Elevator Viterra,Viterra Inc.,,Falher,Alberta,T0H1M0,55.73,-117.17,2.7,Tonnes (t),2017
+19543,Spirit River 06-03-078-07 W6,Tourmaline Oil Corp,,Grand Prairie,Alberta,,55.73,-118.99,11.51,Tonnes (t),2017
+28175,Encana Swb 12-03,Encana Corporation,,N/A,Alberta,T2P 2S5,55.73,-119.62,-,Tonnes (t),2017
+29925,Nipisi Oil Battery 01-10,Surge Energy Inc.,Unnamed Road M.D. of Big Lakes Road,N/A,Alberta,,55.73,-115.29,0.54,Tonnes (t),2017
+15040,Pouce Coupe 16-07-078-11w6,Penn West Petroleum Ltd.,,N/A,Alberta,,55.75,-119.68,-,Tonnes (t),2017
+17644,Pouce Coupe 14-10-78-12w6,Kelt Exploration,,N/A,Alberta,,55.75,-119.77,-,Tonnes (t),2017
+17645,Pouce Coupe 16-9-78-12w6,Kelt Exploration,,N/A,Alberta,,55.75,-119.78,-,Tonnes (t),2017
+22930,Lre - Dreau 14-11,Long Run Exploration Ltd,,N/A,Alberta,,55.75,-117.14,1.9,Tonnes (t),2017
+23091,Cargill Aghorizons Rycroft Ab,Cargill Limited,Highway # 49,Rycroft,Alberta,T0H3A0,55.75,-118.68,11.5,Tonnes (t),2017
+23637,Cwcp Pouce Coupe S 14-09,Penn West Petroleum Ltd.,,N/A,Alberta,,55.75,-119.79,-,Tonnes (t),2017
+28171,Encana Swb 02-13,Encana Corporation,,N/A,Alberta,,55.75,-119.71,-,Tonnes (t),2017
+24125,Birchcliff Pouce Coupe 03-22-078-12 W6m Gas Plant,Birchcliff Energy Ltd.,,Pouce Coupe,Alberta,,55.76,-119.77,2.2,Tonnes (t),2017
+24716,Arc 103 Progress 12-17-78-9 Swb,Taqa North Ltd.,,N/A,Alberta,,55.76,-119.37,-,Tonnes (t),2017
+28170,Encana Swb 01-19,Encana Corporation,,N/A,Alberta,,55.76,-119.68,-,Tonnes (t),2017
+28173,Encana Swb 04-20,Encana Corporation,,N/A,Alberta,T2P 2S5,55.76,-119.67,-,Tonnes (t),2017
+16849,Pouce Coupe South Sour Gas Plant,Longshore Resources Ltd.,,N/A,Alberta,,55.77,-119.82,-,Tonnes (t),2017
+17947,Ksitvan East Sour Gas Plant 07-22-078-09w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.77,-119.3,0.89,Tonnes (t),2017
+18726,Kmg Gift Oil Battery 06-19-078-10w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.77,-115.54,-,Tonnes (t),2017
+26053,Lre - Roxanna 11-20,Long Run Exploration Ltd,,N/A,Alberta,,55.77,-117.06,0.55,Tonnes (t),2017
+17990,Progress 3-29-78-9w6,Canadian Natural Resources Limited,,N/A,Alberta,,55.78,-119.36,-,Tonnes (t),2017
+22287,Gordondale 05-27-078-11w6,Birchcliff Energy Ltd.,,Gordondale,Alberta,,55.78,-115.63,-,Tonnes (t),2017
+22920,Galleon Roxana 06-29-078-20w5,Long Run Exploration Ltd,,N/A,Alberta,,55.78,-117.07,-,Tonnes (t),2017
+27269,Progress 1-30,Canadian Natural Resources Limited,,N/A,Alberta,,55.78,-119.53,-,Tonnes (t),2017
+27654,Pouce Coupe Oil Battery 04-30,Enerplus Corporation,,N/A,Alberta,,55.78,-119.86,-,Tonnes (t),2017
+28165,Pouce Coupe Oil Battery 04-29,Enerplus Corporation,,N/A,Alberta,,55.78,-119.83,-,Tonnes (t),2017
+28167,Gordondale 07-29-078-11w6,Birchcliff Energy Ltd.,,Gordondale,Alberta,,55.78,-119.66,-,Tonnes (t),2017
+28179,Gordondale Oil Battery 02-06,Encana Corporation,N/A,N/A,Alberta,N/A,55.78,-119.62,-,Tonnes (t),2017
+28320,Gordondale Oil Battery 08-30-078-09w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.78,-119.37,-,Tonnes (t),2017
+26510,Gordondale Swb 14-29,Encana Corporation,,N/A,Alberta,,55.79,-119.66,-,Tonnes (t),2017
+28318,Phillips Gordondale Oil Battery 14-30-078-09w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.79,-119.38,-,Tonnes (t),2017
+23838,Gordondale Oil Battery 15-32-078-11w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.8,-119.66,-,Tonnes (t),2017
+27021,Gordondale Sour Gas Plant 16-31,AltaGas Ltd.,,N/A,Alberta,,55.8,-119.68,1.82,Tonnes (t),2017
+27554,Encana Oil Battery 05-35,Encana Corporation,,N/A,Alberta,,55.8,-119.75,-,Tonnes (t),2017
+27555,Encana Oil Battery 11-35,Encana Corporation,,N/A,Alberta,,55.8,-119.74,-,Tonnes (t),2017
+28738,Saddle Hills Lf,Secure Energy Services Inc.,,Dawson Creek,Alberta,T2P2V7,55.8,-119.68,-,Tonnes (t),2017
+29279,Pelican Oil Battery 16-31-078-24w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.8,-113.7,3.5,Tonnes (t),2017
+29653,Pelican Bitumen Battery 16-32-078-24w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.8,-113.68,3.91,Tonnes (t),2017
+21392,P-12 Mobile Plant,E Construction Ltd.,Street,Crow Lake,Alberta,T6P1W7,55.81,-112.08,3.39,Tonnes (t),2017
+24145,Leismer Sagd Bitumen Battery,Athabasca Oil Corporation,,Conklin,Alberta,,55.81,-111.44,30.44,Tonnes (t),2017
+29016,Gordondale 02-06-079-11w6,Birchcliff Energy Ltd.,,Gordondale,Alberta,T0H 1V0,55.81,-119.7,-,Tonnes (t),2017
+17439,Nipisi 4-8,Pengrowth Energy Corporation,,Slave Lake,Alberta,T0G2A0,55.82,-115.22,-,Tonnes (t),2017
+19045,Summit 08-08,Rising Star Resources Ltd.,,N/A,Alberta,,55.82,-119.05,-,Tonnes (t),2017
+26506,Gordondale Swb 04-12,Encana Corporation,,N/A,Alberta,,55.82,-119.75,-,Tonnes (t),2017
+27559,Gordondale Swb 13-02,Encana Corporation,,N/A,Alberta,,55.82,-119.77,-,Tonnes (t),2017
+29921,Mulligan Marketing Terminal 03-08-079-09-W6,Tourmaline Oil Corp,,Saddle Hills,Alberta, ,55.82,-119.37,4.44,Tonnes (t),2017
+6535,Gordondale,Newalta Corporation,,Gordondale,Alberta,T0H1V0,55.83,-119.46,-,Tonnes (t),2017
+26507,Gordondale Swb 05-12,Encana Corporation,,N/A,Alberta,,55.83,-119.74,-,Tonnes (t),2017
+27214,Gordondale 16-10-79-12w6,Canadian Natural Resources Limited,,N/A,Alberta,,55.83,-119.77,-,Tonnes (t),2017
+27215,Gordondale Oil Battery 06-12-079-11w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.83,-119.58,0.61,Tonnes (t),2017
+19552,Leismer Gas Battery 12-16,Cenovus Energy Inc.,,N/A,Alberta,,55.84,-111.35,-,Tonnes (t),2017
+15130,Wabasca Comp Stn 06-22,Tidewater Midstream and Infrastructure Ltd.,,N/A,Alberta,,55.85,-113.84,0.92,Tonnes (t),2017
+22910,Culp 15-14-079-24w5,Guide Exploration Ltd.,,N/A,Alberta,,55.85,-117.63,-,Tonnes (t),2017
+27804,Reno 13-14-079-20w5,Baytex Energy Ltd,,Reno,Alberta,,55.85,-117.02,-,Tonnes (t),2017
+6947,Blueberry Hill Compressor Station,Alliance Pipeline Ltd.,,Saddle Hills County,Alberta,,55.86,-119.59,-,Tonnes (t),2017
+5247,Gordondale East Gas Plant,Spectra Energy Midstream Corporation,,Spirit River,Alberta,T0H3G0,55.87,-119.3,-,Tonnes (t),2017
+21112,Dawson Sweet Gas Plant 08-26-079-16w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.87,-116.37,0.55,Tonnes (t),2017
+26170,Reno 12-32-079-20w5,Baytex Energy Ltd,,Reno,Alberta,,55.89,-117.1,-,Tonnes (t),2017
+29663,Sle 16-35-79-10w6,Sanling Energy Ltd.,,N/A,Alberta, ,55.89,-119.43,1.04,Tonnes (t),2017
+26068,Brintnell Oil Battery 11-01,Crescent Point Energy Corp.,N/A,N/A,Alberta,N/A,55.9,-113.46,-,Tonnes (t),2017
+4159,Nipisi Gas Plant,Canadian Natural Resources Limited,,N/A,Alberta,,55.91,-115.15,0.73,Tonnes (t),2017
+23726,Nipisi Terminal,Plains Midstream Canada,,Rainbow,Alberta,,55.91,-115.14,1.89,Tonnes (t),2017
+16002,Sb Pad #13,Canadian Natural Resources Limited,13-27-080-22w4,N/A,Alberta,,55.96,-113.36,-,Tonnes (t),2017
+27438,Husky Nipisi,Penn West Petroleum Ltd.,,N/A,Alberta,,55.96,-115.35,-,Tonnes (t),2017
+27160,Brintnell Central Bitumen Battery 01-36-080-22w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.97,-113.29,-,Tonnes (t),2017
+15203,Pouce Coupe Sour Gas Plant 03-03,AltaGas Ltd.,N/A,N/A,Alberta,N/A,55.98,-119.95,-,Tonnes (t),2017
+24472,Milestone Tangent Group 16-33,Rising Star Resources Ltd.,,N/A,Alberta,,55.98,-117.68,1.93,Tonnes (t),2017
+106,Dunvegan Sour Gas Plant,Canadian Natural Resources Limited,,Fairview,Alberta,,55.99,-118.53,3.85,Tonnes (t),2017
+5395,Brintnell Bitumen Battery 09-02-081-23w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.99,-113.48,-,Tonnes (t),2017
+21973,Anderson Gas Battery 15-03-081-04w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.99,-118.53,0.72,Tonnes (t),2017
+22556,Brintnell South Compressor Station 13-01-081-23w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,55.99,-113.47,-,Tonnes (t),2017
+27541,Milestone Tang 16-5-81,Rising Star Resources Ltd.,,N/A,Alberta,,55.99,-117.71,0.77,Tonnes (t),2017
+29120,Tourmaline 12-06-081-07-W6,Tourmaline Oil Corp,,Blueberry Mountain,Alberta,,55.99,-119.09,-,Tonnes (t),2017
+29616,Pouce Coupe Single Well Battery,ARC Resources,N/A,N/A,Alberta,N/A,55.99,-119.81,1.75,Tonnes (t),2017
+18514,Brintnell Custom Treating Facility 12-09-081-22w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56,-113.4,-,Tonnes (t),2017
+27951,10-09-081-14w5,Koch Oil Sands Operating ULC,,South Seal Area,Alberta,A9A9A9,56,-116.12,-,Tonnes (t),2017
+29949,Tourmaline Bonanza 09-10-081-10-W6,Tourmaline Oil Corp,,Saddle Hills,Alberta, ,56,-119.46,0.64,Tonnes (t),2017
+28019,Nampa,Richardson Pioneer Ltd.,#1 Railway Avenue Avenue,Nampa,Alberta,T0L 1S0,56.04,-117.14,8.84,Tonnes (t),2017
+19221,Utikuma Oil Battery,Vermilion Energy Inc.,,Township 081,Alberta,,56.05,-115.36,0.76,Tonnes (t),2017
+15513,Doe River 14-31,Bonavista Energy Corporation,,Doe East,Alberta,,56.06,-119.87,-,Tonnes (t),2017
+24565,Seal Bitumen Battery 04-33,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.06,-116.28,-,Tonnes (t),2017
+24375,Bonanza 5-3-82-11w6,Canadian Natural Resources Limited,,N/A,Alberta,,56.07,-119.64,-,Tonnes (t),2017
+26021,Seal Bitumen Battery 13-06,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.08,-116.35,-,Tonnes (t),2017
+27015,West Seal Battery 09-06,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.08,-116.32,-,Tonnes (t),2017
+16758,Brintnell Oil Battery and Comp Stn 1107 11-07-082-22w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.09,-113.44,1.42,Tonnes (t),2017
+17986,George Gp 9-7,Cequence Energy Ltd.,,Fairview,Alberta,,56.09,-118.75,-,Tonnes (t),2017
+22461,Seal Bitumen Battery 13-08,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.09,-116.32,-,Tonnes (t),2017
+27084,Newalta Peace River Service Centre,Newalta Corporation,,Red Earth,Alberta,,56.09,-116.34,-,Tonnes (t),2017
+28260,North Horsetail Bitumen Satellite 16-08-082-23w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.09,-113.55,-,Tonnes (t),2017
+28979,Seal 03-16-082-18w5,Baytex Energy Ltd,,Seal,Alberta,,56.1,-116.75,8.39,Tonnes (t),2017
+19857,Blueberry Cs 11-16,Cequence Energy Ltd.,,Blueberry Mountain,Alberta,,56.11,-119.03,-,Tonnes (t),2017
+22750,Pod One,Connacher Oil and Gas Limited,0,Fort McMurray,Alberta,,56.11,-111.82,37.39,Tonnes (t),2017
+23386,Mulligan Fourth Creek 15-13-082-09-W6,Tourmaline Oil Corp,,Grande Prairie,Alberta,,56.11,-119.26,2.57,Tonnes (t),2017
+24188,Algar,Connacher Oil and Gas Limited,,Fort McMurray,Alberta,,56.11,-111.71,67.28,Tonnes (t),2017
+26018,Seal Bitumen Battery 04-19,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.11,-116.65,4.4,Tonnes (t),2017
+28969,"Harmon Valley	09-15-082-18w5",Baytex Energy Ltd,,Harmon Valley,Alberta,,56.11,-116.71,6.06,Tonnes (t),2017
+29729,Hv South Bitumen Battery 03-19,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.11,-116.65,1.91,Tonnes (t),2017
+29731,Harmon Valley Bitumen Battery 12-13,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.11,-116.68,0.61,Tonnes (t),2017
+29733,Hv South Bitumen Battery 16-13,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.11,-116.66,9.81,Tonnes (t),2017
+22842,Olympia Balsam Oil Battery 14-23,Crew Energy Inc.,14-23-082-10w6,N/A,Alberta,,56.12,-119.45,-,Tonnes (t),2017
+24569,Seal Bitumen Battery 07-24,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.12,-116.67,2.13,Tonnes (t),2017
+29478,Seal 05-22-082-18w5,Baytex Energy Ltd,,Seal,Alberta, ,56.12,-116.73,2.6,Tonnes (t),2017
+15870,North Brintnell Sweet Gas Plant 06-26-082-20w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.13,-113.02,-,Tonnes (t),2017
+15887,Brintnell North Bitumen Battery 07-27-082-21w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.13,-113.2,2.41,Tonnes (t),2017
+24273,Seal Bitumen Battery 12-25,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.13,-116.68,6.88,Tonnes (t),2017
+24279,Seal Bitumen Battery 09-25,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.13,-116.66,2.89,Tonnes (t),2017
+29269,West Seal Battery 11-26,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.13,-116.7,10.9,Tonnes (t),2017
+22843,Lre - Gentry Mulligan 16-29,Long Run Exploration Ltd,,N/A,Alberta,,56.14,-119.36,2.66,Tonnes (t),2017
+24130,Seal 04-33-082-15w5,Baytex Energy Ltd,,Seal Lake,Alberta,A9A9A9,56.14,-116.29,1.5,Tonnes (t),2017
+24583,Seal Bitumen Battery 14-25,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.14,-116.67,3.43,Tonnes (t),2017
+27451,Seal Bitumen Battery 02-34,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.14,-116.72,-,Tonnes (t),2017
+27457,Seal Bitumen Battery 16-25,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.14,-116.66,-,Tonnes (t),2017
+28924,West Seal Bitumen Battery 16-27,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.14,-116.71,8.43,Tonnes (t),2017
+29273,West Seal Bitumen Battery 13-30,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.14,-116.65,7.53,Tonnes (t),2017
+27408,Cecil Royce 00/09-04-083-07w6/00,Harvest Operations Corp.,,N/A,Alberta,,56.16,-119.05,-,Tonnes (t),2017
+27452,Harmon Valley Sagd South Pilot 07-06,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.16,-116.67,-,Tonnes (t),2017
+27833,Seal 03-05-083-14w5,Baytex Energy Ltd,,Seal,Alberta,,56.16,-116.17,0.82,Tonnes (t),2017
+28392,Harmon Valley Battery 01-05,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.16,-116.64,3.32,Tonnes (t),2017
+22491,Seal Lake 08-08-083-14w5,Baytex Energy Ltd,,Peace River,Alberta,T8S1V1,56.17,-116.19,1.48,Tonnes (t),2017
+26020,Seal Bitumen Battery 13-05,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.17,-116.65,11.37,Tonnes (t),2017
+27456,Seal Bitumen Battery 15-01,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.17,-116.69,2.91,Tonnes (t),2017
+28045,Toc Earring Bt 08-08-083-08-W6,Tourmaline Oil Corp,,Grand Prairie,Alberta,,56.17,-119.21,-,Tonnes (t),2017
+28401,Seal Bitumen Battery 14-01,Penn West Exploration Ltd,N/A,N/A,Alberta,N/A,56.17,-116.86,-,Tonnes (t),2017
+28922,Seal Bitumen Battery 16-01,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.17,-116.69,11.83,Tonnes (t),2017
+29272,West Seal In Situ Battery 13-06,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.17,-116.68,5.1,Tonnes (t),2017
+29274,West Seal Bitumen Battery 14-05,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.17,-116.65,13.15,Tonnes (t),2017
+29275,West Seal Bitumen Battery 15-06,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.17,-116.67,7.87,Tonnes (t),2017
+27835,Seal 13-12-083-15w5,Murphy Oil Company Ltd.,,N/A,Alberta,,56.18,-116.23,-,Tonnes (t),2017
+27836,Seal 13-33-082-15w5,Murphy Oil Company Ltd,,Seal,Alberta,,56.18,-116.23,-,Tonnes (t),2017
+16022,Kettle River Sour Gas Plant 15-14-083-05w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.19,-110.67,-,Tonnes (t),2017
+19396,Seal 10-16-083-14w5,Penn West Petroleum Ltd.,,N/A,Alberta,,56.19,-116.14,-,Tonnes (t),2017
+22141,Surmont Sagd Commercial Battery,Conocophillips Surmont Partnership,,Anzac,Alberta,T0P1J0,56.19,-110.95,74.58,Tonnes (t),2017
+27834,Seal 1-16-083-15w5,Murphy Oil Company Ltd.,,N/A,Alberta,,56.19,-116.29,-,Tonnes (t),2017
+16288,Surmont Sagd Pilot Facility,ConocoPhillips Canada Resources Corp.,N/A,N/A,Alberta,N/A,56.21,-110.96,-,Tonnes (t),2017
+18352,Seal Lake Battery 1-26,Murphy Oil Company Ltd.,N/A,N/A,Alberta,N/A,56.21,-116.25,-,Tonnes (t),2017
+24555,Seal Bitumen Battery 03-30,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.21,-116.83,5.59,Tonnes (t),2017
+24562,Seal Bitumen Battery 04-29,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.21,-116.81,5.01,Tonnes (t),2017
+27998,Msn 01-27-083-15w5 Pad,Murphy Oil Company Ltd.,,N/A,Alberta,,56.21,-116.27,-,Tonnes (t),2017
+28001,Msn 16-22-083-15w5 Group Battery,Baytex Energy Ltd,,Seal Lake Field,Alberta,,56.21,-116.27,-,Tonnes (t),2017
+28495,Harmon Valley 01-26-083-19w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.21,-116.87,2.48,Tonnes (t),2017
+29252,Cadotte Battery 02-30,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.21,-116.83,2.01,Tonnes (t),2017
+29730,Cadotte Bitumen Battery 03-29,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.21,-116.81,3.2,Tonnes (t),2017
+18043,Josephine Sweet Gas Plant 09-01-083-10w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.22,-119.57,-,Tonnes (t),2017
+28501,Harmon Valley 09-26-083-19w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.22,-116.87,2.67,Tonnes (t),2017
+17019,Muskwa River Gas Plant 02-33-083-25w4,Husky Oil Operations Limited,,Wabasca-Desmarais,Alberta,,56.23,-113.89,-,Tonnes (t),2017
+24564,Seal Bitumen Battery 04-32,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.23,-116.81,0.93,Tonnes (t),2017
+28459,Harmon Valley 01-35-083-19w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.23,-116.87,2.93,Tonnes (t),2017
+28487,Seal 02-34-083-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.23,-116.91,2.16,Tonnes (t),2017
+28921,Seal Bitumen Battery 05-32,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.23,-116.81,9.13,Tonnes (t),2017
+29732,Penn West Cadotte Multi Well Battery 13-27,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.23,-116.76,1.23,Tonnes (t),2017
+19035,Peace River,NPA,NW 31-83-21-W5m,Peace River,Alberta,,56.24,-117.32,-,Tonnes (t),2017
+25233,P-27 Peace River,E Construction Ltd.,Shaftesbury Trail,Peace River,Alberta,T8S 1S3,56.24,-117.31,-,Tonnes (t),2017
+26022,West Seal Cadotte Bitumen Battery 13-32,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.24,-116.81,2.91,Tonnes (t),2017
+27723,Seal 01-04-084-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.24,-116.92,4.61,Tonnes (t),2017
+28460,Harmon Valley 01-02-084-19w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.24,-116.87,5.81,Tonnes (t),2017
+28974,Harmon Valley 15-33-083-19w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.24,-116.93,1.5,Tonnes (t),2017
+28975,Seal 16-35-083-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.24,-116.87,2.34,Tonnes (t),2017
+26184,Harmon Valley 12-05-084-18w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.25,-116.81,2.55,Tonnes (t),2017
+27744,Seal 09-04-084-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.25,-116.92,2.28,Tonnes (t),2017
+27738,Harmon Valley 05-12-084-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.26,-116.82,2.76,Tonnes (t),2017
+28527,Harmon Valley 05-12-084-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.26,-116.87,-,Tonnes (t),2017
+18733,Hangingstone Compressor Station 11-10-084-10w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.27,-111.49,0.82,Tonnes (t),2017
+21263,Cheecham Terminal,Enbridge Pipelines Inc.,,Fort McMurray,Alberta,,56.27,-110.93,11.48,Tonnes (t),2017
+21975,Cecil Sour Gas Plant 08-15-084-08w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.27,-119.16,-,Tonnes (t),2017
+26160,Seal 08-16-084-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.27,-116.92,3.22,Tonnes (t),2017
+26166,Seal 10-09-084-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.27,-116.93,4.91,Tonnes (t),2017
+26293,Cliffdale Thermal 04-15-084-17w5,Baytex Energy Ltd,,Cliffdale,Alberta,,56.27,-116.6,-,Tonnes (t),2017
+27739,Seal 04-15-084-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.27,-116.92,3.27,Tonnes (t),2017
+27831,Cliffdale 01-14-084-18w5,Baytex Energy Ltd,,Cliffdale,Alberta,,56.27,-116.74,0.93,Tonnes (t),2017
+27832,Cliffdale 16-11-084-18w5,Baytex Energy Ltd,,Cliffdale,Alberta,,56.27,-116.71,-,Tonnes (t),2017
+27866,Hangingstone Expansion Project,Japan Canada Oil Sands Limited,,Rm of Wood Buffalo,Alberta,T9H3G2,56.27,-111.62,2.72,Tonnes (t),2017
+27999,Msn 09-11-084-18w5 Pad,Murphy Oil Company Ltd.,,N/A,Alberta,,56.27,-116.71,-,Tonnes (t),2017
+28137,Seal 09-09-084-18w5,Baytex Energy Ltd,,Seal,Alberta,,56.27,-116.77,1.76,Tonnes (t),2017
+28489,Harmon Valley 02-15-084-19w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.27,-116.9,2.35,Tonnes (t),2017
+28493,Seal 01-18-084-17w5,Baytex Energy Ltd,,Seal,Alberta,,56.27,-116.66,1.82,Tonnes (t),2017
+28498,Harmon Valley 13-12-084-19w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.27,-116.87,2.04,Tonnes (t),2017
+28500,Cliffdale 13-10-084-17w5,Baytex Energy Ltd,,Cliffdale,Alberta,,56.27,-116.6,-,Tonnes (t),2017
+29019,Chauvco 10-10,Enercapita Energy Ltd.,600 - 435 4th Avenue Southwest,Calgary,Alberta,T2P3A8,56.27,-119.8,-,Tonnes (t),2017
+29242,Msn 01-15-084-18w5 Pad,Baytex Energy Ltd,,Seal Lake Field,Alberta,,56.27,-116.74,0.74,Tonnes (t),2017
+16344,Cecil Royce 08-15,Devon Canada Corporation,,Cecil South,Alberta,,56.28,-119.16,-,Tonnes (t),2017
+22557,Slave Lake Sour Gas Plant 09-15,Tidewater Midstream and Infrastructure Ltd.,,N/A,Alberta,,56.28,-116.11,-,Tonnes (t),2017
+23123,Seal Bitumen Battery 14-13,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.28,-116.86,1.58,Tonnes (t),2017
+24278,Seal Bitumen Battery 16-13,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.28,-116.85,1.49,Tonnes (t),2017
+24287,Seal 15-24-084-19w5,Penn West Petroleum Ltd.,16-13-084-19w5,N/A,Alberta,,56.28,-116.85,-,Tonnes (t),2017
+26163,Seal 09-17-084-18w5,Baytex Energy Ltd,,Seal,Alberta,,56.28,-116.79,0.84,Tonnes (t),2017
+26176,Harmon Valley 14-14-084-18w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.28,-116.73,0.47,Tonnes (t),2017
+27453,Seal Bitumen Battery 13-13,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.28,-116.87,1.87,Tonnes (t),2017
+27745,Seal Thermal 05-16-084-17w5,Baytex Energy Ltd,,Seal,Alberta,,56.28,-116.63,-,Tonnes (t),2017
+27808,Seal 13-17-084-18w5,Baytex Energy Ltd,,Seal,Alberta,,56.28,-116.81,52.77,Tonnes (t),2017
+28136,P-30 Weberville,E Construction Ltd.,7565 Weberville and Hwy 743 Rd N Road,Weberville,Alberta,T6P1W7,56.28,-117.35,0.7,Tonnes (t),2017
+28400,West Seal Cadotte Bitumen Battery 13-14,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.28,-116.89,5.72,Tonnes (t),2017
+28402,Seal Bitumen Battery 15-14,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.28,-116.88,5.52,Tonnes (t),2017
+28403,Seal Bitumen Battery 15-15,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.28,-116.9,1.7,Tonnes (t),2017
+28486,Harmon Valley 08-18-084-18w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.28,-116.82,2.28,Tonnes (t),2017
+28488,Harmon Valley 09-18-084-18w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.28,-116.82,1.8,Tonnes (t),2017
+28499,Harmon Valley 05-13-084-19w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.28,-116.87,5.7,Tonnes (t),2017
+28965,Harmon Valley 16-14-084-18w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.28,-116.71,2.27,Tonnes (t),2017
+28985,Harmon Valley 16-13-084-18w5,Baytex Energy Ltd,,Harmon Valley,Alberta,,56.28,-116.69,1.68,Tonnes (t),2017
+29243,Msn 09-16-084-18w5 Pad,Baytex Energy Ltd,,Seal Lake Field,Alberta,,56.28,-116.77,0.88,Tonnes (t),2017
+26164,Seal 09-21-084-18w5,Baytex Energy Ltd,,Seal,Alberta,,56.29,-116.77,4.6,Tonnes (t),2017
+27740,Seal 04-20-084-18w5,Baytex Energy Ltd,,Seal,Alberta,,56.29,-116.81,1.68,Tonnes (t),2017
+29648,Cliffdale Bitumen Battery 12-24-084-17w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.29,-116.55,2.2,Tonnes (t),2017
+22492,Cnul Cliffdale Facilities,Canadian Natural Upgrading Ltd,03-25-084-17 W5m,Peace River,Alberta,T8S 1V1,56.3,-116.55,7.73,Tonnes (t),2017
+22629,Baytex Seal 4-30-84-18w5,Penn West Petroleum Ltd.,,Seal,Alberta,,56.3,-116.84,-,Tonnes (t),2017
+23139,Seal Bitumen Battery 16-23,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.3,-116.24,1.26,Tonnes (t),2017
+24285,Seal 100/04-25-084-19w5/00,Penn West Petroleum Ltd.,04-30-084-18w5,N/A,Alberta,,56.3,-116.84,-,Tonnes (t),2017
+24585,Seal Bitumen Battery 15-22,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.3,-116.27,0.62,Tonnes (t),2017
+27861,Seal Bitumen Battery 04-30,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.3,-116.84,2.45,Tonnes (t),2017
+28000,Msn 15-24 Pad 15-24-084-15w5,Baytex Energy Ltd,,Seal Lake Field,Alberta,,56.3,-116.22,1.49,Tonnes (t),2017
+28010,Msn 16-23 Pad 16-23-084-15w5,Baytex Energy Ltd,,Seal Lake Field,Alberta,,56.3,-116.24,6.52,Tonnes (t),2017
+28380,Penn West Bitumen Battery 13-23,Penn West Exploration Ltd,N/A,N/A,Alberta,N/A,56.3,-116.9,-,Tonnes (t),2017
+17122,Hangingstone Sagd Demonstration Facility,Japan Canada Oil Sands Limited,,Rm of Wood Buffalo,Alberta,T9H3G2,56.31,-111.63,-,Tonnes (t),2017
+26019,Seal Bitumen Battery 12-30,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,56.31,-116.84,3.83,Tonnes (t),2017
+27750,Cadotte Wd 10-28-084-18w5,Baytex Energy Ltd,,Cadotte Lake,Alberta,,56.31,-116.77,9.3,Tonnes (t),2017
+27806,Seal 12-29-084-18w5,Baytex Energy Ltd,,Seal,Alberta,,56.31,-116.81,1.54,Tonnes (t),2017
+28135,Seal 13-25-084-19w5,Baytex Energy Ltd,2800 - 520 3rd Avenue Southwest Avenue S,Seal,Alberta,,56.31,-116.87,-,Tonnes (t),2017
+19953,Blair Creek Comp Stn D-058-F,AltaGas Ltd.,N/A,N/A,Alberta,N/A,56.32,-120.99,2.92,Tonnes (t),2017
+27741,Seal 05-32-084-18w5,Baytex Energy Ltd,,Seal,Alberta,,56.32,-116.81,2.38,Tonnes (t),2017
+18592,Cecil 16-31-084-08 W6m,Terra Energy Corporation,,Worsley,Alberta,,56.33,-119.24,-,Tonnes (t),2017
+23645,Cecil Lake Comp Stn 06-06,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.33,-120.67,-,Tonnes (t),2017
+26177,Seal 14-35-084-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.33,-116.89,-,Tonnes (t),2017
+26186,Seal 13-25-084-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.33,-116.87,3.94,Tonnes (t),2017
+27810,Seal 15-33-084-19w5,Baytex Energy Ltd,,Seal,Alberta,,56.33,-116.93,-,Tonnes (t),2017
+27953,Germain Sagd Plant,Laricina Energy Ltd.,3-4-85-22 W4m,Municipal District of Opportu,Alberta,,56.33,-113.41,0.66,Tonnes (t),2017
+26087,Boundary Lake Oil Battery 06-09-085-13w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.35,-119.99,-,Tonnes (t),2017
+28003,Murphy 13-09 Steam Injection Battery,Murphy Oil Company Ltd.,,N/A,Alberta,,56.35,-116.63,-,Tonnes (t),2017
+17646,Pedco Oil Battery 06-16,Penn West Petroleum Ltd.,N/A,N/A,Alberta,N/A,56.36,-115.36,-,Tonnes (t),2017
+21938,Cmi 500 Mobile Plant,N.P.A. Limited (Wapiti Gravel Suppliers),County Industrial Park,Mobile Plant,Alberta,T8V3A8,56.36,-117.43,0.77,Tonnes (t),2017
+28590,Algar Lake Sagd,Grizzly Oil Sands Ulc,63-Highway South,Fort McMurray,Alberta,,56.36,-111.8,-,Tonnes (t),2017
+223,Peace River Pulp Division,Daishowa-Marubeni International Ltd-Peace River Pulp,11/13/24-085-21-W5,Md of Northern Lights,Alberta,T8S1V7,56.37,-117.17,184.81,Tonnes (t),2017
+2128,Cnul Peace River Complex,Canadian Natural Upgrading Ltd,05-21-085-18 W5m,Peace River,Alberta,T8S 1V1,56.38,-116.79,5.92,Tonnes (t),2017
+26049,Guide Hz Montag 12-21-085-06,Long Run Exploration Ltd,,N/A,Alberta,,56.38,-118.87,-,Tonnes (t),2017
+27447,Enercapita 15-20-085-13w6,Enercapita Energy Ltd.,,N/A,Alberta,,56.38,-120.01,0.67,Tonnes (t),2017
+22733,Peace River Trd,Tervita Corp.,,Peace River,Alberta,,56.39,-116.87,-,Tonnes (t),2017
+25093,Saleski Sagd Pilot Project,Laricina Energy Ltd.,03-26-085-19w4,Municipal District of Opportu,Alberta,,56.39,-112.89,2,Tonnes (t),2017
+22378,Long Lake Project,Nexen Energy Ulc.,0,Fort McMurray,Alberta,T9H5N4,56.41,-110.93,81.23,Tonnes (t),2017
+29646,Cadotte Bitumen Battery 06-31-085-18w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.41,-116.83,3.06,Tonnes (t),2017
+18003,Sweeny Oil Battery 08-11-086-12w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.44,-119.77,4.02,Tonnes (t),2017
+21641,Morse River Battery 03-32-066-09w5,Celtic Exploration Ltd.,03-32-066-09w5m,Swan Hills,Alberta,,56.45,-119.9,-,Tonnes (t),2017
+21679,Devon Woodenhouse,Sequoia Resources Corp.,,,Alberta,,56.45,-113.48,-,Tonnes (t),2017
+28343,Woodenhouse 2-17-086-23w4,Canadian Natural Resources Limited,,N/A,Alberta,,56.45,-113.59,-,Tonnes (t),2017
+28336,Woodenhouse 100/06-20-086-23w400,Canadian Natural Resources Limited,,N/A,Alberta,,56.46,-113.6,-,Tonnes (t),2017
+20181,Boundary Lake 10-19-086-11 W6m,Enercapita Energy Ltd.,600 - 435 4th Avenue Southwest,Calgary,Alberta,T2P3A8,56.47,-119.72,0.8,Tonnes (t),2017
+28339,Woodenhouse Bitumen Battery 11-20-086-23w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.47,-113.6,-,Tonnes (t),2017
+28349,Woodenhouse 9-20-086-23w4,Canadian Natural Resources Limited,,N/A,Alberta,,56.47,-113.59,-,Tonnes (t),2017
+19890,Woodenhouse,TransCanada Pipelines Ltd.,,N/A,Alberta,,56.48,-114.12,0.81,Tonnes (t),2017
+21220,Capitol Dixonville 2-25,Eagle Energy Inc.,,N/A,Alberta,,56.48,-117.96,-,Tonnes (t),2017
+24343,Boundary Lake North 06-27-086-13w6,Enercapita Energy Ltd.,,N/A,Alberta,,56.48,-119.96,-,Tonnes (t),2017
+28335,Woodenhouse 04-29-086-23w4,Canadian Natural Resources Limited,,N/A,Alberta,,56.48,-113.61,-,Tonnes (t),2017
+28337,Woodenhouse 102/06-29-086-23w4/00,Canadian Natural Resources Limited,,N/A,Alberta,,56.48,-113.6,-,Tonnes (t),2017
+28353,Woodenhouse Pad 17 12-29-86-23w4,Canadian Natural Resources Limited,,N/A,Alberta,,56.48,-113.61,-,Tonnes (t),2017
+28847,Woodenhouse Bitumen Battery 03-29-086-23w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.48,-113.6,-,Tonnes (t),2017
+18917,Evi 1,Harvest Operations Corp.,,N/A,Alberta,,56.49,-115.6,-,Tonnes (t),2017
+18919,Loon Battery,Harvest Operations Corp.,N/A,N/A,Alberta,N/A,56.49,-115.39,-,Tonnes (t),2017
+22685,Worsley West 06-32-086-08w6,Canadian Natural Resources Limited,,N/A,Alberta,,56.49,-119.22,-,Tonnes (t),2017
+28342,Woodenhouse 13-29-86-23w4,Canadian Natural Resources Limited,,N/A,Alberta,,56.49,-113.61,-,Tonnes (t),2017
+17017,Cadotte 10-34-086-18w5,Penn West Energy Trust,10-34-086-18w5,N/A,Alberta,,56.5,-116.75,-,Tonnes (t),2017
+28344,Woodenhouse 2-5-87-23w4,Canadian Natural Resources Limited,,N/A,Alberta,,56.5,-113.62,-,Tonnes (t),2017
+28350,Woodenhouse 9-31-86-23w4,Canadian Natural Resources Limited,,N/A,Alberta,,56.5,-113.61,-,Tonnes (t),2017
+16171,Lone Pine Oil Battery 11-04,Lone Pine Resources Canada Ltd.,,N/A,Alberta,,56.51,-115.69,-,Tonnes (t),2017
+18918,Evi 3,Harvest Operations Corp.,,N/A,Alberta,,56.51,-116.04,1.32,Tonnes (t),2017
+22035,Evi Battery 11-04,Canadian Forest Oil,11-04-086-11-W5,N/A,Alberta,,56.51,-115.69,-,Tonnes (t),2017
+24169,Greenfield Multiwell Oil Battery 11-01,Prairie Provident Resources,1100 - 640 5 Avenue Southwest,Calgary,Alberta,T2P 3G4,56.51,-115.93,1.8,Tonnes (t),2017
+18921,Red Earth Battery,Harvest Operations Corp.,,N/A,Alberta,,56.52,-115.31,0.91,Tonnes (t),2017
+19621,Golden 07-07,FET Resources,07-07-87-14w5m,07-07-87-14w5m,Alberta,,56.52,-116.21,-,Tonnes (t),2017
+24500,Norcen Golden 7-7-87-14,Harvest Operations Corp.,,N/A,Alberta,,56.52,-116.21,1.86,Tonnes (t),2017
+18744,Red Earth Oil Battery 16-10-087-07w5,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.53,-115.01,-,Tonnes (t),2017
+17531,Red Earth Battery,Penn West Petroleum Ltd.,,N/A,Alberta,,56.54,-115.29,-,Tonnes (t),2017
+22459,Red Earth Battery 12-17-087-08w5,Penn West Petroleum Ltd.,,N/A,Alberta,,56.54,-115.24,-,Tonnes (t),2017
+16188,Worsley (Birchcliff) Sour Gas Plant,Enercapita Energy Ltd.,,N/A,Alberta, ,56.55,-119.36,4.58,Tonnes (t),2017
+25208,Stony Lake Oil Battery 04-29-087-03w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.56,-118.44,-,Tonnes (t),2017
+18558,Worsley Sweet Gas Plant 14-28-087-07w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.57,-119.05,-,Tonnes (t),2017
+18865,Worsley Oil Mwb 08-35,Crescent Point Resources Partnership,N/A,N/A,Alberta,N/A,56.58,-118.99,-,Tonnes (t),2017
+17537,Otter Battery2 11-32-87-12w5,Penn West Petroleum Ltd.,,N/A,Alberta,,56.59,-115.87,-,Tonnes (t),2017
+27736,Red Earth South 01-35-087-09w5,Baytex Energy Ltd,,Red Earth South,Alberta,,56.59,-115.3,-,Tonnes (t),2017
+17016,Saleski 05-08,Sequoia Resources Corp.,,,Alberta,,56.61,-112.84,-,Tonnes (t),2017
+16040,Clearhills Sour Gas Plant 16-11-088-13w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,56.62,-119.94,2.57,Tonnes (t),2017
+21372,Worsley Oil Battery 09-11,Enercapita Energy Ltd.,,N/A,Alberta,,56.62,-119.46,0.48,Tonnes (t),2017
+17517,Otter Battery 9-20-88-11w5,Penn West Petroleum Ltd.,,N/A,Alberta,,56.64,-115.7,-,Tonnes (t),2017
+23298,Dorest et Al Red Earth 12-28-088-08w5,Baytex Energy Ltd,,Red Earth,Alberta,,56.66,-115.21,0.74,Tonnes (t),2017
+17151,Trout Battery,Fortune Energy Inc.,9-10-089-03w4,N/A,Alberta,,56.7,-110.37,-,Tonnes (t),2017
+26003,Murphy Trout Oil Battery 09-10,Penn West Petroleum Ltd.,N/A,N/A,Alberta,N/A,56.7,-114.38,-,Tonnes (t),2017
+21064,Bonavista Charlie 13-09,Bonavista Energy Corporation,,Charlie,Alberta,,56.71,-118.89,-,Tonnes (t),2017
+24198,Trafalgar Saleski 16-15,Midway Energy Ltd.,16-15-089-18w4m,Saleski,Alberta,,56.72,-112.77,-,Tonnes (t),2017
+17648,Red Earth 9-35-89-11w5,Penn West Petroleum Ltd.,,N/A,Alberta,,56.76,-115.63,-,Tonnes (t),2017
+18773,P-22 Fort McMurray,E Construction Ltd.,745 Memorial Drive,Fort McMurray,Alberta,T9H 3G3,56.76,-111.42,-,Tonnes (t),2017
+29425,Fort McMurray Ready Mix,Burnco Rock Products Ltd,825 Memorial Drive,Fort McMurray,Alberta,T9K 0K4,56.76,-111.42,0.06,Tonnes (t),2017
+16284,Trout Oil Battery 16-11,Pengrowth Energy Corporation,,Opportunity No. 17,Alberta,,56.79,-114.34,-,Tonnes (t),2017
+27826,Mackay River Commercial Project,Petrochina Canada Ltd.,,Ft McMurray,Alberta,,56.79,-112.09,7.23,Tonnes (t),2017
+29165,Daiber A-54-C/94-B-16,Kanata Energy Group Ltd.,1900 - 112 4 Avenue Southwest,Calgary,Alberta,T2P0H3,56.79,-122.29,0.66,Tonnes (t),2017
+29521,Kidney 8-24-90-6w5,Coastal Resources Ltd.,686 686 Highway and Opportunity 17,Red Earth,Alberta,,56.81,-114.8,0.07,Tonnes (t),2017
+18134,Red Earth Sour Gas Plant 02-23,Mount Bastion Oil & Gas Corp.,,Red Earth Creek,Alberta,,56.85,-115.2,0.76,Tonnes (t),2017
+26191,Grosmont Pilot,Shell Canada Limited,Chipewyan Lake Road North,Wabasca,Alberta,T2P2H5,56.85,-113.57,-,Tonnes (t),2017
+26270,P-48 Parson's Creek,E Construction Ltd.,,Fort McMurray,Alberta,T9H3G3,56.85,-111.44,-,Tonnes (t),2017
+16283,Kidney Oil Battery 09-08,Pengrowth Energy Corporation,,Opportunity No. 17,Alberta,,56.88,-114.75,-,Tonnes (t),2017
+26148,Stp McKay Thermal Project,Pricewaterhousecoopers Inc. In Its Capacity As Court Appoint,,Fort McMurray,Alberta,,56.88,-112.24,-,Tonnes (t),2017
+28378,Abwi102022609113w500 Oil Well 02-26,Penn West Petroleum Ltd.,,N/A,Alberta,,56.91,-115.97,-,Tonnes (t),2017
+22460,Sawn Lake Battery 12-29-091-12w5,Mount Bastion Oil & Gas Corp.,,N/A,Alberta,,56.92,-115.9,-,Tonnes (t),2017
+26016,Pennwest Sawn Lake 14-25,Penn West Petroleum Ltd.,,N/A,Alberta,,56.92,-115.95,-,Tonnes (t),2017
+19927,Chipewyan Lake Generating Station,ATCO Electric Ltd.,,Municipal District of Opportu,Alberta,T0G 2K0,56.93,-113.48,1.21,Tonnes (t),2017
+26015,Pennwest Sawn Lake 03-36,Penn West Petroleum Ltd.,,N/A,Alberta,,56.93,-115.95,-,Tonnes (t),2017
+29792,Goodfish,TransCanada Pipelines Ltd.,,N/A,Alberta,,56.93,-115.23,0.52,Tonnes (t),2017
+26014,Pennwest Sawn 04-06,Penn West Petroleum Ltd.,,N/A,Alberta,,56.94,-115.93,-,Tonnes (t),2017
+28379,Abwi103153509113w500 Oil Well 15-35,Penn West Petroleum Ltd.,,N/A,Alberta,,56.94,-115.97,-,Tonnes (t),2017
+26017,Pennwest Sawn Lake 16-03,Penn West Petroleum Ltd.,,N/A,Alberta,,56.95,-115.99,-,Tonnes (t),2017
+15453,Baytex Nina Gas Plant 06-09-092-19w5,Baytex Energy Ltd,,Nina,Alberta,,56.96,-117,-,Tonnes (t),2017
+16286,Kidney 3-10,Pengrowth Energy Corporation,,Peerless Lake,Alberta,T2P0B4,56.96,-114.71,-,Tonnes (t),2017
+6620,Pioneer 1 Liquids Extraction Plant,Inter Pipeline Offgas Lp,Highway 63 N Suncor Gate,Fort McMurray,Alberta,T9H4G3,56.98,-111.46,1.23,Tonnes (t),2017
+6902,Athabasca Terminal,Enbridge Pipelines Inc.,,Fort McMurray,Alberta,,56.98,-111.47,274.03,Tonnes (t),2017
+15498,Notikewin Compressor Station 10-18-092-02 W6m,Direct Oil & Gas,,N/A,Alberta,,56.98,-118.3,-,Tonnes (t),2017
+2230,Suncor Energy Inc. Oil Sands,Suncor Energy Oil Sands Limited Partnership,1 Tar Island,Fort McMurray,Alberta,T9H 3E3,57,-111.46,9493.3,Tonnes (t),2017
+15818,Liege Sweet Gas Plant 03-29-092-20w4,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,57,-113.18,-,Tonnes (t),2017
+19219,Mackay River Power Plant,TransCanada Energy Ltd.,,Fort McMurray,Alberta,T9H3G6,57.03,-111.9,4.09,Tonnes (t),2017
+2274,Syncrude Canada Ltd,Syncrude Canada Ltd.,Mildred Lake Plant Site,Fort McMurray,Alberta,T9H3L1,57.04,-111.61,3868.51,Tonnes (t),2017
+17630,Mackay River In-Situ Oil Sands Plant,Suncor Energy Oil Sands Limited Partnership,,Fort McMurray,Alberta,T9H 3G6,57.04,-111.9,27.11,Tonnes (t),2017
+6917,Mackay River Terminal,Enbridge Pipelines Inc.,,Fort MacKay,Alberta,,57.05,-111.91,-,Tonnes (t),2017
+29852,Chemtrade - Fort McMurray Gp Inc.,Chemtrade Logistics Inc.,Mildred Lake Plant Site - Plant 48-1,Fort McMurray,Alberta,T9H3L1,57.05,-111.61,3.9,Tonnes (t),2017
+16281,Senex Oil Battery 05-17,Pengrowth Energy Corporation,,Peerless Lake,Alberta,,57.06,-114.77,-,Tonnes (t),2017
+5344,Manning Forest Products,Manning Forest Products - Division of West Fraser Mills Ltd.,SE 26 93 23 W5,Manning,Alberta,T0H2M0,57.09,-117.58,9.89,Tonnes (t),2017
+21038,Prestville Oil Battery 04-09,ARC Resources,308 4 Avenue Southwest,Calgary,Alberta,T2P 0H7,57.13,-118.74,-,Tonnes (t),2017
+27130,Arx Single Well Battery 08-04,ARC Resources,N/A,N/A,Alberta,N/A,57.13,-118.72,-,Tonnes (t),2017
+15485,Lovit Creek 07-13,Bonavista Energy Corporation,,Lovet,Alberta,,57.15,-118.33,-,Tonnes (t),2017
+25023,Firebag Aerodrome,Suncor Energy Oil Sands Limited Partnership,,Regional Municipality of Wood,Alberta,,57.16,-110.58,-,Tonnes (t),2017
+6725,Meikle River,TransCanada Pipelines Ltd.,,N/A,Alberta,,57.18,-118.24,1.32,Tonnes (t),2017
+15570,North Hotchkiss Sour Gas Plant 02-35-094-02w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,57.19,-118.19,-,Tonnes (t),2017
+17409,Legend 12-31,Perpetual Energy Inc.,N/A - N/A,N/A,Alberta,A0A0A0,57.2,-112.9,-,Tonnes (t),2017
+28868,West Ells Sagd Bitumen Battery,Sunshine Oil Sands Ltd,1020 - 903 8 Avenue Southwest,Calgary,Alberta,T2P 0P7,57.2,-112.72,-,Tonnes (t),2017
+19181,Firebag,Suncor Energy Oil Sands Limited Partnership,,Ft. McMurray,Alberta,T9H3H3,57.21,-110.89,91.9,Tonnes (t),2017
+29025,Sunrise Thermal,Husky Oil Operations Limited,45 Km Canterra Road,Fort McKay,Alberta,T0P 1C0,57.23,-111.05,45.59,Tonnes (t),2017
+16704,Aec Panny River,Perpetual Energy Inc.,,N/A,Alberta,,57.26,-114.89,-,Tonnes (t),2017
+21884,Joslyn Creek Sagd Facility,Total E&P Joslyn Ltd.,2900 - 240 4th Avenue,Calgary,Alberta,T2P4H4,57.28,-111.88,-,Tonnes (t),2017
+23269,Susan Lake Gravel Pit,Athabasca Minerals Inc.,,Fort McMurray,Alberta,T9H3G5,57.28,-111.59,35.45,Tonnes (t),2017
+6572,Aurora North Mine Site,Syncrude Canada Ltd.,Aurora Highway 63 North,Fort McMurray,Alberta,,57.29,-111.5,2027.64,Tonnes (t),2017
+16285,Panny 3-11,Pengrowth Energy Corporation,,Panny,Alberta,,57.3,-114.85,-,Tonnes (t),2017
+15567,Chinchaga Gas Plant,Apache Canada Ltd.,01-24-096-05-W6,N/A,Alberta,,57.33,-119.65,-,Tonnes (t),2017
+15578,Cranberry,ATCO Energy Solutions Ltd.,,Debolt,Alberta,,57.33,-118.46,-,Tonnes (t),2017
+23275,Horizon Oil Sands Processing Plant and Mine,Canadian Natural Resources Limited,0,Fort McMurray,Alberta,T9H 3H5,57.33,-111.75,2135.88,Tonnes (t),2017
+24365,Chincaga Sweet Gas Plant 01-24-096-05w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,57.33,-118.65,1.01,Tonnes (t),2017
+29349,Pioneer 2 Liquids Extraction Plant,Inter Pipeline Offgas Lp,01-20-096-11w4,Fort McMurray,Alberta,T9H 3H5,57.33,-111.74,4.06,Tonnes (t),2017
+22007,Hamburg 15-21-96-10w6,Canadian Natural Resources Limited,,N/A,Alberta,,57.34,-119.55,-,Tonnes (t),2017
+6647,Canadian Natural Upgrading Limited Muskeg River Mine and Jac,Canadian Natural Upgrading Ltd,63 Hw Highway,Fort McMurray,Alberta,T9H4W1,57.35,-111.52,2130.46,Tonnes (t),2017
+16378,Hamburg Sweet Gas Plant 11-33-096-08w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,57.37,-119.23,0.68,Tonnes (t),2017
+28452,Kearl Pit,Athabasca Minerals Inc.,9524-27 Avenue Avenue Northwest,Edmonton,Alberta,T6N1B2,57.37,-111.17,-,Tonnes (t),2017
+26403,Fort Hills Oil Sands,Fort Hills Energy L.P.,90 Kms North of Fort McMurray,Fort McMurray,Alberta,T9H4V9,57.39,-111.56,2327.4,Tonnes (t),2017
+27506,Kearl Oil Sands Processing Plant and Mine,Imperial Oil Resources Limited,,Fort McKay,Alberta,,57.39,-111.07,7862.66,Tonnes (t),2017
+16372,Hamburg Sweet Gas Plant 11-14-097-11w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,57.41,-119.67,0.85,Tonnes (t),2017
+18863,Firebird Comp Station 08-11,Enerplus Corporation,08-11-098-08-W6,N/A,Alberta,,57.48,-119.16,-,Tonnes (t),2017
+15575,Botha 7-16,Apache Canada Ltd.,07-16-098-05-W6,N/A,Alberta,,57.5,-118.74,-,Tonnes (t),2017
+24381,Botha Sour Gas Plant 07-16-098-05w6,Canadian Natural Resources Limited,N/A,N/A,Alberta,N/A,57.5,-118.74,-,Tonnes (t),2017
+23316,Conroy D-48-C/94-H-12,Polar Star Canadian Oil and Gas Inc.,700 4th Avenue Southwest,Calgary,Alberta,T2P 3J4,57.53,-121.84,-,Tonnes (t),2017
+5222,Chinchaga Gas Plant,Keyera Corp.,,Manning,Alberta,,57.54,-119.11,-,Tonnes (t),2017
+19930,Chinchaga Generating Station,ATCO Electric Ltd.,,Northern Lights County,Alberta,,57.54,-119.1,-,Tonnes (t),2017
+22536,Mega 05-32-098-07w6,Polar Star Canadian Oil and Gas Inc.,,Chinchaga,Alberta,,57.54,-119.11,-,Tonnes (t),2017
+23851,05-25-101-05w6 Multiwell Oil Battery,Pace Oil & Gas Ltd.,,N/A,Alberta,,57.79,-118.67,-,Tonnes (t),2017
+17572,Mega Compressor Station 07-13,Obsidian Energy Ltd.,N/A,N/A,Alberta,N/A,57.85,-119.15,-,Tonnes (t),2017
+17135,Fontas Sour Gas Plant,NuVista Energy Ltd.,N/A,N/A,Alberta,N/A,57.87,-119.74,-,Tonnes (t),2017
+24541,Pace Haro 2-28-102-03w6 Oil Battery,Pace Oil & Gas Ltd.,,N/A,Alberta,,57.87,-118.41,-,Tonnes (t),2017
+16654,Lre - Aec Boyer,Long Run Exploration Ltd,,N/A,Alberta,,57.93,-117.82,-,Tonnes (t),2017
+17866,Calahoo Haro #1 10-29,Sanling Energy Ltd.,,N/A,Alberta,,58.05,-118.28,0.84,Tonnes (t),2017
+16656,Lre - Boyer 01-06,Long Run Exploration Ltd,,N/A,Alberta,,58.08,-117.63,0.58,Tonnes (t),2017
+26638,Aec Boyer,Long Run Exploration Ltd,,N/A,Alberta,,58.1,-117.81,-,Tonnes (t),2017
+17018,Haig River North Compressor Station 01-17-105-01w6,Husky Oil Operations Limited,,Paddle Prarie,Alberta,,58.11,-118.11,-,Tonnes (t),2017
+5377,La Crete Sawmills - la Crete,La Crete Sawmills Ltd.,1 - 697 Highway 697 Highway South,La Crete,Alberta,T0H2H0,58.14,-116.35,4.4,Tonnes (t),2017
+17854,Samson Rainbow,Sanling Energy Ltd.,,N/A,Alberta,,58.36,-118.99,-,Tonnes (t),2017
+24543,Nco Rainbow 7-14,Sanling Energy Ltd.,,N/A,Alberta,,58.37,-119.03,1.26,Tonnes (t),2017
+6517,Norbord High Level,Norbord Industries,Highway 35 10 Km South of High Level,High Level,Alberta,T0H1Z0,58.44,-117.21,134.72,Tonnes (t),2017
+6609,Rainbow Lake Cogeneration Power Plant (Units 4-5),ATCO Power Canada Ltd.,Box 298,Rainbow Lake,Alberta,,58.44,-119.23,0.34,Tonnes (t),2017
+6613,Rainbow Lake Generating Station (Units 1-3),Alberta Power (2000) Ltd.,0 - Box 298,Rainbow Lake,Alberta,T0H2Y0,58.46,-115.23,-,Tonnes (t),2017
+17269,Rainbow Oil Battery 09-17,NuVista Energy Ltd.,,N/A,Alberta,,58.46,-118.78,-,Tonnes (t),2017
+19482,Rainbow 9-25 Bty,Chinook Energy Inc.,,Grande Prairie,Alberta,,58.49,-118.67,-,Tonnes (t),2017
+1439,Rainbow Lake Gas Plant,Husky Oil Operations Limited,,Rainbow Lake,Alberta,T0H2Y0,58.5,-119.41,12.59,Tonnes (t),2017
+6504,Tolko High Level Lumber Division,Tolko Industries Ltd.,11401 92 Street Street,High Level,Alberta,T0H1Z0,58.5,-117.13,82.26,Tonnes (t),2017
+3933,Rainbow Gas Plant and Battery 10,Husky Oil Operations Limited,,Rainbow Lake,Alberta,T0H2Y0,58.55,-118.91,-,Tonnes (t),2017
+15202,Rainbow Lake,AltaGas Ltd.,,Rainbow Lake,Alberta,T2H2Y0,58.56,-119.2,-,Tonnes (t),2017
+17113,Rainbow Battery 12-23-110-07w6,Husky Oil Operations Limited,,Rainbow Lake,Alberta,T0H2Y0,58.56,-119.06,-,Tonnes (t),2017
+19129,Comet 11-19-110-08w6,Sanling Energy Ltd.,,N/A,Alberta,,58.56,-119.33,0.84,Tonnes (t),2017
+28606,Mobil Raibow 04-33-110-09w6,Husky Oil Operations Limited,,Clairmont,Alberta,,58.58,-119.44,-,Tonnes (t),2017
+16110,Rainbow Lake Trd,Tervita Corp.,,Rainbow Lake,Alberta,,58.6,-118.78,-,Tonnes (t),2017
+17268,Rainbow Oil Battery 13-06,NuVista Energy Ltd.,N/A,N/A,Alberta,N/A,58.61,-119.01,-,Tonnes (t),2017
+21377,Rainbow 13-36 Ggs,Chinook Energy Inc.,,Grande Prairie,Alberta,,58.68,-118.87,-,Tonnes (t),2017
+19928,Garden River Generating Station,ATCO Electric Ltd.,,Mackenzie County,Alberta,T0H 1N0,58.69,-114,4.55,Tonnes (t),2017
+19934,Fort Chipewyan Generating Station,ATCO Electric Ltd.,9-Ne-17-112-7-W4m,Fort Chipewyan,Alberta,T0P1B0,58.72,-111.13,-,Tonnes (t),2017
+17282,Sousa Oil Battery 15-25,NuVista Energy Ltd.,,N/A,Alberta,,58.76,-118.69,-,Tonnes (t),2017
+23297,Third Lake Generating Station,ATCO Electric Ltd.,,Fort Chipewyan,Alberta,T0P 1B0,58.76,-111.09,0.68,Tonnes (t),2017
+26105,Hutch 07-03-113-22w5,Canadian Natural Resources Limited,,N/A,Alberta,,58.78,-117.61,-,Tonnes (t),2017
+15318,Zama Battery 07-34,Paramount Resources Ltd.,N/A,N/A,Alberta,N/A,58.94,-118.91,2.01,Tonnes (t),2017
+5285,Zama Gas Plant: 1 2 3,Apache Canada Ltd.,,Zama City,Alberta,T0H4E0,59.06,-118.87,-,Tonnes (t),2017
+15320,Zama Battery 14-12,Paramount Resources Ltd.,N/A,N/A,Alberta,N/A,59.06,-118.87,3.12,Tonnes (t),2017
+28444,Zama Plant 4,Paramount Resources Ltd.,N/A,N/A,Alberta,N/A,59.06,-118.87,0.88,Tonnes (t),2017
+15321,Zama Battery 09-28,Paramount Resources Ltd.,,Zama City,Alberta,,59.19,-118.6,-,Tonnes (t),2017
+15319,Zama Battery 03-10,Paramount Resources Ltd.,N/A,N/A,Alberta,N/A,59.23,-119.27,5.41,Tonnes (t),2017
+21036,Zama Compressor - 11,Apache Canada Ltd.,,Zama City,Alberta,,59.25,-119.68,-,Tonnes (t),2017
+22004,Zama Diesel Genset 16-15,Apache Canada Ltd.,N/A,N/A,Alberta,N/A,59.25,-119.08,-,Tonnes (t),2017
+17420,Bistcho Lake Plant,Strategic Oil & Gas Ltd.,,N/A,Alberta,,59.64,-118.3,-,Tonnes (t),2017
