@@ -1,0 +1,8 @@
+C:\Users\Clayton\Documents\GoDive\GoDive\SITG_DATA_ACCESS_LIBRARY\bin\Release\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\GoDive\GoDive\SITG_DATA_ACCESS_LIBRARY\bin\Release\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\GoDive\GoDive\SITG_DATA_ACCESS_LIBRARY\obj\Release\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\GoDive\GoDive\SITG_DATA_ACCESS_LIBRARY\obj\Release\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework_V2\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\bin\Release\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework_V2\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\bin\Release\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework_V2\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\obj\Release\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework_V2\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\obj\Release\SITG_DATA_ACCESS_LIBRARY.pdb

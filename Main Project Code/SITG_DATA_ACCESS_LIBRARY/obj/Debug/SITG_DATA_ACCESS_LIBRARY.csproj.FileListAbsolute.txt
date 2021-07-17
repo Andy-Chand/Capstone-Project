@@ -1,0 +1,304 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojResolveAssemblyReference.cache
+C:\code\LondonCrimeMap\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\code\LondonCrimeMap\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\code\LondonCrimeMap\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojResolveAssemblyReference.cache
+C:\code\LondonCrimeMap\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\code\LondonCrimeMap\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\acurcio\Documents\Visual Studio 2012\Projects\2014\PersonDisplacementManager\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\acurcio\Documents\Visual Studio 2012\Projects\2014\PersonDisplacementManager\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\acurcio\Documents\Visual Studio 2012\Projects\2014\PersonDisplacementManager\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojResolveAssemblyReference.cache
+C:\Users\acurcio\Documents\Visual Studio 2012\Projects\2014\PersonDisplacementManager\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\acurcio\Documents\Visual Studio 2012\Projects\2014\PersonDisplacementManager\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\GoDive\GoDive\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\GoDive\GoDive\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\GoDive\GoDive\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\GoDive\GoDive\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Basic OOP\LocationBase\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Basic OOP\LocationBase\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Basic OOP\LocationBase\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojResolveAssemblyReference.cache
+C:\Users\Clayton\Documents\Basic OOP\LocationBase\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Basic OOP\LocationBase\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\WPF Example\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\WPF Example\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\WPF Example\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojResolveAssemblyReference.cache
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\WPF Example\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\WPF Example\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SevenSummits\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SevenSummits\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SevenSummits\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SevenSummits\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SevenSummits\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojResolveAssemblyReference.cache
+c:\users\clayton\documents\visual studio 2015\Projects\FinalExamPrep\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+c:\users\clayton\documents\visual studio 2015\Projects\FinalExamPrep\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+c:\users\clayton\documents\visual studio 2015\Projects\FinalExamPrep\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+c:\users\clayton\documents\visual studio 2015\Projects\FinalExamPrep\SITG_DATA_ACCESS_LIBRARY\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework_V2\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework_V2\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework_V2\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Clayton\Documents\Visual Studio 2015\Projects\SpaceExploration\SpaceExploration_Framework_V2\SpaceExploration_Framework\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\scuba\source\repos\StackExample\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\scuba\source\repos\StackExample\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\scuba\source\repos\StackExample\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\scuba\source\repos\StackExample\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\scuba\source\repos\StackExample\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\scuba\source\repos\StackExample\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojResolveAssemblyReference.cache
+C:\Users\Taylor\Desktop\COMP6034\StackExample 2.0\StackExample\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Taylor\Desktop\COMP6034\StackExample 2.0\StackExample\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Taylor\Desktop\COMP6034\StackExample 2.0\StackExample\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Users\Taylor\Desktop\COMP6034\StackExample 2.0\StackExample\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\COMP6034\StackExample 2.0\StackExample\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Taylor\Desktop\COMP6034\StackExample 2.0\StackExample\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Taylor\Desktop\COMP6034\MyFlightComputer\MyFLightComputer2\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Taylor\Desktop\COMP6034\MyFlightComputer\MyFLightComputer2\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Taylor\Desktop\COMP6034\MyFlightComputer\MyFLightComputer2\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\COMP6034\MyFlightComputer\MyFLightComputer2\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Taylor\Desktop\COMP6034\MyFlightComputer\MyFLightComputer2\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Taylor\Desktop\COMP6034\MyFlightComputer\MyFLightComputer2\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\Fanshawe\Radagast\Radagastv1.1\Radagastv1.1\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\Fanshawe\Radagast\Radagastv1.1\Radagastv1.1\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\Fanshawe\Radagast\Radagastv1.1\Radagastv1.1\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\Fanshawe\Radagast\Radagastv1.1\Radagastv1.1\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\Fanshawe\Radagast\Radagastv1.1\Radagastv1.1\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\Fanshawe\Radagast\Radagastv1.1\Radagastv1.1\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\Fanshawe\Radagast\Radagastv1.2\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\Fanshawe\Radagast\Radagastv1.2\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\Fanshawe\Radagast\Radagastv1.2\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\Fanshawe\Radagast\Radagastv1.2\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\Fanshawe\Radagast\Radagastv1.2\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv1.3-20210205T201753Z-001\Radagastv1.3\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv1.3-20210205T201753Z-001\Radagastv1.3\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv1.3-20210205T201753Z-001\Radagastv1.3\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagastv1.3-20210205T201753Z-001\Radagastv1.3\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagastv1.3-20210205T201753Z-001\Radagastv1.3\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv1.3-20210205T201753Z-001\Radagastv1.3\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\Fanshawe\Radagast\Radagastv1.5\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\Fanshawe\Radagast\Radagastv1.5\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\Fanshawe\Radagast\Radagastv1.5\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\Fanshawe\Radagast\Radagastv1.5\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\Fanshawe\Radagast\Radagastv1.5\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\Fanshawe\Radagast\Radagastv1.5\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Taylor\Downloads\Radagastv1.6-20210207T233836Z-001\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Taylor\Downloads\Radagastv1.6-20210207T233836Z-001\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Taylor\Downloads\Radagastv1.6-20210207T233836Z-001\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Users\Taylor\Downloads\Radagastv1.6-20210207T233836Z-001\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Downloads\Radagastv1.6-20210207T233836Z-001\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Taylor\Downloads\Radagastv1.6-20210207T233836Z-001\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\Fanshawe\Radagast\Radagastv1.7\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\Fanshawe\Radagast\Radagastv1.7\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\Fanshawe\Radagast\Radagastv1.7\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\Fanshawe\Radagast\Radagastv1.7\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\Fanshawe\Radagast\Radagastv1.7\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\Fanshawe\Radagast\Radagastv1.7\Radagastv1.6\SQL Promote\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\andyc\Desktop\Radagastv1.9\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\andyc\Desktop\Radagastv1.9\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\andyc\Desktop\Radagastv1.9\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Users\andyc\Desktop\Radagastv1.9\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Desktop\Radagastv1.9\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\andyc\Desktop\Radagastv1.9\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\andyc\Desktop\Radagastv2.0-20210217T180551Z-001\Radagastv2.0\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\andyc\Desktop\Radagastv2.0-20210217T180551Z-001\Radagastv2.0\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\andyc\Desktop\Radagastv2.0-20210217T180551Z-001\Radagastv2.0\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Users\andyc\Desktop\Radagastv2.0-20210217T180551Z-001\Radagastv2.0\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Desktop\Radagastv2.0-20210217T180551Z-001\Radagastv2.0\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\andyc\Desktop\Radagastv2.0-20210217T180551Z-001\Radagastv2.0\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.07\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.07\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.07\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.07\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.07\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.07\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\andyc\Desktop\Radagastv2.08\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\andyc\Desktop\Radagastv2.08\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\andyc\Desktop\Radagastv2.08\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Users\andyc\Desktop\Radagastv2.08\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Desktop\Radagastv2.08\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\andyc\Desktop\Radagastv2.08\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.09\Radagastv2.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.09\Radagastv2.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.09\Radagastv2.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Fanshawe\CAP STONE\Radagastv2.09\Radagastv2.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagastv2.09\Radagastv2.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.09\Radagastv2.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\andyc\Desktop\Radagastv2.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\andyc\Desktop\Radagastv2.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\andyc\Desktop\Radagastv2.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Desktop\Radagastv2.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\andyc\Desktop\Radagastv2.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.13\Radagastv2.13\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.13\Radagastv2.13\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.13\Radagastv2.13\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Fanshawe\CAP STONE\Radagastv2.13\Radagastv2.13\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagastv2.13\Radagastv2.13\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.13\Radagastv2.13\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.14\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.14\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.14\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Fanshawe\CAP STONE\Radagastv2.14\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagastv2.14\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.14\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.15\Radagastv2.15\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.15\Radagastv2.15\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.15\Radagastv2.15\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagastv2.15\Radagastv2.15\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.15\Radagastv2.15\Radagastv2.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.18\Radagastv2.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.18\Radagastv2.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.18\Radagastv2.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.18\Radagastv2.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.18\Radagastv2.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.18\Radagastv2.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.20\Radagastv2.19\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.20\Radagastv2.19\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.20\Radagastv2.19\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.20\Radagastv2.19\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.20\Radagastv2.19\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.20\Radagastv2.19\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.22\Radagastv2.22\Radagastv2.22\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.22\Radagastv2.22\Radagastv2.22\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.22\Radagastv2.22\Radagastv2.22\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Fanshawe\CAP STONE\Radagastv2.22\Radagastv2.22\Radagastv2.22\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagastv2.22\Radagastv2.22\Radagastv2.22\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.22\Radagastv2.22\Radagastv2.22\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.26\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.26\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagastv2.26\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Fanshawe\CAP STONE\Radagastv2.26\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagastv2.26\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagastv2.26\Radagastv2.24\Radagastv2.24\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.28F\Radagastv2.28F\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.28F\Radagastv2.28F\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv2.28F\Radagastv2.28F\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.28F\Radagastv2.28F\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagastv2.28F\Radagastv2.28F\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv2.28F\Radagastv2.28F\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\Fanshawe\Radagast\Sprint3\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\Fanshawe\Radagast\Sprint3\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\Fanshawe\Radagast\Sprint3\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\Fanshawe\Radagast\Sprint3\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\Fanshawe\Radagast\Sprint3\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\Fanshawe\Radagast\Sprint3\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagastv3.0\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv3.0\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagastv3.0\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagastv3.0\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagastv3.0\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagastv3.0\Radagastv3.0\Radagastv3.30\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.01\Radagast_v3.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.01\Radagast_v3.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.01\Radagast_v3.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagast_v3.01\Radagast_v3.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.01\Radagast_v3.01\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.02\Radagast_v3.02\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.02\Radagast_v3.02\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.02\Radagast_v3.02\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.02\Radagast_v3.02\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.02\Radagast_v3.02\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.02\Radagast_v3.02\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.03\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.03\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.03\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Fanshawe\CAP STONE\Radagast_v3.03\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagast_v3.03\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.03\Radagast_v3.03\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.04\Radagast_v3.04\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.04\Radagast_v3.04\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.04\Radagast_v3.04\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.04\Radagast_v3.04\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.04\Radagast_v3.04\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.04\Radagast_v3.04\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.08\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.08\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.08\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagast_v3.08\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.08\Radagast_v3.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.09\Radagast_v3.09\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.09\Radagast_v3.09\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.09\Radagast_v3.09\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.09\Radagast_v3.09\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.09\Radagast_v3.09\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.09\Radagast_v3.09\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.10\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.10\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.10\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagast_v3.10\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.10\Radagast_v3.09\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.12\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.12\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.12\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.12\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.12\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.12\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.13\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.13\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.13\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Fanshawe\CAP STONE\Radagast_v3.13\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagast_v3.13\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.13\Radagast_v3.12\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.14\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.14\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.14\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.14\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.14\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.14\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.15\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.15\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v3.15\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Fanshawe\CAP STONE\Radagast_v3.15\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagast_v3.15\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v3.15\Radagast_v3.14\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.18\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.18\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v3.18\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.18\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagast_v3.18\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v3.18\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v4.00\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v4.00\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v4.00\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Fanshawe\CAP STONE\Radagast_v4.00\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagast_v4.00\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v4.00\Radagast_v3.18\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v4.02\Radagast_v4.02\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v4.02\Radagast_v4.02\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v4.02\Radagast_v4.02\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagast_v4.02\Radagast_v4.02\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagast_v4.02\Radagast_v4.02\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v4.02\Radagast_v4.02\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Taylor\Desktop\Radagast_v4.04\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Taylor\Desktop\Radagast_v4.04\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Users\Taylor\Desktop\Radagast_v4.04\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Users\Taylor\Desktop\Radagast_v4.04\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\Radagast_v4.04\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Users\Taylor\Desktop\Radagast_v4.04\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v4.05\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v4.05\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+C:\Fanshawe\CAP STONE\Radagast_v4.05\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+C:\Fanshawe\CAP STONE\Radagast_v4.05\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Fanshawe\CAP STONE\Radagast_v4.05\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+C:\Fanshawe\CAP STONE\Radagast_v4.05\Radagast_v4.04\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v4.06\Radagast_v4.06\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v4.06\Radagast_v4.06\Main Project Code\SITG_DATA_ACCESS_LIBRARY\bin\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
+D:\FanshaweCourses\COMP6036\Radagast_v4.06\Radagast_v4.06\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csprojAssemblyReference.cache
+D:\FanshaweCourses\COMP6036\Radagast_v4.06\Radagast_v4.06\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\COMP6036\Radagast_v4.06\Radagast_v4.06\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.dll
+D:\FanshaweCourses\COMP6036\Radagast_v4.06\Radagast_v4.06\Main Project Code\SITG_DATA_ACCESS_LIBRARY\obj\Debug\SITG_DATA_ACCESS_LIBRARY.pdb
