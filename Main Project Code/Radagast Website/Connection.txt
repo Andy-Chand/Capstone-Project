@@ -1,1 +1,0 @@
-Server=DESKTOP-4JFGJ6D\SHEWCHUK;Database=DB_Radagast;Trusted_Connection=Yes;
