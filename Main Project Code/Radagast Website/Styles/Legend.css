@@ -1,0 +1,84 @@
+
+.Legend{
+	border: 1px solid #787878;
+	padding: 0 0 0 7%;
+	margin-top: 1;
+	height: 470px;
+}
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px 0 0 0 ;
+}
+
+/* Clear floats after the columns */
+.row:after,
+.row:before{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+p.L {
+		font-size: 12px;
+		padding: 0 0 0 0;
+		width: 70%;
+}
+
+p.LTitle {
+			font-size: 1.2 em;
+			text-align: center;
+			text-decoration: underline;
+			
+			color: #787878;
+		font-weight: 400;
+		line-height: 1em;
+		margin: 1em 0 1em 0;
+		  text-shadow: 2px 2px 5px #EFF1EC;
+}
+
+dt {
+width: 10%;
+height: 15px;
+display: inline-block;
+overflow: hidden;
+border: 1px solid #000;
+
+}
+.CentralMW {background-color: #00ff00; color: #00ff00; }
+.DryMW {background-color: #bcf51c; color: #bcf51c; }
+.NorthernMW {background-color: #297f00; color: #297f00; }
+.BorealSub {background-color: #acd8b9; color: #acd8b9; }
+.PeaceAthabasc {background-color: #cfe6fe; color: #cfe6fe; }
+.LowerBoreal {background-color: #82d322; color: #82d322; }
+.UpperBoreal {background-color: #efffc9; color: #efffc9; }
+.AthabascP {background-color: #acd8b9; color: #acd8b9; }
+
+.Alpine {background-color: #e8beff; color: #e8beff; }
+.Subalpine {background-color: #c500ff; color: #c500ff; }
+.Montane {background-color: #4c0073; color: #4c0073; }
+
+.UpperFoot {background-color: #73dfff; color: #73dfff; }
+.LowerFoot {background-color: #00aab3; color: #00aab3; }
+
+.Kazan {background-color: #ffbee8; color: #ffbee8; }
+
+.Foothills {background-color: #704f00; color: #704f00; }
+.PeaceRiver {background-color: #522000; color: #522000; }
+.CentralPark {background-color: #ffaa00; color: #ffaa00; }
+
+.DryMixed {background-color: #ffffe0; color: #ffffe0; }
+.FootFescue {background-color: #ffdbcc; color: #ffdbcc; }
+.NorthFescue {background-color: #fff9a6; color: #fff9a6; }
+.MixGrass {background-color: #ffff00; color: #ffff00; }
+
+
+
+dd {
+display: inline-block;
+font-size: 12px;
+width: 70%;
+/*width: 15em;*/
+margin: 0 1.5em 0 0.5em;
+}

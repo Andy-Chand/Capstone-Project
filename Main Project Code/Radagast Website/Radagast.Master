@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Radagast.master.cs" Inherits="Radagast_Website.Radagast" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+	<!--<link rel="stylesheet" href ="Styles/fontawesome-all.min.css">-->
+	<link rel="stylesheet" href ="Styles/main.css">
+		<link rel="stylesheet" href ="Styles/Legend.css">
+
+    <title>Radagast</title>
+    <asp:ContentPlaceHolder ID="head" runat="server" ClientIDMode="Static">
+    </asp:ContentPlaceHolder>
+</head>
+	   
+
+<body class="is-preload">
+	<form id="form1" runat="server">
+        <div>
+			
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" ClientIDMode="Static">
+			
+                <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePageMethods="true"></asp:ScriptManager>
+            	<script src="Styles/js/jquery.min.js"></script>
+				<script src="Styles/js/jquery.poptrox.min.js"></script>
+				<script src="Styles/js/browser.min.js"></script>
+				<script src="Styles/js/breakpoints.min.js"></script>
+				<script src="Styles/js/util.js"></script>
+				<script src="Styles/js/main.js"></script>
+
+			</asp:ContentPlaceHolder>
+				
+        </div>
+    </form>
+
+		<header id="header">
+			<div class="inner">
+				<img src="Styles/Picture-Me.png" alt="Radagast The Brown">
+				<h2><b>RARE	ANIMAL SIGHTINGS & AIR QUALITY IN NORTH-EAST ALBERTA</b></h2>
+				<p></p>
+				<asp:HyperLink
+					ID="HyperLink3"
+					runat="server"
+					Text="Home"
+					NavigateUrl="~/MainPage.aspx">
+				</asp:HyperLink><br />
+				<asp:HyperLink
+					ID="HyperLink1"
+					runat="server"
+					Text="Alberta Map"
+					NavigateUrl="~/MapPage.aspx">
+				</asp:HyperLink>
+			</div>
+		</header>
+
+	</body>
+</html>
