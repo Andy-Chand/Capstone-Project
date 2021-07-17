@@ -1175,7 +1175,7 @@ namespace DatabaseAccessClass
                 string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
                 List<String> ConnectionStrings = new List<string>();
-                ConnectionStrings.Add(@"Server=DESKTOP-IU04KMD;Database=DB_Radagast;Trusted_Connection=Yes;");
+                ConnectionStrings.Add(@"");
                 File.WriteAllLines(path, ConnectionStrings.ToArray());
                 BuildDatabase();
             }
@@ -1185,7 +1185,7 @@ namespace DatabaseAccessClass
                 string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
                 List<String> ConnectionStrings = new List<string>();
-                ConnectionStrings.Add(@"Server=DESKTOP-4JFGJ6D\SHEWCHUK;Database=DB_Radagast;Trusted_Connection=Yes;");
+                ConnectionStrings.Add(@"");
                 File.WriteAllLines(path, ConnectionStrings.ToArray());
                 BuildDatabase();
             }
@@ -1195,7 +1195,7 @@ namespace DatabaseAccessClass
                 string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
                 List<String> ConnectionStrings = new List<string>();
-                ConnectionStrings.Add(@"Server=ZUKO\SICK36;Database=DB_Radagast;Trusted_Connection=Yes;");
+                ConnectionStrings.Add(@"");
                 File.WriteAllLines(path, ConnectionStrings.ToArray());
                 BuildDatabase();
             }
@@ -1205,7 +1205,7 @@ namespace DatabaseAccessClass
                 string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
                 List<String> ConnectionStrings = new List<string>();
-                ConnectionStrings.Add(@"Server=THECONTROLSTATI\CHAND;Database=DB_Radagast;Trusted_Connection=Yes;");
+                ConnectionStrings.Add(@"");
                 File.WriteAllLines(path, ConnectionStrings.ToArray());
                 BuildDatabase();
             }
@@ -1215,7 +1215,7 @@ namespace DatabaseAccessClass
                 string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
                 List<String> ConnectionStrings = new List<string>();
-                ConnectionStrings.Add(@"Server=MSI\VICKERS;Database=DB_Radagast;Trusted_Connection=Yes;");
+                ConnectionStrings.Add(@"");
                 File.WriteAllLines(path, ConnectionStrings.ToArray());
                 BuildDatabase();
             }
@@ -1235,7 +1235,7 @@ namespace DatabaseAccessClass
                 string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
                 List<String> ConnectionStrings = new List<string>();
-                ConnectionStrings.Add(@"Server=DESKTOP-IU04KMD\GREENE_001;Database=DB_Radagast;Trusted_Connection=Yes;");
+                ConnectionStrings.Add(@"");
                 File.WriteAllLines(path, ConnectionStrings.ToArray());
             }
             else if (i == 2)
@@ -1244,7 +1244,7 @@ namespace DatabaseAccessClass
                 string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
                 List<String> ConnectionStrings = new List<string>();
-                ConnectionStrings.Add(@"Server=DESKTOP-4JFGJ6D\SHEWCHUK;Database=DB_Radagast;Trusted_Connection=Yes;");
+                ConnectionStrings.Add(@"");
                 File.WriteAllLines(path, ConnectionStrings.ToArray());
             }
             else if (i == 3)
@@ -1253,7 +1253,7 @@ namespace DatabaseAccessClass
                 string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
                 List<String> ConnectionStrings = new List<string>();
-                ConnectionStrings.Add(@"Server=ZUKO\SICK36;Database=DB_Radagast;Trusted_Connection=Yes;");
+                ConnectionStrings.Add(@"");
                 File.WriteAllLines(path, ConnectionStrings.ToArray());
             }
             else if (i == 4)
@@ -1262,7 +1262,7 @@ namespace DatabaseAccessClass
                 string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
                 List<String> ConnectionStrings = new List<string>();
-                ConnectionStrings.Add(@"Server=THECONTROLSTATI\CHAND;Database=DB_Radagast;Trusted_Connection=Yes;");
+                ConnectionStrings.Add(@"");
                 File.WriteAllLines(path, ConnectionStrings.ToArray());
             }
             else if (i == 5)
@@ -1271,7 +1271,7 @@ namespace DatabaseAccessClass
                 string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
 
                 List<String> ConnectionStrings = new List<string>();
-                ConnectionStrings.Add(@"Server=MSI\VICKERS;Database=DB_Radagast;Trusted_Connection=Yes;");
+                ConnectionStrings.Add(@"");
                 File.WriteAllLines(path, ConnectionStrings.ToArray());
             }
         }
